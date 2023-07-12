@@ -1,0 +1,1 @@
+./Satsuma -q samples/human.X.part.short.fasta -t samples/dog.X.part.short.fasta -o xcorr_sample

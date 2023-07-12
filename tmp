@@ -1,0 +1,4844 @@
+Executing ./ScaffoldBySynteny
+Executing: ./FilterGridSeeds -t samples/human.X.part.fasta -q samples/dog.X.part.broken.fasta -o test_out/xcorr_first/filterseeds.dat
+Adding target.
+Counting k-mers...
+Contigs: 0done, re-sizing arrays...
+done, assigning k-mers...
+Contigs: 0done
+>chrX:0-1000000
+Executing: ./ChainMatches -i test_out/xcorr_first/filterseeds.dat -o test_out/xcorr_first/filterseeds_chained.dat
+File version 3
+Done loading.
+Total matches: 2398
+Matches before collapse: 2398
+Matches after collapse:  640
+Chaining (inline)...
+Filling out repeat lists...
+Dynprog'ing...
+Sorting...
+# of matches: 640
+Processed: 0
+Saving result...
+Executing: ./MergeXCorrMatches -t samples/human.X.part.fasta -q samples/dog.X.part.broken.fasta -i test_out/xcorr_first/filterseeds_chained.dat -o test_out/xcorr_first/satsuma_summary.chained.out
+File version 3
+Done loading.
+Filtering.
+Matches before filtering: 437
+       after filtering:  437
+Sorting...
+Number of matches: 437
+Covered by at least one alignment: 13714 (1.3714 %)
+Query chrX_part1 [507-532] vs target chrX:0-1000000 [1873-1898] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGAATGCCTCTGGAATGCACTGGAA
+|||||||||||||||||||||||||
+TGAATGCCTCTGGAATGCACTGGAA
+
+TGAATGCCTCTGGAATGCACTGGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [6839-6863] vs target chrX:0-1000000 [10512-10536] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCCAATGGAGCCCAGCATTTGAAG
+||||||||||||||||||||||||
+TCCAATGGAGCCCAGCATTTGAAG
+
+TCCAATGGAGCCCAGCATTTGAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [7366-7395] vs target chrX:0-1000000 [10844-10873] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTTGACATTCTCTAAATCCCACTCCCC
+|||||||||||||||||||||||||||||
+TGCTTGACATTCTCTAAATCCCACTCCCC
+
+TGCTTGACATTCTCTAAATCCCACTCCCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [8757-8782] vs target chrX:0-1000000 [11666-11691] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATACAATGGAATATTATTCAGCCAT
+|||||||||||||||||||||||||
+ATACAATGGAATATTATTCAGCCAT
+
+ATACAATGGAATATTATTCAGCCAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [15956-15982] vs target chrX:0-1000000 [25188-25214] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGCCTCCAACCTTGAGAAGCTCGGG
+||||||||||||||||||||||||||
+AAGCCTCCAACCTTGAGAAGCTCGGG
+
+AAGCCTCCAACCTTGAGAAGCTCGGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [17090-17136] vs target chrX:0-1000000 [26331-26377] + length 46 check 46
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTGACTCACAGGGTCATGCTTGGAAAATTAATTCAAATTGGCTTG
+||||||||||||||||||||||||||||||||||||||||||||||
+AGTGACTCACAGGGTCATGCTTGGAAAATTAATTCAAATTGGCTTG
+
+AGTGACTCACAGGGTCATGCTTGGAAAATTAATTCAAATTGGCTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [17136-17179] vs target chrX:0-1000000 [26376-26419] + length 43 check 43
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCATCAAGCCAAGGAAAACTGTCTGAAGAGGCTGTAAACAGAA
+|||||||||||||||||||||||||||||||||||||||||||
+GCATCAAGCCAAGGAAAACTGTCTGAAGAGGCTGTAAACAGAA
+
+GCATCAAGCCAAGGAAAACTGTCTGAAGAGGCTGTAAACAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [19738-19769] vs target chrX:0-1000000 [30135-30166] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACATTAACTTTGATCACTTGATTAAAGTGTT
+|||||||||||||||||||||||||||||||
+ACATTAACTTTGATCACTTGATTAAAGTGTT
+
+ACATTAACTTTGATCACTTGATTAAAGTGTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [32161-32187] vs target chrX:0-1000000 [46382-46408] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAACAGGAAAATGAGCAAAGCATATG
+||||||||||||||||||||||||||
+CAACAGGAAAATGAGCAAAGCATATG
+
+CAACAGGAAAATGAGCAAAGCATATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [32292-32323] vs target chrX:0-1000000 [46520-46551] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATAGGATACACACATGTCAGATTGGCAAAAA
+|||||||||||||||||||||||||||||||
+ATAGGATACACACATGTCAGATTGGCAAAAA
+
+ATAGGATACACACATGTCAGATTGGCAAAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [34770-34796] vs target chrX:0-1000000 [49743-49769] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACCAAGGCCAGAGGGAAAAGGGGAGT
+||||||||||||||||||||||||||
+ACCAAGGCCAGAGGGAAAAGGGGAGT
+
+ACCAAGGCCAGAGGGAAAAGGGGAGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [37830-37857] vs target chrX:0-1000000 [54584-54611] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGACCTTGAGCCAGCTCCTGGCCCTC
+|||||||||||||||||||||||||||
+GTGACCTTGAGCCAGCTCCTGGCCCTC
+
+GTGACCTTGAGCCAGCTCCTGGCCCTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [39360-39384] vs target chrX:0-1000000 [57523-57547] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAACTGTTAAGGAACAAAATGCAA
+||||||||||||||||||||||||
+AAACTGTTAAGGAACAAAATGCAA
+
+AAACTGTTAAGGAACAAAATGCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [49101-49136] vs target chrX:0-1000000 [75036-75071] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCGCCGGCCGCGCGCGGATCAGCCATTTTAGCGAG
+|||||||||||||||||||||||||||||||||||
+GCGCCGGCCGCGCGCGGATCAGCCATTTTAGCGAG
+
+GCGCCGGCCGCGCGCGGATCAGCCATTTTAGCGAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [49214-49239] vs target chrX:0-1000000 [75152-75177] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCGCCGCCGCCCCCGGCCCCGCGCG
+|||||||||||||||||||||||||
+CCGCCGCCGCCCCCGGCCCCGCGCG
+
+CCGCCGCCGCCCCCGGCCCCGCGCG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [49291-49318] vs target chrX:0-1000000 [75229-75256] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTTTTGACAAAATGGAAGGTGAATTA
+|||||||||||||||||||||||||||
+GCTTTTGACAAAATGGAAGGTGAATTA
+
+GCTTTTGACAAAATGGAAGGTGAATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [49464-49542] vs target chrX:0-1000000 [75405-75483] + length 78 check 78
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAGTTTTACATGATGACCTTGGGTGTGGGAAAAGGAAAAGATGGCGGGAAGCTGGGGGGTGGGACAGGGACGATGACA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TAGTTTTACATGATGACCTTGGGTGTGGGAAAAGGAAAAGATGGCGGGAAGCTGGGGGGTGGGACAGGGACGATGACA
+
+TAGTTTTACATGATGACCTTGGGTGTGGGAAAAGGAAAAGATGGCGGGAAGCTGGGGGGTGGGACAGGGACGATGACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [49547-49582] vs target chrX:0-1000000 [75488-75523] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGCTGCATTTTTATTTGGAAACTTTGGAGAAAGT
+|||||||||||||||||||||||||||||||||||
+CAGCTGCATTTTTATTTGGAAACTTTGGAGAAAGT
+
+CAGCTGCATTTTTATTTGGAAACTTTGGAGAAAGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50059-50088] vs target chrX:0-1000000 [75979-76008] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGAAGTAACTCGCAAACCAGCGCGCTTC
+|||||||||||||||||||||||||||||
+GAGAAGTAACTCGCAAACCAGCGCGCTTC
+
+GAGAAGTAACTCGCAAACCAGCGCGCTTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50089-50119] vs target chrX:0-1000000 [76009-76039] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTGGTCAAAAGTTAAATGACAAGCGACA
+||||||||||||||||||||||||||||||
+TGCTGGTCAAAAGTTAAATGACAAGCGACA
+
+TGCTGGTCAAAAGTTAAATGACAAGCGACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50292-50318] vs target chrX:0-1000000 [76210-76236] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCACAGTCAGGATGGCTAAAGGTGA
+||||||||||||||||||||||||||
+ATCACAGTCAGGATGGCTAAAGGTGA
+
+ATCACAGTCAGGATGGCTAAAGGTGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50319-50345] vs target chrX:0-1000000 [76237-76263] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCAAGAAACCAAAGGGCAAGATGTC
+||||||||||||||||||||||||||
+CCCAAGAAACCAAAGGGCAAGATGTC
+
+CCCAAGAAACCAAAGGGCAAGATGTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50424-50457] vs target chrX:0-1000000 [76342-76375] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTCCAAGAAGTGCTCTGAGAGGTGGAAGGTA
+|||||||||||||||||||||||||||||||||
+TTTTCCAAGAAGTGCTCTGAGAGGTGGAAGGTA
+
+TTTTCCAAGAAGTGCTCTGAGAGGTGGAAGGTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50711-50758] vs target chrX:0-1000000 [76715-76762] + length 47 check 47
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGGCAGATAAAGTGCGCTATGATCGGGAAATGAAGGATTATGGACC
+|||||||||||||||||||||||||||||||||||||||||||||||
+AAGGCAGATAAAGTGCGCTATGATCGGGAAATGAAGGATTATGGACC
+
+AAGGCAGATAAAGTGCGCTATGATCGGGAAATGAAGGATTATGGACC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [50759-50785] vs target chrX:0-1000000 [76763-76789] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTAAGGGAGGCAAGAAGAAGAAGGA
+||||||||||||||||||||||||||
+GCTAAGGGAGGCAAGAAGAAGAAGGA
+
+GCTAAGGGAGGCAAGAAGAAGAAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [51446-51472] vs target chrX:0-1000000 [77901-77927] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGCTGAAGGAGAAGTATGAGAAGGT
+||||||||||||||||||||||||||
+AAGCTGAAGGAGAAGTATGAGAAGGT
+
+AAGCTGAAGGAGAAGTATGAGAAGGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [51954-51983] vs target chrX:0-1000000 [78450-78479] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTAAAGTTGCCCGGAAAAAGGTGGAAGA
+|||||||||||||||||||||||||||||
+GCTAAAGTTGCCCGGAAAAAGGTGGAAGA
+
+GCTAAAGTTGCCCGGAAAAAGGTGGAAGA AMB
+-------------------------------------------------------------------------------
+
+Found overlapping matches, merging 2 blocks (27 -> 29)
+Query chrX_part1 [52002-52045] vs target chrX:0-1000000 [78498-78538] + length 40 check 40
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGGAAGAAGAGGAGGAGGAGGAGGAGGAGGAGGATGAATAAA
+||||||||||||||||||||||||||||||||   ||||||||
+GAGGAAGAAGAGGAGGAGGAGGAGGAGGAGGA---TGAATAAA
+
+GAGGAAGAAGAGGAGGAGGAGGAGGAGGAGGA---TGAATAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52199-52232] vs target chrX:0-1000000 [78692-78725] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTCAGTGGTTTACATGAAGTGGCCATGGGTGTC
+|||||||||||||||||||||||||||||||||
+GTCAGTGGTTTACATGAAGTGGCCATGGGTGTC
+
+GTCAGTGGTTTACATGAAGTGGCCATGGGTGTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52233-52275] vs target chrX:0-1000000 [78726-78768] + length 42 check 42
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAGCACCCTGAAACTGTATCAAAGTTGTACATATTTCCAAA
+||||||||||||||||||||||||||||||||||||||||||
+GGAGCACCCTGAAACTGTATCAAAGTTGTACATATTTCCAAA
+
+GGAGCACCCTGAAACTGTATCAAAGTTGTACATATTTCCAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52296-52369] vs target chrX:0-1000000 [78789-78862] + length 73 check 73
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCTCGTGTTCTCCTCACTCTGTGCACTTTGCTGTTGGTGTGACAAGGCATTTAAAGATGTTTCTGGCATTTT
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCTCGTGTTCTCCTCACTCTGTGCACTTTGCTGTTGGTGTGACAAGGCATTTAAAGATGTTTCTGGCATTTT
+
+CTCTCGTGTTCTCCTCACTCTGTGCACTTTGCTGTTGGTGTGACAAGGCATTTAAAGATGTTTCTGGCATTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52410-52438] vs target chrX:0-1000000 [78888-78916] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATGGTTATTGGCTAGAAATCCTGAGTT
+||||||||||||||||||||||||||||
+TATGGTTATTGGCTAGAAATCCTGAGTT
+
+TATGGTTATTGGCTAGAAATCCTGAGTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52539-52568] vs target chrX:0-1000000 [78987-79016] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCGTTGAGGCTGTGGGGAAGATGCCTTT
+|||||||||||||||||||||||||||||
+GGCGTTGAGGCTGTGGGGAAGATGCCTTT
+
+GGCGTTGAGGCTGTGGGGAAGATGCCTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52574-52613] vs target chrX:0-1000000 [79023-79062] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCTGTAGCTCAGGGCGTGCACTGTGAGGCTGGACCTGT
+|||||||||||||||||||||||||||||||||||||||
+GGCTGTAGCTCAGGGCGTGCACTGTGAGGCTGGACCTGT
+
+GGCTGTAGCTCAGGGCGTGCACTGTGAGGCTGGACCTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52625-52671] vs target chrX:0-1000000 [79074-79120] + length 46 check 46
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGGCATCCATTTAGCTTCAGGTTGTCTTGTTTCTGTATATAGTGAC
+||||||||||||||||||||||||||||||||||||||||||||||
+GGGCATCCATTTAGCTTCAGGTTGTCTTGTTTCTGTATATAGTGAC
+
+GGGCATCCATTTAGCTTCAGGTTGTCTTGTTTCTGTATATAGTGAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52760-52788] vs target chrX:0-1000000 [79202-79230] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTAAACTGTTTGTTTTTAAACAAACT
+||||||||||||||||||||||||||||
+TTTTAAACTGTTTGTTTTTAAACAAACT
+
+TTTTAAACTGTTTGTTTTTAAACAAACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52789-52814] vs target chrX:0-1000000 [79231-79256] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAGAACTCTTCATTGTCAGCAAAGC
+|||||||||||||||||||||||||
+TAGAACTCTTCATTGTCAGCAAAGC
+
+TAGAACTCTTCATTGTCAGCAAAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52821-52849] vs target chrX:0-1000000 [79263-79291] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACTGCATCAATGAAAGTTCAAGAACCT
+||||||||||||||||||||||||||||
+CACTGCATCAATGAAAGTTCAAGAACCT
+
+CACTGCATCAATGAAAGTTCAAGAACCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [52868-52951] vs target chrX:0-1000000 [79311-79394] + length 83 check 83
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAACGTTCTGTTATTTTTTTTGTATGTTTAGAATGCTGAAATGTTTTTGAAGTTAAATAAACAGTATTACATTTTTAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCAACGTTCTGTTATTTTTTTTGTATGTTTAGAATGCTGAAATGTTTTTGAAGTTAAATAAACAGTATTACATTTTTAAA
+
+GCAACGTTCTGTTATTTTTTTTGTATGTTTAGAATGCTGAAATGTTTTTGAAGTTAAATAAACAGTATTACATTTTTAAA AMB
+-------------------------------------------------------------------------------
+
+ACT
+|||
+ACT
+
+ACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [54282-54308] vs target chrX:0-1000000 [80621-80647] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGAGGTTTGCCCAGAGGCACTTGTTC
+||||||||||||||||||||||||||
+TGAGGTTTGCCCAGAGGCACTTGTTC
+
+TGAGGTTTGCCCAGAGGCACTTGTTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [54820-54844] vs target chrX:0-1000000 [81259-81283] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAAAGAACAAGGCTGTGATGTAG
+||||||||||||||||||||||||
+GGAAAGAACAAGGCTGTGATGTAG
+
+GGAAAGAACAAGGCTGTGATGTAG AMB
+-------------------------------------------------------------------------------
+
+Found overlapping matches, merging 2 blocks (42 -> 44)
+Query chrX_part1 [54846-54900] vs target chrX:0-1000000 [81285-81341] + length 56 check 56
+Identity (w/ indel count): 96.4286 %
+-------------------------------------------------------------------------------
+
+ACTATTGTCTGTGTCTCCTGTGTGT--CTGTTCTTGTCACAAATGTATTTGGGGAC
+|||||||||||||||||||||||||  |||||||||||||||||||||||||||||
+ACTATTGTCTGTGTCTCCTGTGTGTGTCTGTTCTTGTCACAAATGTATTTGGGGAC
+
+ACTATTGTCTGTGTCTCCTGTGTGTGTCTGTTCTTGTCACAAATGTATTTGGGGAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [54901-54940] vs target chrX:0-1000000 [81342-81381] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGGATGCATTCATTTTCTGTAATAAAGTTTCTTAATCA
+|||||||||||||||||||||||||||||||||||||||
+TTGGATGCATTCATTTTCTGTAATAAAGTTTCTTAATCA
+
+TTGGATGCATTCATTTTCTGTAATAAAGTTTCTTAATCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [54941-54973] vs target chrX:0-1000000 [81382-81414] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTTCCCAAAAAGTAATCAGTGGGCTGTCTGC
+||||||||||||||||||||||||||||||||
+TCTTCCCAAAAAGTAATCAGTGGGCTGTCTGC
+
+TCTTCCCAAAAAGTAATCAGTGGGCTGTCTGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [55232-55260] vs target chrX:0-1000000 [81677-81705] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGGTACTTGTAATCAGCCAGCCCTGCC
+||||||||||||||||||||||||||||
+TGGGTACTTGTAATCAGCCAGCCCTGCC
+
+TGGGTACTTGTAATCAGCCAGCCCTGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [56510-56536] vs target chrX:0-1000000 [87707-87733] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATAGTCAGTTCCCAAATCCTGCCAA
+||||||||||||||||||||||||||
+CATAGTCAGTTCCCAAATCCTGCCAA
+
+CATAGTCAGTTCCCAAATCCTGCCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [56641-56666] vs target chrX:0-1000000 [88248-88273] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTAGAACTTGCATTTTCAGGCTTTT
+|||||||||||||||||||||||||
+CTAGAACTTGCATTTTCAGGCTTTT
+
+CTAGAACTTGCATTTTCAGGCTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [57943-57970] vs target chrX:0-1000000 [91421-91448] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTTGTAACTTGGAATCACAGACCATT
+|||||||||||||||||||||||||||
+GTTTGTAACTTGGAATCACAGACCATT
+
+GTTTGTAACTTGGAATCACAGACCATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58113-58145] vs target chrX:0-1000000 [91599-91631] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGTCAGAGCTAGAAATTTCCCTGGAGGGAAA
+||||||||||||||||||||||||||||||||
+GTGTCAGAGCTAGAAATTTCCCTGGAGGGAAA
+
+GTGTCAGAGCTAGAAATTTCCCTGGAGGGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58328-58358] vs target chrX:0-1000000 [91807-91837] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGTTCCAGGCCTGTGGTGGGTTTTTGTTT
+||||||||||||||||||||||||||||||
+TTGTTCCAGGCCTGTGGTGGGTTTTTGTTT
+
+TTGTTCCAGGCCTGTGGTGGGTTTTTGTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58426-58479] vs target chrX:0-1000000 [91905-91958] + length 53 check 53
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATTGCAAGATGTGTAGAACATATGATGCTTTTGTCCTCTGTCCAAACCCTCA
+|||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATTGCAAGATGTGTAGAACATATGATGCTTTTGTCCTCTGTCCAAACCCTCA
+
+CATTGCAAGATGTGTAGAACATATGATGCTTTTGTCCTCTGTCCAAACCCTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58482-58511] vs target chrX:0-1000000 [91961-91990] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTTACATGAAAAAGGGCTGATATTTCAG
+|||||||||||||||||||||||||||||
+GTTTACATGAAAAAGGGCTGATATTTCAG
+
+GTTTACATGAAAAAGGGCTGATATTTCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58512-58555] vs target chrX:0-1000000 [91991-92034] + length 43 check 43
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATGAAACATTAGCAGAAGGCTGAAATATGTCACTTAAAAATA
+|||||||||||||||||||||||||||||||||||||||||||
+GATGAAACATTAGCAGAAGGCTGAAATATGTCACTTAAAAATA
+
+GATGAAACATTAGCAGAAGGCTGAAATATGTCACTTAAAAATA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58595-58620] vs target chrX:0-1000000 [92391-92416] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGCTTTTAACTTCTATATCAAGAA
+|||||||||||||||||||||||||
+CTGCTTTTAACTTCTATATCAAGAA
+
+CTGCTTTTAACTTCTATATCAAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58670-58695] vs target chrX:0-1000000 [92465-92490] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCATAATCCCCAAAGTTTCTACCT
+|||||||||||||||||||||||||
+AGCATAATCCCCAAAGTTTCTACCT
+
+AGCATAATCCCCAAAGTTTCTACCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [58710-58734] vs target chrX:0-1000000 [92505-92529] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGATCATCCTAAGACTAAGAGGCC
+||||||||||||||||||||||||
+AGATCATCCTAAGACTAAGAGGCC
+
+AGATCATCCTAAGACTAAGAGGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [59251-59294] vs target chrX:0-1000000 [93258-93301] + length 43 check 43
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAATTTATGCAGTGCCCCATTAGGGAAGTCTTCCTGGAGGAGG
+|||||||||||||||||||||||||||||||||||||||||||
+CAATTTATGCAGTGCCCCATTAGGGAAGTCTTCCTGGAGGAGG
+
+CAATTTATGCAGTGCCCCATTAGGGAAGTCTTCCTGGAGGAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [59793-59823] vs target chrX:0-1000000 [95000-95030] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTTTGGAACCTAATCTCAGAAGTGAAATC
+||||||||||||||||||||||||||||||
+TCTTTGGAACCTAATCTCAGAAGTGAAATC
+
+TCTTTGGAACCTAATCTCAGAAGTGAAATC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [60961-60985] vs target chrX:0-1000000 [98399-98423] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACCAGAATGGCTAAAATAAAAAA
+||||||||||||||||||||||||
+CACCAGAATGGCTAAAATAAAAAA
+
+CACCAGAATGGCTAAAATAAAAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [65882-65930] vs target chrX:0-1000000 [106694-106742] + length 48 check 48
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAAGGTCTTCTGCCCTGGTGACAGGTTAACCACAGTCACTTGAGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||
+GCAAGGTCTTCTGCCCTGGTGACAGGTTAACCACAGTCACTTGAGAAA
+
+GCAAGGTCTTCTGCCCTGGTGACAGGTTAACCACAGTCACTTGAGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [66051-66088] vs target chrX:0-1000000 [106861-106898] + length 37 check 37
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGTTTTACAAGCTTTGACCTTCAGCCAGTCCACTTG
+|||||||||||||||||||||||||||||||||||||
+CAGTTTTACAAGCTTTGACCTTCAGCCAGTCCACTTG
+
+CAGTTTTACAAGCTTTGACCTTCAGCCAGTCCACTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [82174-82200] vs target chrX:0-1000000 [128784-128810] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCACTGAGCTTCTATGTCCCCATCT
+||||||||||||||||||||||||||
+CTCACTGAGCTTCTATGTCCCCATCT
+
+CTCACTGAGCTTCTATGTCCCCATCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [90184-90208] vs target chrX:0-1000000 [136867-136891] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGATACTAGAGCCAGGCTGCTTG
+||||||||||||||||||||||||
+CAGATACTAGAGCCAGGCTGCTTG
+
+CAGATACTAGAGCCAGGCTGCTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [92572-92598] vs target chrX:0-1000000 [139890-139916] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTTAATGATTCTATATTCATTTTTT
+||||||||||||||||||||||||||
+AGTTAATGATTCTATATTCATTTTTT
+
+AGTTAATGATTCTATATTCATTTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [92721-92757] vs target chrX:0-1000000 [140032-140068] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGTTTTATTAAATCCATTCATCCACTCAGTCAACA
+||||||||||||||||||||||||||||||||||||
+TTGTTTTATTAAATCCATTCATCCACTCAGTCAACA
+
+TTGTTTTATTAAATCCATTCATCCACTCAGTCAACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [96749-96779] vs target chrX:0-1000000 [149847-149877] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCTGAAGGCTTTCTGGGTTCTGTGGAAAT
+||||||||||||||||||||||||||||||
+TTCTGAAGGCTTTCTGGGTTCTGTGGAAAT
+
+TTCTGAAGGCTTTCTGGGTTCTGTGGAAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [99883-99922] vs target chrX:0-1000000 [151330-151369] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCATCCTCTCCAACACTTGTCAGACTTCTTAATTTTTT
+|||||||||||||||||||||||||||||||||||||||
+CTCATCCTCTCCAACACTTGTCAGACTTCTTAATTTTTT
+
+CTCATCCTCTCCAACACTTGTCAGACTTCTTAATTTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [106325-106354] vs target chrX:0-1000000 [167773-167802] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAATTCTGCTTCTAGTAATTTATCCTCAG
+|||||||||||||||||||||||||||||
+CAATTCTGCTTCTAGTAATTTATCCTCAG
+
+CAATTCTGCTTCTAGTAATTTATCCTCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [108633-108662] vs target chrX:0-1000000 [169499-169528] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTAATATCAGTTTATAATTCAGCTAAATA
+|||||||||||||||||||||||||||||
+TTAATATCAGTTTATAATTCAGCTAAATA
+
+TTAATATCAGTTTATAATTCAGCTAAATA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [110407-110438] vs target chrX:0-1000000 [170837-170868] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGACACACACACCAAAGTGGGCTCAAGCCT
+|||||||||||||||||||||||||||||||
+AGGACACACACACCAAAGTGGGCTCAAGCCT
+
+AGGACACACACACCAAAGTGGGCTCAAGCCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [110441-110484] vs target chrX:0-1000000 [170871-170914] + length 43 check 43
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTTTAATAAGCTCAGAAGACAGTAAATCATGGTAATGAGAAA
+|||||||||||||||||||||||||||||||||||||||||||
+TCTTTAATAAGCTCAGAAGACAGTAAATCATGGTAATGAGAAA
+
+TCTTTAATAAGCTCAGAAGACAGTAAATCATGGTAATGAGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [110605-110632] vs target chrX:0-1000000 [171035-171062] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAATTGGATGATGTGTCAGACTGGTTG
+|||||||||||||||||||||||||||
+TAATTGGATGATGTGTCAGACTGGTTG
+
+TAATTGGATGATGTGTCAGACTGGTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [121920-121944] vs target chrX:0-1000000 [183019-183043] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGGATTTTTAATATAAAAAATAA
+||||||||||||||||||||||||
+ATGGATTTTTAATATAAAAAATAA
+
+ATGGATTTTTAATATAAAAAATAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [125668-125698] vs target chrX:0-1000000 [187880-187910] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTAGAGAAATGGAGATATATATCATGTTCA
+||||||||||||||||||||||||||||||
+CTAGAGAAATGGAGATATATATCATGTTCA
+
+CTAGAGAAATGGAGATATATATCATGTTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [125837-125862] vs target chrX:0-1000000 [188029-188054] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGAAATTTATATGGAAATGCAAAGG
+|||||||||||||||||||||||||
+TGAAATTTATATGGAAATGCAAAGG
+
+TGAAATTTATATGGAAATGCAAAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [128399-128426] vs target chrX:0-1000000 [189731-189758] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTAACCCAAGTTTACAGCTGAGGAAA
+|||||||||||||||||||||||||||
+ATTAACCCAAGTTTACAGCTGAGGAAA
+
+ATTAACCCAAGTTTACAGCTGAGGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [150170-150194] vs target chrX:0-1000000 [234867-234891] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACATAGTACTGGAAGTCCTAGCTA
+||||||||||||||||||||||||
+ACATAGTACTGGAAGTCCTAGCTA
+
+ACATAGTACTGGAAGTCCTAGCTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [135923-135952] vs target chrX:0-1000000 [241706-241735] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTAAAACTTCCCAGTTGTTCTTTGCTCA
+|||||||||||||||||||||||||||||
+TTTAAAACTTCCCAGTTGTTCTTTGCTCA
+
+TTTAAAACTTCCCAGTTGTTCTTTGCTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [138369-138396] vs target chrX:0-1000000 [243826-243853] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGCTGGCTGGAAACCAGTACTTTTCC
+|||||||||||||||||||||||||||
+GTGCTGGCTGGAAACCAGTACTTTTCC
+
+GTGCTGGCTGGAAACCAGTACTTTTCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [138465-138489] vs target chrX:0-1000000 [243929-243953] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACGCTGGGGGTGCTGTTGTTTAA
+||||||||||||||||||||||||
+CACGCTGGGGGTGCTGTTGTTTAA
+
+CACGCTGGGGGTGCTGTTGTTTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [138541-138565] vs target chrX:0-1000000 [244006-244030] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATGTAGATTGGGGGCTGTTCAAA
+||||||||||||||||||||||||
+GATGTAGATTGGGGGCTGTTCAAA
+
+GATGTAGATTGGGGGCTGTTCAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [139480-139505] vs target chrX:0-1000000 [244673-244698] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAAGATGATTTGGCTTGTTTGCAAG
+|||||||||||||||||||||||||
+TAAGATGATTTGGCTTGTTTGCAAG
+
+TAAGATGATTTGGCTTGTTTGCAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [145701-145747] vs target chrX:0-1000000 [253984-254030] + length 46 check 46
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTGTGATTCTTTTGCTAATCCTCTTTTTGACATAGCCCCAGGTA
+||||||||||||||||||||||||||||||||||||||||||||||
+TGCTGTGATTCTTTTGCTAATCCTCTTTTTGACATAGCCCCAGGTA
+
+TGCTGTGATTCTTTTGCTAATCCTCTTTTTGACATAGCCCCAGGTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [153391-153415] vs target chrX:0-1000000 [261215-261239] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAAGTCATGAGGATGATTAATAA
+||||||||||||||||||||||||
+AGAAGTCATGAGGATGATTAATAA
+
+AGAAGTCATGAGGATGATTAATAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [153470-153506] vs target chrX:0-1000000 [261294-261330] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAAATGGATATTGTTCATTAAGCTCTAATTAGCAG
+||||||||||||||||||||||||||||||||||||
+GAAAATGGATATTGTTCATTAAGCTCTAATTAGCAG
+
+GAAAATGGATATTGTTCATTAAGCTCTAATTAGCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [153507-153560] vs target chrX:0-1000000 [261331-261384] + length 53 check 53
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAAATTGTACAAGGGGAAGGGAGTCCAAGTGTTACTACAAGTAATTAATGTGC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||
+TAAATTGTACAAGGGGAAGGGAGTCCAAGTGTTACTACAAGTAATTAATGTGC
+
+TAAATTGTACAAGGGGAAGGGAGTCCAAGTGTTACTACAAGTAATTAATGTGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [153764-153789] vs target chrX:0-1000000 [261588-261613] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATTTGGAGAGGACAATCATTCTCT
+|||||||||||||||||||||||||
+GATTTGGAGAGGACAATCATTCTCT
+
+GATTTGGAGAGGACAATCATTCTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [156987-157012] vs target chrX:0-1000000 [265432-265457] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGTGAGATAATGAATGTGAAAAG
+|||||||||||||||||||||||||
+GCAGTGAGATAATGAATGTGAAAAG
+
+GCAGTGAGATAATGAATGTGAAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [158684-158733] vs target chrX:0-1000000 [267165-267214] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTCTTGAGGCTTTAAAAGCTCATCGGAGAGGGGCGGGATGCTGTCATT
+|||||||||||||||||||||||||||||||||||||||||||||||||
+CCTCTTGAGGCTTTAAAAGCTCATCGGAGAGGGGCGGGATGCTGTCATT
+
+CCTCTTGAGGCTTTAAAAGCTCATCGGAGAGGGGCGGGATGCTGTCATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [160469-160495] vs target chrX:0-1000000 [268890-268916] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCACACAGTCATTAAAAGTTTTCTT
+||||||||||||||||||||||||||
+GGCACACAGTCATTAAAAGTTTTCTT
+
+GGCACACAGTCATTAAAAGTTTTCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [160892-160928] vs target chrX:0-1000000 [269315-269351] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTCATTTTCTCCTAGTCCAAGATGAAGTGCAATAT
+||||||||||||||||||||||||||||||||||||
+GCTCATTTTCTCCTAGTCCAAGATGAAGTGCAATAT
+
+GCTCATTTTCTCCTAGTCCAAGATGAAGTGCAATAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [160931-160962] vs target chrX:0-1000000 [269354-269385] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCCAAACCAATGCTAATTAGCAACGAGGTGT
+|||||||||||||||||||||||||||||||
+GCCAAACCAATGCTAATTAGCAACGAGGTGT
+
+GCCAAACCAATGCTAATTAGCAACGAGGTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162233-162260] vs target chrX:0-1000000 [270378-270405] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATATGTTTTTCAGGCAACATCTTCGT
+|||||||||||||||||||||||||||
+GATATGTTTTTCAGGCAACATCTTCGT
+
+GATATGTTTTTCAGGCAACATCTTCGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162328-162353] vs target chrX:0-1000000 [270473-270498] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCATTGGGGGCTGGGATCTGAGCCA
+|||||||||||||||||||||||||
+CCATTGGGGGCTGGGATCTGAGCCA
+
+CCATTGGGGGCTGGGATCTGAGCCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162508-162557] vs target chrX:0-1000000 [270653-270702] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCATCACCTGGATCATGACCGTCCTGGCTGTCCTGCCCAACATGTACAT
+|||||||||||||||||||||||||||||||||||||||||||||||||
+TCATCACCTGGATCATGACCGTCCTGGCTGTCCTGCCCAACATGTACAT
+
+TCATCACCTGGATCATGACCGTCCTGGCTGTCCTGCCCAACATGTACAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162573-162605] vs target chrX:0-1000000 [270718-270750] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATCCTCGCACCTACACCTGCATCTTCAACTA
+||||||||||||||||||||||||||||||||
+GATCCTCGCACCTACACCTGCATCTTCAACTA
+
+GATCCTCGCACCTACACCTGCATCTTCAACTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162675-162710] vs target chrX:0-1000000 [270820-270855] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCTGCTACGTGAGGATCTGGACCAAAGTGCTGGC
+|||||||||||||||||||||||||||||||||||
+TTCTGCTACGTGAGGATCTGGACCAAAGTGCTGGC
+
+TTCTGCTACGTGAGGATCTGGACCAAAGTGCTGGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [162747-162971] vs target chrX:0-1000000 [270892-271116] + length 224 check 224
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTGCTGAGGTTCGCAATTTTCTAACCATGTTTGTGATCTTCCTCCTCTTTGCAGTGTGCTGGTGCCCTATCAACGTGCT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTTGCTGAGGTTCGCAATTTTCTAACCATGTTTGTGATCTTCCTCCTCTTTGCAGTGTGCTGGTGCCCTATCAACGTGCT
+
+CTTGCTGAGGTTCGCAATTTTCTAACCATGTTTGTGATCTTCCTCCTCTTTGCAGTGTGCTGGTGCCCTATCAACGTGCT AMB
+-------------------------------------------------------------------------------
+
+CACTGTCTTGGTGGCTGTCAGTCCGAAGGAGATGGCAGGCAAGATCCCCAACTGGCTTTATCTTGCAGCCTACTTCATAG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CACTGTCTTGGTGGCTGTCAGTCCGAAGGAGATGGCAGGCAAGATCCCCAACTGGCTTTATCTTGCAGCCTACTTCATAG
+
+CACTGTCTTGGTGGCTGTCAGTCCGAAGGAGATGGCAGGCAAGATCCCCAACTGGCTTTATCTTGCAGCCTACTTCATAG AMB
+-------------------------------------------------------------------------------
+
+CCTACTTCAACAGCTGCCTCAACGCTGTGATCTACGGGCTCCTCAATGAGAATTTCCGAAGAGA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CCTACTTCAACAGCTGCCTCAACGCTGTGATCTACGGGCTCCTCAATGAGAATTTCCGAAGAGA
+
+CCTACTTCAACAGCTGCCTCAACGCTGTGATCTACGGGCTCCTCAATGAGAATTTCCGAAGAGA AMB
+-------------------------------------------------------------------------------
+
+Found overlapping matches, merging 2 blocks (100 -> 102)
+Query chrX_part1 [163419-163465] vs target chrX:0-1000000 [271522-271568] + length 46 check 46
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGCCTGCCTCTGTCCATTTCAAGGCTGACTCTGTCCATTTCAAGG
+||||||||||||||||||||||||||||||||||||||||||||||
+AAGCCTGCCTCTGTCCATTTCAAGGCTGACTCTGTCCATTTCAAGG
+
+AAGCCTGCCTCTGTCCATTTCAAGGCTGACTCTGTCCATTTCAAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [164399-164426] vs target chrX:0-1000000 [272542-272569] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTGTAACTCTATATTGTACTTTTAAT
+|||||||||||||||||||||||||||
+TGTGTAACTCTATATTGTACTTTTAAT
+
+TGTGTAACTCTATATTGTACTTTTAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [164517-164541] vs target chrX:0-1000000 [272661-272685] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACAATTTGATAAGCTCTTATTAAA
+||||||||||||||||||||||||
+ACAATTTGATAAGCTCTTATTAAA
+
+ACAATTTGATAAGCTCTTATTAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [168279-168310] vs target chrX:0-1000000 [276522-276553] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGTTATGAACATTCTTGTACATGCCTTTTG
+|||||||||||||||||||||||||||||||
+CTGTTATGAACATTCTTGTACATGCCTTTTG
+
+CTGTTATGAACATTCTTGTACATGCCTTTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [168459-168489] vs target chrX:0-1000000 [277072-277102] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTGAGGTGCTCTGCATTCTTGCCAACATT
+||||||||||||||||||||||||||||||
+TTTGAGGTGCTCTGCATTCTTGCCAACATT
+
+TTTGAGGTGCTCTGCATTCTTGCCAACATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [169877-169901] vs target chrX:0-1000000 [278845-278869] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGTTGTAGCATGTATCAGAATTT
+||||||||||||||||||||||||
+ATGTTGTAGCATGTATCAGAATTT
+
+ATGTTGTAGCATGTATCAGAATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [167452-167482] vs target chrX:0-1000000 [286265-286295] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTCATTCTTTTTATGGCTGAATAATATT
+||||||||||||||||||||||||||||||
+ATTTCATTCTTTTTATGGCTGAATAATATT
+
+ATTTCATTCTTTTTATGGCTGAATAATATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [172587-172619] vs target chrX:0-1000000 [309107-309139] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGAGATTGAGGCCAAGAAAGGTTAAGAAACT
+||||||||||||||||||||||||||||||||
+AGGAGATTGAGGCCAAGAAAGGTTAAGAAACT
+
+AGGAGATTGAGGCCAAGAAAGGTTAAGAAACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [181307-181331] vs target chrX:0-1000000 [318798-318822] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGATGATAATTTACTCTAAAACTT
+||||||||||||||||||||||||
+AGATGATAATTTACTCTAAAACTT
+
+AGATGATAATTTACTCTAAAACTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [182852-182880] vs target chrX:0-1000000 [324154-324182] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAAAGCACTTTTCACTTGCAAATTAAC
+||||||||||||||||||||||||||||
+AGAAAGCACTTTTCACTTGCAAATTAAC
+
+AGAAAGCACTTTTCACTTGCAAATTAAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [183475-183500] vs target chrX:0-1000000 [325736-325761] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTGTAGGTACAAGTGACTTTTCA
+|||||||||||||||||||||||||
+ATTTGTAGGTACAAGTGACTTTTCA
+
+ATTTGTAGGTACAAGTGACTTTTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [186679-186707] vs target chrX:0-1000000 [330317-330345] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGATACAATATTTATGTGAATTAGTAC
+||||||||||||||||||||||||||||
+GTGATACAATATTTATGTGAATTAGTAC
+
+GTGATACAATATTTATGTGAATTAGTAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [186721-186793] vs target chrX:0-1000000 [330359-330431] + length 72 check 72
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCATTAAACATTCCCCATTAATAATTGCTTCTAAGTGATAGTGCATACTTGGCAGGGAATGGGAGCATTTAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCATTAAACATTCCCCATTAATAATTGCTTCTAAGTGATAGTGCATACTTGGCAGGGAATGGGAGCATTTAT
+
+GCATTAAACATTCCCCATTAATAATTGCTTCTAAGTGATAGTGCATACTTGGCAGGGAATGGGAGCATTTAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [186885-186921] vs target chrX:0-1000000 [330523-330559] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCTTTGCTCTTCACATTGTGACTGGTGAACAAGGC
+||||||||||||||||||||||||||||||||||||
+CCCTTTGCTCTTCACATTGTGACTGGTGAACAAGGC
+
+CCCTTTGCTCTTCACATTGTGACTGGTGAACAAGGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [186922-186950] vs target chrX:0-1000000 [330560-330588] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GACTTCATTCCACAGCTGGATTGATATG
+||||||||||||||||||||||||||||
+GACTTCATTCCACAGCTGGATTGATATG
+
+GACTTCATTCCACAGCTGGATTGATATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [186960-187009] vs target chrX:0-1000000 [330598-330647] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCGACTAATTGGCTTCCCCAGCTGTCTCCAGAGGGCGGATGTATTCTTT
+|||||||||||||||||||||||||||||||||||||||||||||||||
+CCGACTAATTGGCTTCCCCAGCTGTCTCCAGAGGGCGGATGTATTCTTT
+
+CCGACTAATTGGCTTCCCCAGCTGTCTCCAGAGGGCGGATGTATTCTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [187028-187108] vs target chrX:0-1000000 [330665-330745] + length 80 check 80
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGCATTGAGAACATTAGAACTACTTAATTGAATATCAATGAATCTTTATAAACTAATAATGATGGGGAGCCTGGGAAGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTGCATTGAGAACATTAGAACTACTTAATTGAATATCAATGAATCTTTATAAACTAATAATGATGGGGAGCCTGGGAAGC
+
+CTGCATTGAGAACATTAGAACTACTTAATTGAATATCAATGAATCTTTATAAACTAATAATGATGGGGAGCCTGGGAAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [187227-187256] vs target chrX:0-1000000 [330865-330894] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCCACTGGTGCCTTCTTGAACATGTCAT
+|||||||||||||||||||||||||||||
+CCCCACTGGTGCCTTCTTGAACATGTCAT
+
+CCCCACTGGTGCCTTCTTGAACATGTCAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [192021-192050] vs target chrX:0-1000000 [336413-336442] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAAGAAATTCAGAATCAATTTGTAAAGT
+|||||||||||||||||||||||||||||
+AGAAGAAATTCAGAATCAATTTGTAAAGT
+
+AGAAGAAATTCAGAATCAATTTGTAAAGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [193485-193512] vs target chrX:0-1000000 [337139-337166] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTCACAGATGGTTGGTCTAAGTCAGA
+|||||||||||||||||||||||||||
+ATTCACAGATGGTTGGTCTAAGTCAGA
+
+ATTCACAGATGGTTGGTCTAAGTCAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [193624-193649] vs target chrX:0-1000000 [337277-337302] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGGCCAATCATGAAATCTCTCTGGG
+|||||||||||||||||||||||||
+GGGCCAATCATGAAATCTCTCTGGG
+
+GGGCCAATCATGAAATCTCTCTGGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [194121-194145] vs target chrX:0-1000000 [337809-337833] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGACCCCTGCAGGGGAAGATTCA
+||||||||||||||||||||||||
+GAGACCCCTGCAGGGGAAGATTCA
+
+GAGACCCCTGCAGGGGAAGATTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [194343-194371] vs target chrX:0-1000000 [338033-338061] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCAGGATGATTCCACTTGGCAGGCCAT
+||||||||||||||||||||||||||||
+GGCAGGATGATTCCACTTGGCAGGCCAT
+
+GGCAGGATGATTCCACTTGGCAGGCCAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [195604-195634] vs target chrX:0-1000000 [339055-339085] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAATGACACAAACACAAATCACAACTTAGC
+||||||||||||||||||||||||||||||
+AAATGACACAAACACAAATCACAACTTAGC
+
+AAATGACACAAACACAAATCACAACTTAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [195671-195704] vs target chrX:0-1000000 [339122-339155] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGCCAGAGAGGTAGCCGCTGGGGCCCTGGGAG
+|||||||||||||||||||||||||||||||||
+AGGCCAGAGAGGTAGCCGCTGGGGCCCTGGGAG
+
+AGGCCAGAGAGGTAGCCGCTGGGGCCCTGGGAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [195852-195876] vs target chrX:0-1000000 [339305-339329] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCATTTTCTAGGACCTGTGAGATG
+||||||||||||||||||||||||
+GCATTTTCTAGGACCTGTGAGATG
+
+GCATTTTCTAGGACCTGTGAGATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [196364-196388] vs target chrX:0-1000000 [339910-339934] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTAATCCCAGCTCTACCACTTACT
+||||||||||||||||||||||||
+TTAATCCCAGCTCTACCACTTACT
+
+TTAATCCCAGCTCTACCACTTACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [196413-196439] vs target chrX:0-1000000 [339959-339985] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCTTATTTGTAAAACTGGCATAAT
+||||||||||||||||||||||||||
+TTTCTTATTTGTAAAACTGGCATAAT
+
+TTTCTTATTTGTAAAACTGGCATAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [200440-200470] vs target chrX:0-1000000 [352767-352797] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGCATGTGGAATTTTGCTGATGATTTATT
+||||||||||||||||||||||||||||||
+TGGCATGTGGAATTTTGCTGATGATTTATT
+
+TGGCATGTGGAATTTTGCTGATGATTTATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203596-203620] vs target chrX:0-1000000 [359461-359485] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCATTTGCTTTTATAGGATATTA
+||||||||||||||||||||||||
+ATCATTTGCTTTTATAGGATATTA
+
+ATCATTTGCTTTTATAGGATATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203715-203744] vs target chrX:0-1000000 [359581-359610] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTAAGGAATTCCAGAGTCTATTATCAGC
+|||||||||||||||||||||||||||||
+CTTAAGGAATTCCAGAGTCTATTATCAGC
+
+CTTAAGGAATTCCAGAGTCTATTATCAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203747-203792] vs target chrX:0-1000000 [359613-359658] + length 45 check 45
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTTAAAGGCTAATGAAGAAACAATCTTTTTGTAAAGCAACAAAG
+|||||||||||||||||||||||||||||||||||||||||||||
+GTTTAAAGGCTAATGAAGAAACAATCTTTTTGTAAAGCAACAAAG
+
+GTTTAAAGGCTAATGAAGAAACAATCTTTTTGTAAAGCAACAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203793-203817] vs target chrX:0-1000000 [359659-359683] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACAGAGTTTGAAAGCAGGTCCAGG
+||||||||||||||||||||||||
+ACAGAGTTTGAAAGCAGGTCCAGG
+
+ACAGAGTTTGAAAGCAGGTCCAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203824-203874] vs target chrX:0-1000000 [359690-359740] + length 50 check 50
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGAGGAAACACTTGGTTCAGTGAAAGGCAAACTTTCCTATGGACGTGCA
+||||||||||||||||||||||||||||||||||||||||||||||||||
+AAGAGGAAACACTTGGTTCAGTGAAAGGCAAACTTTCCTATGGACGTGCA
+
+AAGAGGAAACACTTGGTTCAGTGAAAGGCAAACTTTCCTATGGACGTGCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [203923-203963] vs target chrX:0-1000000 [359794-359834] + length 40 check 40
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCAATGCCTGTTCTGTGGGCAGCACTTTGCTAAATGCAC
+||||||||||||||||||||||||||||||||||||||||
+TTCAATGCCTGTTCTGTGGGCAGCACTTTGCTAAATGCAC
+
+TTCAATGCCTGTTCTGTGGGCAGCACTTTGCTAAATGCAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [204288-204314] vs target chrX:0-1000000 [360174-360200] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACTTGGAATCCTGCCTCTGATGCTT
+||||||||||||||||||||||||||
+AACTTGGAATCCTGCCTCTGATGCTT
+
+AACTTGGAATCCTGCCTCTGATGCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [210740-210768] vs target chrX:0-1000000 [365281-365309] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GACAGTGCCTTGCACATGCTGCCTCAGT
+||||||||||||||||||||||||||||
+GACAGTGCCTTGCACATGCTGCCTCAGT
+
+GACAGTGCCTTGCACATGCTGCCTCAGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [209879-209903] vs target chrX:0-1000000 [367920-367944] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACAATGAGATACCATCTCACACC
+||||||||||||||||||||||||
+CACAATGAGATACCATCTCACACC
+
+CACAATGAGATACCATCTCACACC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [212964-212991] vs target chrX:0-1000000 [369959-369986] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGGTCATGGGAGCCCCATTCCTTTGC
+|||||||||||||||||||||||||||
+CAGGTCATGGGAGCCCCATTCCTTTGC
+
+CAGGTCATGGGAGCCCCATTCCTTTGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [213005-213044] vs target chrX:0-1000000 [370000-370039] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTAATGATGGGACAACTAATTAGCCATTAAGGATTAG
+|||||||||||||||||||||||||||||||||||||||
+TTTTAATGATGGGACAACTAATTAGCCATTAAGGATTAG
+
+TTTTAATGATGGGACAACTAATTAGCCATTAAGGATTAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [213165-213204] vs target chrX:0-1000000 [370153-370192] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCACTTTTCAGAATCTCAGTTTCCTCATCTGTAAGGTG
+|||||||||||||||||||||||||||||||||||||||
+TTCACTTTTCAGAATCTCAGTTTCCTCATCTGTAAGGTG
+
+TTCACTTTTCAGAATCTCAGTTTCCTCATCTGTAAGGTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [215304-215328] vs target chrX:0-1000000 [372234-372258] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTTGAAAAGACAAAGACCAAGAT
+||||||||||||||||||||||||
+CCTTGAAAAGACAAAGACCAAGAT
+
+CCTTGAAAAGACAAAGACCAAGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [215814-215867] vs target chrX:0-1000000 [372743-372796] + length 53 check 53
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTCCAGCTTTGGGAAGAATTCCAATAAATCATCAGCAAAATTCCACATGCCA
+|||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATTCCAGCTTTGGGAAGAATTCCAATAAATCATCAGCAAAATTCCACATGCCA
+
+ATTCCAGCTTTGGGAAGAATTCCAATAAATCATCAGCAAAATTCCACATGCCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [215869-215893] vs target chrX:0-1000000 [372799-372823] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGGGAAAGAGCAACTTCTTTTCTT
+||||||||||||||||||||||||
+GGGGAAAGAGCAACTTCTTTTCTT
+
+GGGGAAAGAGCAACTTCTTTTCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [217473-217497] vs target chrX:0-1000000 [374404-374428] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGACCAGATTAAACCAGACAAGAT
+||||||||||||||||||||||||
+AGACCAGATTAAACCAGACAAGAT
+
+AGACCAGATTAAACCAGACAAGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [222163-222188] vs target chrX:0-1000000 [379130-379155] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATTTCATCAAAAATGATTAAAATG
+|||||||||||||||||||||||||
+GATTTCATCAAAAATGATTAAAATG
+
+GATTTCATCAAAAATGATTAAAATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [222525-222559] vs target chrX:0-1000000 [379484-379518] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGTCAACAATTTCTAACTGCAGAAAGTTGATCT
+||||||||||||||||||||||||||||||||||
+ATGTCAACAATTTCTAACTGCAGAAAGTTGATCT
+
+ATGTCAACAATTTCTAACTGCAGAAAGTTGATCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [226357-226381] vs target chrX:0-1000000 [386621-386645] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTTACAAATTTAATTTGCATCT
+||||||||||||||||||||||||
+TTTTTACAAATTTAATTTGCATCT
+
+TTTTTACAAATTTAATTTGCATCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [226614-226638] vs target chrX:0-1000000 [387204-387228] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACTGGATTCAGAATCCAAAGCCC
+||||||||||||||||||||||||
+CACTGGATTCAGAATCCAAAGCCC
+
+CACTGGATTCAGAATCCAAAGCCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [230684-230708] vs target chrX:0-1000000 [391843-391867] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAACCTCTCTGTGTTCAAGTCCTT
+||||||||||||||||||||||||
+AAACCTCTCTGTGTTCAAGTCCTT
+
+AAACCTCTCTGTGTTCAAGTCCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [232507-232535] vs target chrX:0-1000000 [393842-393870] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACTCCAGAAGCCCTGGGAGATTTCCCAG
+||||||||||||||||||||||||||||
+ACTCCAGAAGCCCTGGGAGATTTCCCAG
+
+ACTCCAGAAGCCCTGGGAGATTTCCCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [232828-232857] vs target chrX:0-1000000 [394171-394200] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATATAATATGATATAATTCTATAAACAA
+|||||||||||||||||||||||||||||
+AATATAATATGATATAATTCTATAAACAA
+
+AATATAATATGATATAATTCTATAAACAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [233903-233939] vs target chrX:0-1000000 [397698-397734] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAACTGAGGCTCAGAGAGGTTAAGTGACTTGCCCAA
+||||||||||||||||||||||||||||||||||||
+TAACTGAGGCTCAGAGAGGTTAAGTGACTTGCCCAA
+
+TAACTGAGGCTCAGAGAGGTTAAGTGACTTGCCCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [235817-235841] vs target chrX:0-1000000 [399296-399320] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTAATGCCAAGTTGGAACCAGGC
+||||||||||||||||||||||||
+AGTAATGCCAAGTTGGAACCAGGC
+
+AGTAATGCCAAGTTGGAACCAGGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [237005-237034] vs target chrX:0-1000000 [400832-400861] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGGTGATGAAAAGTTTGACATGGCCAAG
+|||||||||||||||||||||||||||||
+GAGGTGATGAAAAGTTTGACATGGCCAAG
+
+GAGGTGATGAAAAGTTTGACATGGCCAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [237097-237146] vs target chrX:0-1000000 [400924-400973] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTTCTGATTTCAAAATAAGCAAGTCTCTGGTTATTGTCATATATCAAC
+|||||||||||||||||||||||||||||||||||||||||||||||||
+GTTTCTGATTTCAAAATAAGCAAGTCTCTGGTTATTGTCATATATCAAC
+
+GTTTCTGATTTCAAAATAAGCAAGTCTCTGGTTATTGTCATATATCAAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [237193-237224] vs target chrX:0-1000000 [401020-401051] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGACAGGCAGCAAGTTCCCTTTTAGCTAAA
+|||||||||||||||||||||||||||||||
+CAGACAGGCAGCAAGTTCCCTTTTAGCTAAA
+
+CAGACAGGCAGCAAGTTCCCTTTTAGCTAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [237493-237528] vs target chrX:0-1000000 [401317-401352] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTCAATGTGCTTCCAAATTTAACTGGTAATTTTT
+|||||||||||||||||||||||||||||||||||
+AGTCAATGTGCTTCCAAATTTAACTGGTAATTTTT
+
+AGTCAATGTGCTTCCAAATTTAACTGGTAATTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [237548-237577] vs target chrX:0-1000000 [401377-401406] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAAATGTAGAAAATTGATGAAGGCAAATG
+|||||||||||||||||||||||||||||
+AAAATGTAGAAAATTGATGAAGGCAAATG
+
+AAAATGTAGAAAATTGATGAAGGCAAATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [238743-238775] vs target chrX:0-1000000 [402587-402619] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCTAGGTTCAAATCCTGGCTCTGCCTTCTAC
+||||||||||||||||||||||||||||||||
+ATCTAGGTTCAAATCCTGGCTCTGCCTTCTAC
+
+ATCTAGGTTCAAATCCTGGCTCTGCCTTCTAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [239373-239399] vs target chrX:0-1000000 [403220-403246] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGTGATAATTCCACCTAAACATTCA
+||||||||||||||||||||||||||
+CAGTGATAATTCCACCTAAACATTCA
+
+CAGTGATAATTCCACCTAAACATTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [239415-239441] vs target chrX:0-1000000 [403262-403288] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTACACCCCTCTGCTCTGCCAGAGA
+||||||||||||||||||||||||||
+CCTACACCCCTCTGCTCTGCCAGAGA
+
+CCTACACCCCTCTGCTCTGCCAGAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [241072-241110] vs target chrX:0-1000000 [404765-404803] + length 38 check 38
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGGGTCTGGAATAGCCTTTTCTGGGAATATATATACA
+||||||||||||||||||||||||||||||||||||||
+CTGGGTCTGGAATAGCCTTTTCTGGGAATATATATACA
+
+CTGGGTCTGGAATAGCCTTTTCTGGGAATATATATACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [241152-241197] vs target chrX:0-1000000 [404841-404886] + length 45 check 45
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACACCCACACCAAATCCTGGGCAATATCAGTCTCCTGTCAAATG
+|||||||||||||||||||||||||||||||||||||||||||||
+CACACCCACACCAAATCCTGGGCAATATCAGTCTCCTGTCAAATG
+
+CACACCCACACCAAATCCTGGGCAATATCAGTCTCCTGTCAAATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [241663-241688] vs target chrX:0-1000000 [405210-405235] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAAAGGTAGGTAAAAGTGATGATGT
+|||||||||||||||||||||||||
+AAAAGGTAGGTAAAAGTGATGATGT
+
+AAAAGGTAGGTAAAAGTGATGATGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [244193-244217] vs target chrX:0-1000000 [406434-406458] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACAAATATTTAGTAAGGACCTAC
+||||||||||||||||||||||||
+AACAAATATTTAGTAAGGACCTAC
+
+AACAAATATTTAGTAAGGACCTAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [245085-245109] vs target chrX:0-1000000 [406752-406776] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATAAATAATTGTTCTCTCCATTT
+||||||||||||||||||||||||
+TATAAATAATTGTTCTCTCCATTT
+
+TATAAATAATTGTTCTCTCCATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [247192-247221] vs target chrX:0-1000000 [408800-408829] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCACTGGCCCTAGAAAGCAGCTGCACTGT
+|||||||||||||||||||||||||||||
+GCACTGGCCCTAGAAAGCAGCTGCACTGT
+
+GCACTGGCCCTAGAAAGCAGCTGCACTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [247506-247575] vs target chrX:0-1000000 [409139-409208] + length 69 check 69
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTGTTTTTCTTCTTCCTGCTTCTGTATAATAAATTGCCAGACTAAAACTGAGCTGTTCAATAAATATT
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGTGTTTTTCTTCTTCCTGCTTCTGTATAATAAATTGCCAGACTAAAACTGAGCTGTTCAATAAATATT
+
+TGTGTTTTTCTTCTTCCTGCTTCTGTATAATAAATTGCCAGACTAAAACTGAGCTGTTCAATAAATATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [247590-247614] vs target chrX:0-1000000 [409223-409247] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACTACCAGAGACCCAGGGCTTGG
+||||||||||||||||||||||||
+AACTACCAGAGACCCAGGGCTTGG
+
+AACTACCAGAGACCCAGGGCTTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [257162-257188] vs target chrX:0-1000000 [418429-418455] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCCTCTGCCAACACCCTTCCTTTCC
+||||||||||||||||||||||||||
+AGCCTCTGCCAACACCCTTCCTTTCC
+
+AGCCTCTGCCAACACCCTTCCTTTCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [257196-257227] vs target chrX:0-1000000 [418455-418486] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGCCAGGGAAGGAAATGAGAGAACTGGGCT
+|||||||||||||||||||||||||||||||
+CTGCCAGGGAAGGAAATGAGAGAACTGGGCT
+
+CTGCCAGGGAAGGAAATGAGAGAACTGGGCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [258131-258155] vs target chrX:0-1000000 [419435-419459] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTCCTTGGAATCACAGTGTGTAA
+||||||||||||||||||||||||
+CTTCCTTGGAATCACAGTGTGTAA
+
+CTTCCTTGGAATCACAGTGTGTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [260882-260916] vs target chrX:0-1000000 [428253-428287] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATCAGATTATGAATCTTGCCTGCATATGGTACT
+||||||||||||||||||||||||||||||||||
+TATCAGATTATGAATCTTGCCTGCATATGGTACT
+
+TATCAGATTATGAATCTTGCCTGCATATGGTACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [262226-262253] vs target chrX:0-1000000 [428872-428899] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCAATTTGTCTAATGAGCAGGGTTGG
+|||||||||||||||||||||||||||
+AGCAATTTGTCTAATGAGCAGGGTTGG
+
+AGCAATTTGTCTAATGAGCAGGGTTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [262264-262301] vs target chrX:0-1000000 [428910-428947] + length 37 check 37
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAAACACAGCATGTGATTAAAATTACACTAGCAGAA
+|||||||||||||||||||||||||||||||||||||
+GGAAACACAGCATGTGATTAAAATTACACTAGCAGAA
+
+GGAAACACAGCATGTGATTAAAATTACACTAGCAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [271502-271527] vs target chrX:0-1000000 [436073-436098] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTCAAACTTCTTGGTTTCCACTGG
+|||||||||||||||||||||||||
+CCTCAAACTTCTTGGTTTCCACTGG
+
+CCTCAAACTTCTTGGTTTCCACTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [271824-271848] vs target chrX:0-1000000 [436441-436465] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTGCTACCTTTCTAGTTAGCCAT
+||||||||||||||||||||||||
+AGTGCTACCTTTCTAGTTAGCCAT
+
+AGTGCTACCTTTCTAGTTAGCCAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272039-272068] vs target chrX:0-1000000 [436667-436696] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTGTGATTCCCTGATTAAAGTTGAGACC
+|||||||||||||||||||||||||||||
+ATTGTGATTCCCTGATTAAAGTTGAGACC
+
+ATTGTGATTCCCTGATTAAAGTTGAGACC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272119-272183] vs target chrX:0-1000000 [436727-436791] + length 64 check 64
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGTCGAGACCTGTAAGGAGGGAAAGATTCCAGACACTGCTCATACCTCAAAGAAGTGACCTTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTGTCGAGACCTGTAAGGAGGGAAAGATTCCAGACACTGCTCATACCTCAAAGAAGTGACCTTT
+
+CTGTCGAGACCTGTAAGGAGGGAAAGATTCCAGACACTGCTCATACCTCAAAGAAGTGACCTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272184-272209] vs target chrX:0-1000000 [436792-436817] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTATGAATTAATCGTTTGGAGATC
+|||||||||||||||||||||||||
+GCTATGAATTAATCGTTTGGAGATC
+
+GCTATGAATTAATCGTTTGGAGATC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272212-272250] vs target chrX:0-1000000 [436820-436858] + length 38 check 38
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCTCATGTGCTTTACTCACAGGAGGAATTGATTAGA
+||||||||||||||||||||||||||||||||||||||
+TTTCTCATGTGCTTTACTCACAGGAGGAATTGATTAGA
+
+TTTCTCATGTGCTTTACTCACAGGAGGAATTGATTAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272297-272381] vs target chrX:0-1000000 [436905-436989] + length 84 check 84
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGTTAAAATTTATTTTTTAGCTGTAGTTGCCTTAATGCCTTTATGCCAAGGTTTTTCTTTACTGTACTGCTAATTCCAG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTTAAAATTTATTTTTTAGCTGTAGTTGCCTTAATGCCTTTATGCCAAGGTTTTTCTTTACTGTACTGCTAATTCCAG
+
+TGGTTAAAATTTATTTTTTAGCTGTAGTTGCCTTAATGCCTTTATGCCAAGGTTTTTCTTTACTGTACTGCTAATTCCAG AMB
+-------------------------------------------------------------------------------
+
+GAAA
+||||
+GAAA
+
+GAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272382-272419] vs target chrX:0-1000000 [436990-437027] + length 37 check 37
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCCCCACAGTGAATGGACATGTCTGCCCACTCAGTCA
+|||||||||||||||||||||||||||||||||||||
+TCCCCACAGTGAATGGACATGTCTGCCCACTCAGTCA
+
+TCCCCACAGTGAATGGACATGTCTGCCCACTCAGTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [272484-272514] vs target chrX:0-1000000 [437096-437126] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGAAAATGTTTAATTCTTAATCAGAAAT
+||||||||||||||||||||||||||||||
+GCAGAAAATGTTTAATTCTTAATCAGAAAT
+
+GCAGAAAATGTTTAATTCTTAATCAGAAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [273068-273109] vs target chrX:0-1000000 [437751-437792] + length 41 check 41
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGACTGCAATTGTCTGTTTATGTGTCTGTCTCTCCAATTAG
+|||||||||||||||||||||||||||||||||||||||||
+GGACTGCAATTGTCTGTTTATGTGTCTGTCTCTCCAATTAG
+
+GGACTGCAATTGTCTGTTTATGTGTCTGTCTCTCCAATTAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [273124-273148] vs target chrX:0-1000000 [437807-437831] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGGCAAGGGGCATGCTTTGTTCA
+||||||||||||||||||||||||
+AGGGCAAGGGGCATGCTTTGTTCA
+
+AGGGCAAGGGGCATGCTTTGTTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [273972-273999] vs target chrX:0-1000000 [438719-438746] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGATAATAGGTTGATTTTCTTAAGTA
+|||||||||||||||||||||||||||
+TTGATAATAGGTTGATTTTCTTAAGTA
+
+TTGATAATAGGTTGATTTTCTTAAGTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [277391-277417] vs target chrX:0-1000000 [443691-443717] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCATAATCTATTAAGGGAGACCACCA
+||||||||||||||||||||||||||
+TCATAATCTATTAAGGGAGACCACCA
+
+TCATAATCTATTAAGGGAGACCACCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [280297-280322] vs target chrX:0-1000000 [446416-446441] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGTCCAGACACAAATTGAAACAGGG
+|||||||||||||||||||||||||
+GGTCCAGACACAAATTGAAACAGGG
+
+GGTCCAGACACAAATTGAAACAGGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part1 [123354-123381] vs target chrX:0-1000000 [342-369] - length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAATGGGAGAAAATATTTGCAAATCA
+|||||||||||||||||||||||||||
+AGAATGGGAGAAAATATTTGCAAATCA
+
+AGAATGGGAGAAAATATTTGCAAATCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [8185-8209] vs target chrX:0-1000000 [452515-452539] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTTATTTCAACATAGAAATATC
+||||||||||||||||||||||||
+TTTTTATTTCAACATAGAAATATC
+
+TTTTTATTTCAACATAGAAATATC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [15409-15437] vs target chrX:0-1000000 [463188-463216] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTAGTCTGATGACTTCCTTAGAACAA
+||||||||||||||||||||||||||||
+TGCTAGTCTGATGACTTCCTTAGAACAA
+
+TGCTAGTCTGATGACTTCCTTAGAACAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [15796-15820] vs target chrX:0-1000000 [463590-463614] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATATCTCTCAGGTTAGGTTCATT
+||||||||||||||||||||||||
+TATATCTCTCAGGTTAGGTTCATT
+
+TATATCTCTCAGGTTAGGTTCATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [19833-19867] vs target chrX:0-1000000 [467835-467869] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTATTTTGAGGAAATGAATGGCAGAGGGATGGAA
+||||||||||||||||||||||||||||||||||
+TTATTTTGAGGAAATGAATGGCAGAGGGATGGAA
+
+TTATTTTGAGGAAATGAATGGCAGAGGGATGGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [20837-20863] vs target chrX:0-1000000 [468516-468542] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTTACCTTAATTACCTCTTTAAAG
+||||||||||||||||||||||||||
+ATTTTACCTTAATTACCTCTTTAAAG
+
+ATTTTACCTTAATTACCTCTTTAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [27482-27509] vs target chrX:0-1000000 [475405-475432] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGGGCACTCCCAGTCTGTTCCACCAG
+|||||||||||||||||||||||||||
+CAGGGCACTCCCAGTCTGTTCCACCAG
+
+CAGGGCACTCCCAGTCTGTTCCACCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [29780-29817] vs target chrX:0-1000000 [477760-477797] + length 37 check 37
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGATTCTGTGATCTTGAAAGTTCCTTCCAGCTGCAAC
+|||||||||||||||||||||||||||||||||||||
+GGATTCTGTGATCTTGAAAGTTCCTTCCAGCTGCAAC
+
+GGATTCTGTGATCTTGAAAGTTCCTTCCAGCTGCAAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [29881-29916] vs target chrX:0-1000000 [477860-477895] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATAAAAATGTTTCCAGGTTGGTGCACTGGCTTCT
+|||||||||||||||||||||||||||||||||||
+CATAAAAATGTTTCCAGGTTGGTGCACTGGCTTCT
+
+CATAAAAATGTTTCCAGGTTGGTGCACTGGCTTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [30030-30070] vs target chrX:0-1000000 [478009-478049] + length 40 check 40
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCATTACAGGCCTTCCCTGTTATATGAAGAAAGAAAGAT
+||||||||||||||||||||||||||||||||||||||||
+CCCATTACAGGCCTTCCCTGTTATATGAAGAAAGAAAGAT
+
+CCCATTACAGGCCTTCCCTGTTATATGAAGAAAGAAAGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [30109-30137] vs target chrX:0-1000000 [478088-478116] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTGTACTAGGTGCTATAAAAAATATGC
+||||||||||||||||||||||||||||
+TCTGTACTAGGTGCTATAAAAAATATGC
+
+TCTGTACTAGGTGCTATAAAAAATATGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [30151-30175] vs target chrX:0-1000000 [478130-478154] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCTCAGAGAACACAAAATCATCC
+||||||||||||||||||||||||
+GGCTCAGAGAACACAAAATCATCC
+
+GGCTCAGAGAACACAAAATCATCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [35120-35149] vs target chrX:0-1000000 [483542-483571] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCACCAGGGGGCATATTTTACCAATTT
+|||||||||||||||||||||||||||||
+TTTCACCAGGGGGCATATTTTACCAATTT
+
+TTTCACCAGGGGGCATATTTTACCAATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [35795-35820] vs target chrX:0-1000000 [484322-484347] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCATTTCATTCCCATGGCAACGGCT
+|||||||||||||||||||||||||
+CCATTTCATTCCCATGGCAACGGCT
+
+CCATTTCATTCCCATGGCAACGGCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [38556-38591] vs target chrX:0-1000000 [486909-486944] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGTGGTCTTTGTATCCATGTGGTGCAGAAAATAG
+|||||||||||||||||||||||||||||||||||
+ATGTGGTCTTTGTATCCATGTGGTGCAGAAAATAG
+
+ATGTGGTCTTTGTATCCATGTGGTGCAGAAAATAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [38592-38619] vs target chrX:0-1000000 [486945-486972] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTGTGGTCAGCGGCCCTTTCCAGGCG
+|||||||||||||||||||||||||||
+TGTGTGGTCAGCGGCCCTTTCCAGGCG
+
+TGTGTGGTCAGCGGCCCTTTCCAGGCG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [38752-38784] vs target chrX:0-1000000 [487104-487136] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTACTATTTGAGTCCCTGTTGTCTCATTGGC
+||||||||||||||||||||||||||||||||
+CTTACTATTTGAGTCCCTGTTGTCTCATTGGC
+
+CTTACTATTTGAGTCCCTGTTGTCTCATTGGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [39234-39275] vs target chrX:0-1000000 [487578-487619] + length 41 check 41
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCAAGTCCCGGCTCAACGTGGAGTGGCTGGGCTACTCGCC
+|||||||||||||||||||||||||||||||||||||||||
+GGCAAGTCCCGGCTCAACGTGGAGTGGCTGGGCTACTCGCC
+
+GGCAAGTCCCGGCTCAACGTGGAGTGGCTGGGCTACTCGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [39300-39328] vs target chrX:0-1000000 [487644-487672] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCCTGGCAGGGCGCACGCCGCGGAGCC
+||||||||||||||||||||||||||||
+CTCCTGGCAGGGCGCACGCCGCGGAGCC
+
+CTCCTGGCAGGGCGCACGCCGCGGAGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [44189-44234] vs target chrX:0-1000000 [494216-494261] + length 45 check 45
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGGTTCTGATTTTCTCTTTGTTTACTTTATTCCAGAAATGAAAG
+|||||||||||||||||||||||||||||||||||||||||||||
+CAGGTTCTGATTTTCTCTTTGTTTACTTTATTCCAGAAATGAAAG
+
+CAGGTTCTGATTTTCTCTTTGTTTACTTTATTCCAGAAATGAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [44250-44291] vs target chrX:0-1000000 [494277-494318] + length 41 check 41
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGAAGACGCTCCTGTTCTTCACAGCTTTAATGATCACTGT
+|||||||||||||||||||||||||||||||||||||||||
+CTGAAGACGCTCCTGTTCTTCACAGCTTTAATGATCACTGT
+
+CTGAAGACGCTCCTGTTCTTCACAGCTTTAATGATCACTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [44553-44578] vs target chrX:0-1000000 [494544-494569] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGGTTTTCTGTGAAATAGCTTGCA
+|||||||||||||||||||||||||
+ATGGTTTTCTGTGAAATAGCTTGCA
+
+ATGGTTTTCTGTGAAATAGCTTGCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [44910-44941] vs target chrX:0-1000000 [495543-495574] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGGGATGTCCAATAGGGACAGCTATTTTTA
+|||||||||||||||||||||||||||||||
+TTGGGATGTCCAATAGGGACAGCTATTTTTA
+
+TTGGGATGTCCAATAGGGACAGCTATTTTTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [44993-45047] vs target chrX:0-1000000 [495626-495680] + length 54 check 54
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATGTGGCCTGGAATGAAGGCTCACGACAGTGGCGTGAAGGCAAACAGGATTAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TATGTGGCCTGGAATGAAGGCTCACGACAGTGGCGTGAAGGCAAACAGGATTAA
+
+TATGTGGCCTGGAATGAAGGCTCACGACAGTGGCGTGAAGGCAAACAGGATTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [46968-46995] vs target chrX:0-1000000 [497850-497877] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGTTGTAATTTCCTCTTGGAAAAAG
+|||||||||||||||||||||||||||
+GCAGTTGTAATTTCCTCTTGGAAAAAG
+
+GCAGTTGTAATTTCCTCTTGGAAAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [47792-47821] vs target chrX:0-1000000 [499051-499080] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCTCTAGACAAGTTCATGTTTATTGTTT
+|||||||||||||||||||||||||||||
+ATCTCTAGACAAGTTCATGTTTATTGTTT
+
+ATCTCTAGACAAGTTCATGTTTATTGTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [47880-47909] vs target chrX:0-1000000 [499124-499153] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACAGAATTTGTCACTTGTCTGAGGTCAG
+|||||||||||||||||||||||||||||
+CACAGAATTTGTCACTTGTCTGAGGTCAG
+
+CACAGAATTTGTCACTTGTCTGAGGTCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [48087-48111] vs target chrX:0-1000000 [499325-499349] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAAATAAATTATTTTCAGGGACTT
+||||||||||||||||||||||||
+AAAATAAATTATTTTCAGGGACTT
+
+AAAATAAATTATTTTCAGGGACTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [48339-48416] vs target chrX:0-1000000 [499570-499647] + length 77 check 77
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATCTCACTGAACAGTAATAATAGCAATAGCTAACAACATCTGCACAGCACCTTACAGTTTGCAAAGAACGTTCACA
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AATCTCACTGAACAGTAATAATAGCAATAGCTAACAACATCTGCACAGCACCTTACAGTTTGCAAAGAACGTTCACA
+
+AATCTCACTGAACAGTAATAATAGCAATAGCTAACAACATCTGCACAGCACCTTACAGTTTGCAAAGAACGTTCACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [48424-48462] vs target chrX:0-1000000 [499655-499693] + length 38 check 38
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTGAGTTTTGCATAGTGAACCTGTTACGAGATGTCTC
+||||||||||||||||||||||||||||||||||||||
+TTTGAGTTTTGCATAGTGAACCTGTTACGAGATGTCTC
+
+TTTGAGTTTTGCATAGTGAACCTGTTACGAGATGTCTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [52130-52163] vs target chrX:0-1000000 [502835-502868] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGCTTTAAAAATATTCACAATAGAAAATGAAA
+|||||||||||||||||||||||||||||||||
+TTGCTTTAAAAATATTCACAATAGAAAATGAAA
+
+TTGCTTTAAAAATATTCACAATAGAAAATGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [54171-54198] vs target chrX:0-1000000 [504634-504661] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAGGTCACCAGCTTCTCAAAACACCAA
+|||||||||||||||||||||||||||
+TAGGTCACCAGCTTCTCAAAACACCAA
+
+TAGGTCACCAGCTTCTCAAAACACCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [59246-59271] vs target chrX:0-1000000 [507233-507258] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTCTCCTGAAATATCTCATTGAAT
+|||||||||||||||||||||||||
+GCTCTCCTGAAATATCTCATTGAAT
+
+GCTCTCCTGAAATATCTCATTGAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [59372-59407] vs target chrX:0-1000000 [507360-507395] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGATGGCATTGATCTAAATTGTGACCTTTTCTTC
+|||||||||||||||||||||||||||||||||||
+AAGATGGCATTGATCTAAATTGTGACCTTTTCTTC
+
+AAGATGGCATTGATCTAAATTGTGACCTTTTCTTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part2 [59423-59467] vs target chrX:0-1000000 [507411-507455] + length 44 check 44
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATAATGCCAGTAAAAGGGCAGTGACTCACCACTGGAGCAGATT
+||||||||||||||||||||||||||||||||||||||||||||
+AATAATGCCAGTAAAAGGGCAGTGACTCACCACTGGAGCAGATT
+
+AATAATGCCAGTAAAAGGGCAGTGACTCACCACTGGAGCAGATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [378-404] vs target chrX:0-1000000 [507962-507988] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TACCCTAGTCTTATTAAATTATATGT
+||||||||||||||||||||||||||
+TACCCTAGTCTTATTAAATTATATGT
+
+TACCCTAGTCTTATTAAATTATATGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [428-452] vs target chrX:0-1000000 [508037-508061] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTAGCCTACCAAATTCTAGAAGAC
+||||||||||||||||||||||||
+CTAGCCTACCAAATTCTAGAAGAC
+
+CTAGCCTACCAAATTCTAGAAGAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [1199-1225] vs target chrX:0-1000000 [508852-508878] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGTTTACATACTTTCACAAGAAGCA
+||||||||||||||||||||||||||
+AAGTTTACATACTTTCACAAGAAGCA
+
+AAGTTTACATACTTTCACAAGAAGCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [1282-1315] vs target chrX:0-1000000 [508932-508965] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTAAGAAAACTTAGGGCAATTCAATAATTGG
+|||||||||||||||||||||||||||||||||
+TTTTAAGAAAACTTAGGGCAATTCAATAATTGG
+
+TTTTAAGAAAACTTAGGGCAATTCAATAATTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [4711-4737] vs target chrX:0-1000000 [510515-510541] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAAAAGCTTATTTCCACAGCACATAA
+||||||||||||||||||||||||||
+TAAAAGCTTATTTCCACAGCACATAA
+
+TAAAAGCTTATTTCCACAGCACATAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [6902-6928] vs target chrX:0-1000000 [512291-512317] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACTCTAAAAGAAACCCAACATTTTCT
+||||||||||||||||||||||||||
+ACTCTAAAAGAAACCCAACATTTTCT
+
+ACTCTAAAAGAAACCCAACATTTTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [7267-7292] vs target chrX:0-1000000 [512654-512679] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTCATTATTCCTTAATCTTTTATT
+|||||||||||||||||||||||||
+CCTCATTATTCCTTAATCTTTTATT
+
+CCTCATTATTCCTTAATCTTTTATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [7318-7342] vs target chrX:0-1000000 [512702-512726] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATATGCTAAAAAAGAAGATATTAT
+||||||||||||||||||||||||
+ATATGCTAAAAAAGAAGATATTAT
+
+ATATGCTAAAAAAGAAGATATTAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [7433-7465] vs target chrX:0-1000000 [512813-512845] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACAAAATGAGAAATTATGACATCACTGAATC
+||||||||||||||||||||||||||||||||
+AACAAAATGAGAAATTATGACATCACTGAATC
+
+AACAAAATGAGAAATTATGACATCACTGAATC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [7565-7593] vs target chrX:0-1000000 [512945-512973] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGGCTGTCATTTACCTGAGCAGTTTGT
+||||||||||||||||||||||||||||
+CAGGCTGTCATTTACCTGAGCAGTTTGT
+
+CAGGCTGTCATTTACCTGAGCAGTTTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [7742-7771] vs target chrX:0-1000000 [513124-513153] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGAACCAACAAAGCTGCAGAAGAGATCA
+|||||||||||||||||||||||||||||
+TGGAACCAACAAAGCTGCAGAAGAGATCA
+
+TGGAACCAACAAAGCTGCAGAAGAGATCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [8716-8741] vs target chrX:0-1000000 [514098-514123] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTAATATAAACATAATTCAAGACCC
+|||||||||||||||||||||||||
+GTAATATAAACATAATTCAAGACCC
+
+GTAATATAAACATAATTCAAGACCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [9049-9073] vs target chrX:0-1000000 [514390-514414] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAATTGATGAAACCTGGGACAGAA
+||||||||||||||||||||||||
+TAATTGATGAAACCTGGGACAGAA
+
+TAATTGATGAAACCTGGGACAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [11765-11792] vs target chrX:0-1000000 [517073-517100] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTGATTTTAAGATCTTTATATATTAA
+|||||||||||||||||||||||||||
+ATTGATTTTAAGATCTTTATATATTAA
+
+ATTGATTTTAAGATCTTTATATATTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [14440-14469] vs target chrX:0-1000000 [520252-520281] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGTGTTGTAATTTTTGCTTGCTTGTTTG
+|||||||||||||||||||||||||||||
+GTGTGTTGTAATTTTTGCTTGCTTGTTTG
+
+GTGTGTTGTAATTTTTGCTTGCTTGTTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [14953-14977] vs target chrX:0-1000000 [520759-520783] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGTCAGTTGATTTCTGCCAAGGT
+||||||||||||||||||||||||
+TTGTCAGTTGATTTCTGCCAAGGT
+
+TTGTCAGTTGATTTCTGCCAAGGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [15048-15074] vs target chrX:0-1000000 [520858-520884] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAGTTTAAAAGCTCCTAATGGATCA
+||||||||||||||||||||||||||
+GAAGTTTAAAAGCTCCTAATGGATCA
+
+GAAGTTTAAAAGCTCCTAATGGATCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [18850-18876] vs target chrX:0-1000000 [522195-522221] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAAGTCCATCAACAGCCTCTCACCTC
+||||||||||||||||||||||||||
+TAAGTCCATCAACAGCCTCTCACCTC
+
+TAAGTCCATCAACAGCCTCTCACCTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [18927-18961] vs target chrX:0-1000000 [522272-522306] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACTGTCATCAGCAGCTTAGACATAAAATTATGCT
+||||||||||||||||||||||||||||||||||
+ACTGTCATCAGCAGCTTAGACATAAAATTATGCT
+
+ACTGTCATCAGCAGCTTAGACATAAAATTATGCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [21570-21594] vs target chrX:0-1000000 [528512-528536] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAAAGTGAATCATCATTTTGTAAT
+||||||||||||||||||||||||
+AAAAGTGAATCATCATTTTGTAAT
+
+AAAAGTGAATCATCATTTTGTAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [21899-21927] vs target chrX:0-1000000 [528902-528930] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATTGCCCTACACAGCAGTTGTGTTCTT
+||||||||||||||||||||||||||||
+TATTGCCCTACACAGCAGTTGTGTTCTT
+
+TATTGCCCTACACAGCAGTTGTGTTCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [22518-22542] vs target chrX:0-1000000 [529814-529838] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATATATTTATTAGCACTTTACAG
+||||||||||||||||||||||||
+GATATATTTATTAGCACTTTACAG
+
+GATATATTTATTAGCACTTTACAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [24453-24477] vs target chrX:0-1000000 [534837-534861] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAATATTGTCTTTCAAACCATGGA
+||||||||||||||||||||||||
+CAATATTGTCTTTCAAACCATGGA
+
+CAATATTGTCTTTCAAACCATGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [19370-19394] vs target chrX:0-1000000 [542281-542305] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTATTATTATTATTATTATTATTT
+||||||||||||||||||||||||
+TTATTATTATTATTATTATTATTT
+
+TTATTATTATTATTATTATTATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [27572-27606] vs target chrX:0-1000000 [554366-554400] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCTAGTCTTGGAAATTCAAATCAGAGTACTTTG
+||||||||||||||||||||||||||||||||||
+CTCTAGTCTTGGAAATTCAAATCAGAGTACTTTG
+
+CTCTAGTCTTGGAAATTCAAATCAGAGTACTTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [34281-34305] vs target chrX:0-1000000 [564715-564739] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATCCTTTTCAGATTGGCTTCTTT
+||||||||||||||||||||||||
+TATCCTTTTCAGATTGGCTTCTTT
+
+TATCCTTTTCAGATTGGCTTCTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [35544-35575] vs target chrX:0-1000000 [567077-567108] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGAACCAACTTTGCATTCCTGGGATAAATCC
+|||||||||||||||||||||||||||||||
+TGAACCAACTTTGCATTCCTGGGATAAATCC
+
+TGAACCAACTTTGCATTCCTGGGATAAATCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [40334-40359] vs target chrX:0-1000000 [574186-574211] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCCTATTGTACAAATTTAGCCAAA
+|||||||||||||||||||||||||
+TGCCTATTGTACAAATTTAGCCAAA
+
+TGCCTATTGTACAAATTTAGCCAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [40857-40881] vs target chrX:0-1000000 [574724-574748] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGCCATATGGTTTTGCTGCATAC
+||||||||||||||||||||||||
+CAGCCATATGGTTTTGCTGCATAC
+
+CAGCCATATGGTTTTGCTGCATAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [40937-40961] vs target chrX:0-1000000 [574810-574834] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCATCTGCCCTTTCCCACCTCTGT
+||||||||||||||||||||||||
+TCATCTGCCCTTTCCCACCTCTGT
+
+TCATCTGCCCTTTCCCACCTCTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [41762-41811] vs target chrX:0-1000000 [575560-575609] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCATTGTCAATTAGAGAAAGGAACACAAATCTGGAAGTTGAATTCATAC
+|||||||||||||||||||||||||||||||||||||||||||||||||
+GCATTGTCAATTAGAGAAAGGAACACAAATCTGGAAGTTGAATTCATAC
+
+GCATTGTCAATTAGAGAAAGGAACACAAATCTGGAAGTTGAATTCATAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [41832-41901] vs target chrX:0-1000000 [575630-575699] + length 69 check 69
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTATTTACTGTTGAGATTTATATGAGATTAGATTTCTCTGCTTAAACACTAAATCAAGCTTAACAGGA
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATTATTTACTGTTGAGATTTATATGAGATTAGATTTCTCTGCTTAAACACTAAATCAAGCTTAACAGGA
+
+ATTATTTACTGTTGAGATTTATATGAGATTAGATTTCTCTGCTTAAACACTAAATCAAGCTTAACAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [42002-42029] vs target chrX:0-1000000 [575767-575794] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTGAGCTTTTTATTGCAGACATTGAT
+|||||||||||||||||||||||||||
+GCTGAGCTTTTTATTGCAGACATTGAT
+
+GCTGAGCTTTTTATTGCAGACATTGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [51838-51865] vs target chrX:0-1000000 [587642-587669] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCCCTTATTGATTTCAAATTTAATT
+|||||||||||||||||||||||||||
+TTTCCCTTATTGATTTCAAATTTAATT
+
+TTTCCCTTATTGATTTCAAATTTAATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [61753-61777] vs target chrX:0-1000000 [589725-589749] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCAGAAATCAATGAAATTGAAAA
+||||||||||||||||||||||||
+AGCAGAAATCAATGAAATTGAAAA
+
+AGCAGAAATCAATGAAATTGAAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [62526-62551] vs target chrX:0-1000000 [590600-590625] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACATAAATGTAAAAGTTCTCACCA
+|||||||||||||||||||||||||
+AACATAAATGTAAAAGTTCTCACCA
+
+AACATAAATGTAAAAGTTCTCACCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [66024-66052] vs target chrX:0-1000000 [593794-593822] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAAAGATAATATGTTCATTTGGGGACA
+||||||||||||||||||||||||||||
+AGAAAGATAATATGTTCATTTGGGGACA
+
+AGAAAGATAATATGTTCATTTGGGGACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [66561-66600] vs target chrX:0-1000000 [596619-596658] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTGGCCTCTAGGTGGCCCCAGAGCATCTAAGATGAATG
+|||||||||||||||||||||||||||||||||||||||
+TTTGGCCTCTAGGTGGCCCCAGAGCATCTAAGATGAATG
+
+TTTGGCCTCTAGGTGGCCCCAGAGCATCTAAGATGAATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [69112-69152] vs target chrX:0-1000000 [599958-599998] + length 40 check 40
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGAAGATGGGATCCCTGCTTTCAAGATGCTCACTGTCTT
+||||||||||||||||||||||||||||||||||||||||
+AGGAAGATGGGATCCCTGCTTTCAAGATGCTCACTGTCTT
+
+AGGAAGATGGGATCCCTGCTTTCAAGATGCTCACTGTCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [70340-70373] vs target chrX:0-1000000 [601256-601289] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAAAATGTGAGAAGACTCAAATTACTAAAATCA
+|||||||||||||||||||||||||||||||||
+AAAAATGTGAGAAGACTCAAATTACTAAAATCA
+
+AAAAATGTGAGAAGACTCAAATTACTAAAATCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [73908-73943] vs target chrX:0-1000000 [612165-612200] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGATGATGTATGTTCAATTGTTCCAAAATGATTA
+|||||||||||||||||||||||||||||||||||
+AAGATGATGTATGTTCAATTGTTCCAAAATGATTA
+
+AAGATGATGTATGTTCAATTGTTCCAAAATGATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [74283-74325] vs target chrX:0-1000000 [612545-612587] + length 42 check 42
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATGTAAATATTTTGAATATTCAATTTAAAGTTCAACATAAT
+||||||||||||||||||||||||||||||||||||||||||
+TATGTAAATATTTTGAATATTCAATTTAAAGTTCAACATAAT
+
+TATGTAAATATTTTGAATATTCAATTTAAAGTTCAACATAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [74535-74569] vs target chrX:0-1000000 [612798-612832] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATCTATTTTGAAATGAACAAAGGGGCAAGGGTC
+||||||||||||||||||||||||||||||||||
+AATCTATTTTGAAATGAACAAAGGGGCAAGGGTC
+
+AATCTATTTTGAAATGAACAAAGGGGCAAGGGTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [75132-75163] vs target chrX:0-1000000 [613432-613463] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGAGCTGGCTTCAAACATCTGCTGAAATTA
+|||||||||||||||||||||||||||||||
+CAGAGCTGGCTTCAAACATCTGCTGAAATTA
+
+CAGAGCTGGCTTCAAACATCTGCTGAAATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [75189-75230] vs target chrX:0-1000000 [613489-613530] + length 41 check 41
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCTAAGACTAGTTCAAATAAACAAATAATTAGAGTTGAAA
+|||||||||||||||||||||||||||||||||||||||||
+AGCTAAGACTAGTTCAAATAAACAAATAATTAGAGTTGAAA
+
+AGCTAAGACTAGTTCAAATAAACAAATAATTAGAGTTGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [75246-75278] vs target chrX:0-1000000 [613546-613578] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAACAACAAACCAACATGCAACATTATCCAGA
+||||||||||||||||||||||||||||||||
+CAACAACAAACCAACATGCAACATTATCCAGA
+
+CAACAACAAACCAACATGCAACATTATCCAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [75417-75441] vs target chrX:0-1000000 [613717-613741] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCATTTTCAAGTATTAGGTGTGA
+||||||||||||||||||||||||
+CCCATTTTCAAGTATTAGGTGTGA
+
+CCCATTTTCAAGTATTAGGTGTGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [75992-76023] vs target chrX:0-1000000 [614272-614303] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CACTCTGGTTAAGGCACTGAGCAGAATTTAA
+|||||||||||||||||||||||||||||||
+CACTCTGGTTAAGGCACTGAGCAGAATTTAA
+
+CACTCTGGTTAAGGCACTGAGCAGAATTTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [76063-76096] vs target chrX:0-1000000 [614344-614377] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAATTTTAAGAATTTGTAAATCCTTCTTCCTG
+|||||||||||||||||||||||||||||||||
+GCAATTTTAAGAATTTGTAAATCCTTCTTCCTG
+
+GCAATTTTAAGAATTTGTAAATCCTTCTTCCTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [76124-76152] vs target chrX:0-1000000 [614405-614433] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTAGGCAGGGCTTGGTCATTTTCCTTCA
+||||||||||||||||||||||||||||
+TTAGGCAGGGCTTGGTCATTTTCCTTCA
+
+TTAGGCAGGGCTTGGTCATTTTCCTTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [76693-76717] vs target chrX:0-1000000 [615005-615029] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTTTATTTGCAGATTATACTGCA
+||||||||||||||||||||||||
+AGTTTATTTGCAGATTATACTGCA
+
+AGTTTATTTGCAGATTATACTGCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [77219-77261] vs target chrX:0-1000000 [616257-616299] + length 42 check 42
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATAGCTCTGAAATGTTGCTGCTGAAATATTTCTGATGAAATG
+||||||||||||||||||||||||||||||||||||||||||
+ATAGCTCTGAAATGTTGCTGCTGAAATATTTCTGATGAAATG
+
+ATAGCTCTGAAATGTTGCTGCTGAAATATTTCTGATGAAATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [79230-79259] vs target chrX:0-1000000 [618071-618100] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TACATAAAATTTTGCACTTTTGCATTTTG
+|||||||||||||||||||||||||||||
+TACATAAAATTTTGCACTTTTGCATTTTG
+
+TACATAAAATTTTGCACTTTTGCATTTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [79601-79626] vs target chrX:0-1000000 [618445-618470] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTCTGGGAAGTGACTTGTCATCTC
+|||||||||||||||||||||||||
+TCTCTGGGAAGTGACTTGTCATCTC
+
+TCTCTGGGAAGTGACTTGTCATCTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [79673-79704] vs target chrX:0-1000000 [620305-620336] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGGCACATTCTCATCATAAGTCCATGCAAA
+|||||||||||||||||||||||||||||||
+TGGGCACATTCTCATCATAAGTCCATGCAAA
+
+TGGGCACATTCTCATCATAAGTCCATGCAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [87581-87608] vs target chrX:0-1000000 [644109-644136] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGCTCTATCATTTCCTGGTTATTTCA
+|||||||||||||||||||||||||||
+TTGCTCTATCATTTCCTGGTTATTTCA
+
+TTGCTCTATCATTTCCTGGTTATTTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [94412-94437] vs target chrX:0-1000000 [658908-658933] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTGATGAGTTTTTCTTCTGATTCT
+|||||||||||||||||||||||||
+GTTGATGAGTTTTTCTTCTGATTCT
+
+GTTGATGAGTTTTTCTTCTGATTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [94583-94610] vs target chrX:0-1000000 [659080-659107] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGCTAATACCTGAGATCAAGGCACAC
+|||||||||||||||||||||||||||
+ATGCTAATACCTGAGATCAAGGCACAC
+
+ATGCTAATACCTGAGATCAAGGCACAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [94620-94670] vs target chrX:0-1000000 [659115-659165] + length 50 check 50
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCAATCAAGCTAATATTTAGCTTTGGAAATTAAAGCATAAATTCATGAAT
+||||||||||||||||||||||||||||||||||||||||||||||||||
+TCAATCAAGCTAATATTTAGCTTTGGAAATTAAAGCATAAATTCATGAAT
+
+TCAATCAAGCTAATATTTAGCTTTGGAAATTAAAGCATAAATTCATGAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [95457-95482] vs target chrX:0-1000000 [660033-660058] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAAGCTTTAAAGTAACAGGCAGGA
+|||||||||||||||||||||||||
+GAAAGCTTTAAAGTAACAGGCAGGA
+
+GAAAGCTTTAAAGTAACAGGCAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [100006-100031] vs target chrX:0-1000000 [665714-665739] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGAAAGCTCAGTCCCTTTGGTCAAG
+|||||||||||||||||||||||||
+AGAAAGCTCAGTCCCTTTGGTCAAG
+
+AGAAAGCTCAGTCCCTTTGGTCAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [106253-106280] vs target chrX:0-1000000 [673853-673880] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCATTTTCCTCATGTGTAAAATGGGGA
+|||||||||||||||||||||||||||
+CCATTTTCCTCATGTGTAAAATGGGGA
+
+CCATTTTCCTCATGTGTAAAATGGGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [108377-108402] vs target chrX:0-1000000 [675491-675516] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTATAGGACCATATTCTGTCACTG
+|||||||||||||||||||||||||
+TGTATAGGACCATATTCTGTCACTG
+
+TGTATAGGACCATATTCTGTCACTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [113021-113045] vs target chrX:0-1000000 [678544-678568] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTGATTGAAAATAAATTGGAAA
+||||||||||||||||||||||||
+TTTTGATTGAAAATAAATTGGAAA
+
+TTTTGATTGAAAATAAATTGGAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [113074-113098] vs target chrX:0-1000000 [678598-678622] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATACACATTTAACATCATTACTG
+||||||||||||||||||||||||
+CATACACATTTAACATCATTACTG
+
+CATACACATTTAACATCATTACTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [113444-113470] vs target chrX:0-1000000 [678954-678980] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTAAAATAAACAAATATTGTAACCA
+||||||||||||||||||||||||||
+TTTAAAATAAACAAATATTGTAACCA
+
+TTTAAAATAAACAAATATTGTAACCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [115476-115502] vs target chrX:0-1000000 [681493-681519] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCACTTTGATTCTAATTCAGGATTA
+||||||||||||||||||||||||||
+TTCACTTTGATTCTAATTCAGGATTA
+
+TTCACTTTGATTCTAATTCAGGATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [115602-115629] vs target chrX:0-1000000 [681622-681649] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAACATTAGCAACAGGAGCCCAGATTT
+|||||||||||||||||||||||||||
+GAACATTAGCAACAGGAGCCCAGATTT
+
+GAACATTAGCAACAGGAGCCCAGATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [115824-115849] vs target chrX:0-1000000 [681842-681867] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAAGTGATTCTCAACTACAGAGAGC
+|||||||||||||||||||||||||
+TAAGTGATTCTCAACTACAGAGAGC
+
+TAAGTGATTCTCAACTACAGAGAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [118749-118781] vs target chrX:0-1000000 [685764-685796] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATATATGAGTTTATATTTTTCATCCAGTATGG
+||||||||||||||||||||||||||||||||
+ATATATGAGTTTATATTTTTCATCCAGTATGG
+
+ATATATGAGTTTATATTTTTCATCCAGTATGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [121019-121047] vs target chrX:0-1000000 [689049-689077] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCAGATTGGGTCACATTTTCCATTCTGG
+||||||||||||||||||||||||||||
+CCAGATTGGGTCACATTTTCCATTCTGG
+
+CCAGATTGGGTCACATTTTCCATTCTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [122514-122539] vs target chrX:0-1000000 [691573-691598] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTTGAGGTGATGTGTGAGTCTAAT
+|||||||||||||||||||||||||
+CCTTGAGGTGATGTGTGAGTCTAAT
+
+CCTTGAGGTGATGTGTGAGTCTAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [122972-123005] vs target chrX:0-1000000 [692057-692090] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAATTGAGAATTTTGATTAGTCTTATTGCTTTA
+|||||||||||||||||||||||||||||||||
+CAATTGAGAATTTTGATTAGTCTTATTGCTTTA
+
+CAATTGAGAATTTTGATTAGTCTTATTGCTTTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [127788-127812] vs target chrX:0-1000000 [695039-695063] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAATTGAGTTGGATGATCTTCAA
+||||||||||||||||||||||||
+GAAATTGAGTTGGATGATCTTCAA
+
+GAAATTGAGTTGGATGATCTTCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [127813-127838] vs target chrX:0-1000000 [695064-695089] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTCTTTTTCAATTCCAAACACTTCT
+|||||||||||||||||||||||||
+GTCTTTTTCAATTCCAAACACTTCT
+
+GTCTTTTTCAATTCCAAACACTTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [127934-127983] vs target chrX:0-1000000 [695184-695233] + length 49 check 49
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATAACTTTGAAAAATCTAATACCCATAGCTAATCATTTTAATGTGACA
+|||||||||||||||||||||||||||||||||||||||||||||||||
+TATAACTTTGAAAAATCTAATACCCATAGCTAATCATTTTAATGTGACA
+
+TATAACTTTGAAAAATCTAATACCCATAGCTAATCATTTTAATGTGACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [128385-128418] vs target chrX:0-1000000 [695608-695641] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACAAGTCTTCGCATAGGTTAGTGGCAAGTTAA
+|||||||||||||||||||||||||||||||||
+AACAAGTCTTCGCATAGGTTAGTGGCAAGTTAA
+
+AACAAGTCTTCGCATAGGTTAGTGGCAAGTTAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [128661-128687] vs target chrX:0-1000000 [695877-695903] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCTCTGAGCCTTGATTTCTTTCTCT
+||||||||||||||||||||||||||
+ATCTCTGAGCCTTGATTTCTTTCTCT
+
+ATCTCTGAGCCTTGATTTCTTTCTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [130201-130230] vs target chrX:0-1000000 [702086-702115] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCATGCTTAAGGTTAAGTAGATTCTGTGT
+|||||||||||||||||||||||||||||
+TCATGCTTAAGGTTAAGTAGATTCTGTGT
+
+TCATGCTTAAGGTTAAGTAGATTCTGTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [130242-130269] vs target chrX:0-1000000 [702127-702154] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATGGAATTTTAATTAAGTCTGTGCCT
+|||||||||||||||||||||||||||
+AATGGAATTTTAATTAAGTCTGTGCCT
+
+AATGGAATTTTAATTAAGTCTGTGCCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [131630-131654] vs target chrX:0-1000000 [705551-705575] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATATTTGTAGGATACCAAAACAGC
+||||||||||||||||||||||||
+ATATTTGTAGGATACCAAAACAGC
+
+ATATTTGTAGGATACCAAAACAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [134521-134547] vs target chrX:0-1000000 [707805-707831] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTTGTGTAATAAGAAGAGCAAATGC
+||||||||||||||||||||||||||
+CCTTGTGTAATAAGAAGAGCAAATGC
+
+CCTTGTGTAATAAGAAGAGCAAATGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [144130-144154] vs target chrX:0-1000000 [715940-715964] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCTCACATTGATATGCAGATTA
+||||||||||||||||||||||||
+TTTCTCACATTGATATGCAGATTA
+
+TTTCTCACATTGATATGCAGATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [146056-146088] vs target chrX:0-1000000 [720525-720557] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGTTTAATTGGATGAAAAATATTCTGATGCA
+||||||||||||||||||||||||||||||||
+GAGTTTAATTGGATGAAAAATATTCTGATGCA
+
+GAGTTTAATTGGATGAAAAATATTCTGATGCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [146450-146475] vs target chrX:0-1000000 [720887-720912] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGATGGATTGTTGGTGGACCTGGCT
+|||||||||||||||||||||||||
+TGATGGATTGTTGGTGGACCTGGCT
+
+TGATGGATTGTTGGTGGACCTGGCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [147816-147843] vs target chrX:0-1000000 [722263-722290] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGGAATTGGTCCCTGGGGAGACTCCA
+|||||||||||||||||||||||||||
+CTGGAATTGGTCCCTGGGGAGACTCCA
+
+CTGGAATTGGTCCCTGGGGAGACTCCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [155329-155360] vs target chrX:0-1000000 [731170-731201] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCTTATTAGTTAGTGGGAACAGAGCAAACT
+|||||||||||||||||||||||||||||||
+GGCTTATTAGTTAGTGGGAACAGAGCAAACT
+
+GGCTTATTAGTTAGTGGGAACAGAGCAAACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [155385-155437] vs target chrX:0-1000000 [731245-731297] + length 52 check 52
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTCTGATTTATGAATTTCTCCTGGAATGAATTTTCCACAAATATATGATGG
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGTCTGATTTATGAATTTCTCCTGGAATGAATTTTCCACAAATATATGATGG
+
+TGTCTGATTTATGAATTTCTCCTGGAATGAATTTTCCACAAATATATGATGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [158678-158704] vs target chrX:0-1000000 [733241-733267] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAGCATGTTTTCAGATTTTATCACCA
+||||||||||||||||||||||||||
+TAGCATGTTTTCAGATTTTATCACCA
+
+TAGCATGTTTTCAGATTTTATCACCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [163319-163343] vs target chrX:0-1000000 [735153-735177] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTCTAGGAGAGAGAATTAAAAT
+||||||||||||||||||||||||
+TTTTCTAGGAGAGAGAATTAAAAT
+
+TTTTCTAGGAGAGAGAATTAAAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [166889-166923] vs target chrX:0-1000000 [738808-738842] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTAATTTTGATAGAAATGAATTGTTAATGAGCC
+||||||||||||||||||||||||||||||||||
+TCTAATTTTGATAGAAATGAATTGTTAATGAGCC
+
+TCTAATTTTGATAGAAATGAATTGTTAATGAGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [166931-166957] vs target chrX:0-1000000 [738851-738877] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGAGTTTCTCTAATTACAGGAAACA
+||||||||||||||||||||||||||
+GAGAGTTTCTCTAATTACAGGAAACA
+
+GAGAGTTTCTCTAATTACAGGAAACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [174450-174475] vs target chrX:0-1000000 [755741-755766] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTGTTTGAGTTTGGCCCCAGCAGTG
+|||||||||||||||||||||||||
+TTGTTTGAGTTTGGCCCCAGCAGTG
+
+TTGTTTGAGTTTGGCCCCAGCAGTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [174812-174839] vs target chrX:0-1000000 [756106-756133] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTATCCAGAAGATGGAGACCAGGATG
+|||||||||||||||||||||||||||
+TGTATCCAGAAGATGGAGACCAGGATG
+
+TGTATCCAGAAGATGGAGACCAGGATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [186181-186214] vs target chrX:0-1000000 [769948-769981] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGCCATGGATGTTTCCTGCCCAGATGGAGGCC
+|||||||||||||||||||||||||||||||||
+GAGCCATGGATGTTTCCTGCCCAGATGGAGGCC
+
+GAGCCATGGATGTTTCCTGCCCAGATGGAGGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [186260-186285] vs target chrX:0-1000000 [770027-770052] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATGAAACAAAACCCACAACCCTGC
+|||||||||||||||||||||||||
+GATGAAACAAAACCCACAACCCTGC
+
+GATGAAACAAAACCCACAACCCTGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [186324-186356] vs target chrX:0-1000000 [770091-770123] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGACAGGACAGACAAATTGCAGTATTTAGAA
+||||||||||||||||||||||||||||||||
+CAGACAGGACAGACAAATTGCAGTATTTAGAA
+
+CAGACAGGACAGACAAATTGCAGTATTTAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [186565-186589] vs target chrX:0-1000000 [770434-770458] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCCCACCAGTTTCCATGTGGGAT
+||||||||||||||||||||||||
+TGCCCACCAGTTTCCATGTGGGAT
+
+TGCCCACCAGTTTCCATGTGGGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [201463-201488] vs target chrX:0-1000000 [784171-784196] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGGGAGGAAAGGCATTCTGGGCAG
+|||||||||||||||||||||||||
+GTGGGAGGAAAGGCATTCTGGGCAG
+
+GTGGGAGGAAAGGCATTCTGGGCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [202544-202575] vs target chrX:0-1000000 [785212-785243] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGCCAAGGTCACCCAGTCATTGGCGGAACGC
+|||||||||||||||||||||||||||||||
+AGCCAAGGTCACCCAGTCATTGGCGGAACGC
+
+AGCCAAGGTCACCCAGTCATTGGCGGAACGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [203427-203470] vs target chrX:0-1000000 [786044-786087] + length 43 check 43
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGGGGCTTGGCCGACGGGGAGCAGGTGGGCGGGGACAGGGCCC
+|||||||||||||||||||||||||||||||||||||||||||
+GGGGGCTTGGCCGACGGGGAGCAGGTGGGCGGGGACAGGGCCC
+
+GGGGGCTTGGCCGACGGGGAGCAGGTGGGCGGGGACAGGGCCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [203486-203514] vs target chrX:0-1000000 [786104-786132] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGCGAGGTGGCGGGCTGCGTGCGCAA
+||||||||||||||||||||||||||||
+GCAGCGAGGTGGCGGGCTGCGTGCGCAA
+
+GCAGCGAGGTGGCGGGCTGCGTGCGCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [204296-204331] vs target chrX:0-1000000 [786887-786922] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGATGGTGTATTTATAGGGGAAGAAGCAGGCGCTA
+|||||||||||||||||||||||||||||||||||
+TGATGGTGTATTTATAGGGGAAGAAGCAGGCGCTA
+
+TGATGGTGTATTTATAGGGGAAGAAGCAGGCGCTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [207186-207242] vs target chrX:0-1000000 [790665-790721] + length 56 check 56
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCCAATGAGTTCCTGGAGGAGCTGCGCCAGGGCACCATCGAGCGAGAGTGCATGGA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCCAATGAGTTCCTGGAGGAGCTGCGCCAGGGCACCATCGAGCGAGAGTGCATGGA
+
+GCCAATGAGTTCCTGGAGGAGCTGCGCCAGGGCACCATCGAGCGAGAGTGCATGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [207247-207272] vs target chrX:0-1000000 [790726-790751] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCTGCAGCTACGAGGAGGTCAAGGA
+|||||||||||||||||||||||||
+TCTGCAGCTACGAGGAGGTCAAGGA
+
+TCTGCAGCTACGAGGAGGTCAAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [207742-207776] vs target chrX:0-1000000 [791246-791280] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTTCATCATCTGGAGGTGCCAGCTGCAGAAAGC
+||||||||||||||||||||||||||||||||||
+TGTTCATCATCTGGAGGTGCCAGCTGCAGAAAGC
+
+TGTTCATCATCTGGAGGTGCCAGCTGCAGAAAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [207966-208004] vs target chrX:0-1000000 [791470-791508] + length 38 check 38
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGAGCACCCTCTACCTCCCTGAGCTCTCTCTCTCCAG
+||||||||||||||||||||||||||||||||||||||
+GAGAGCACCCTCTACCTCCCTGAGCTCTCTCTCTCCAG
+
+GAGAGCACCCTCTACCTCCCTGAGCTCTCTCTCTCCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [208190-208253] vs target chrX:0-1000000 [791695-791758] + length 63 check 63
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGTCTCCTATTTTCTTTTTAACTTTTTAAAGACTGTGCCACCACAAAACAGCCTTAGCCTCCT
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTCTCCTATTTTCTTTTTAACTTTTTAAAGACTGTGCCACCACAAAACAGCCTTAGCCTCCT
+
+GGTCTCCTATTTTCTTTTTAACTTTTTAAAGACTGTGCCACCACAAAACAGCCTTAGCCTCCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [208416-208448] vs target chrX:0-1000000 [791926-791958] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCATCAGGAACTGGCTTCTCTTATGCCAAAGG
+||||||||||||||||||||||||||||||||
+CCATCAGGAACTGGCTTCTCTTATGCCAAAGG
+
+CCATCAGGAACTGGCTTCTCTTATGCCAAAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [210977-211004] vs target chrX:0-1000000 [794137-794164] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTTATCTGAAACAATAGCCGGTGTG
+|||||||||||||||||||||||||||
+TGCTTATCTGAAACAATAGCCGGTGTG
+
+TGCTTATCTGAAACAATAGCCGGTGTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [211686-211722] vs target chrX:0-1000000 [794999-795035] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAATATGAGGAATTCAGGACAGGAAAGTGTCTTTTT
+||||||||||||||||||||||||||||||||||||
+GAATATGAGGAATTCAGGACAGGAAAGTGTCTTTTT
+
+GAATATGAGGAATTCAGGACAGGAAAGTGTCTTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [211972-212005] vs target chrX:0-1000000 [795331-795364] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGCTTGACAAGTAATGAAGCTCCATTTCAGGA
+|||||||||||||||||||||||||||||||||
+CAGCTTGACAAGTAATGAAGCTCCATTTCAGGA
+
+CAGCTTGACAAGTAATGAAGCTCCATTTCAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212304-212329] vs target chrX:0-1000000 [795653-795678] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTCAAAGAAAAGGCTCAAGATAT
+|||||||||||||||||||||||||
+TTTTCAAAGAAAAGGCTCAAGATAT
+
+TTTTCAAAGAAAAGGCTCAAGATAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212332-212360] vs target chrX:0-1000000 [795681-795709] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGATCCCTTCACCGTGCCTTCAGCTTTG
+||||||||||||||||||||||||||||
+GGATCCCTTCACCGTGCCTTCAGCTTTG
+
+GGATCCCTTCACCGTGCCTTCAGCTTTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212602-212627] vs target chrX:0-1000000 [795972-795997] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCGAGTCTCTCTCTAGCAAGAATTT
+|||||||||||||||||||||||||
+GCGAGTCTCTCTCTAGCAAGAATTT
+
+GCGAGTCTCTCTCTAGCAAGAATTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212865-212912] vs target chrX:0-1000000 [796233-796280] + length 47 check 47
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTGTGAATTTGTGACAGTGGAAACCCTGATATGTGCAACTGAGCTT
+|||||||||||||||||||||||||||||||||||||||||||||||
+ATTGTGAATTTGTGACAGTGGAAACCCTGATATGTGCAACTGAGCTT
+
+ATTGTGAATTTGTGACAGTGGAAACCCTGATATGTGCAACTGAGCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212947-212985] vs target chrX:0-1000000 [796315-796353] + length 38 check 38
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TACCACTTTAAACTGTGCTTGTATTCATGTGTTGACCC
+||||||||||||||||||||||||||||||||||||||
+TACCACTTTAAACTGTGCTTGTATTCATGTGTTGACCC
+
+TACCACTTTAAACTGTGCTTGTATTCATGTGTTGACCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [212986-213015] vs target chrX:0-1000000 [796354-796383] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGTCAGCTGGGAAATCTGTACATTCAGTA
+|||||||||||||||||||||||||||||
+TGTCAGCTGGGAAATCTGTACATTCAGTA
+
+TGTCAGCTGGGAAATCTGTACATTCAGTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [214421-214449] vs target chrX:0-1000000 [797677-797705] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAATGATCATAGCCAGCATTTATTGAGC
+||||||||||||||||||||||||||||
+AAATGATCATAGCCAGCATTTATTGAGC
+
+AAATGATCATAGCCAGCATTTATTGAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [215981-216007] vs target chrX:0-1000000 [798814-798840] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTGATGTGAGAACCCAAAGCCTGAA
+||||||||||||||||||||||||||
+AGTGATGTGAGAACCCAAAGCCTGAA
+
+AGTGATGTGAGAACCCAAAGCCTGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [221786-221822] vs target chrX:0-1000000 [802585-802621] + length 36 check 36
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCAGCTGCTTCCAGGAGCAGGAAGGAGAATTGTTTA
+||||||||||||||||||||||||||||||||||||
+CCAGCTGCTTCCAGGAGCAGGAAGGAGAATTGTTTA
+
+CCAGCTGCTTCCAGGAGCAGGAAGGAGAATTGTTTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [223040-223065] vs target chrX:0-1000000 [803770-803795] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACCCTAGAACCCCACAATTCCACTT
+|||||||||||||||||||||||||
+ACCCTAGAACCCCACAATTCCACTT
+
+ACCCTAGAACCCCACAATTCCACTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [224465-224496] vs target chrX:0-1000000 [805185-805216] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGCTGCTCCACTGGATCTGGGAAGGGCTTC
+|||||||||||||||||||||||||||||||
+CAGCTGCTCCACTGGATCTGGGAAGGGCTTC
+
+CAGCTGCTCCACTGGATCTGGGAAGGGCTTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [226456-226483] vs target chrX:0-1000000 [805864-805891] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAACCTCAGTCTTTGCTCTTCAGGCCT
+|||||||||||||||||||||||||||
+AAACCTCAGTCTTTGCTCTTCAGGCCT
+
+AAACCTCAGTCTTTGCTCTTCAGGCCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [227143-227169] vs target chrX:0-1000000 [806494-806520] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCCTAAGTTGCTTACAGAGTAGCAG
+||||||||||||||||||||||||||
+CTCCTAAGTTGCTTACAGAGTAGCAG
+
+CTCCTAAGTTGCTTACAGAGTAGCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [227472-227498] vs target chrX:0-1000000 [806826-806852] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGCACCTGGTGATAGCAGGTGAGGA
+||||||||||||||||||||||||||
+GAGCACCTGGTGATAGCAGGTGAGGA
+
+GAGCACCTGGTGATAGCAGGTGAGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [233495-233521] vs target chrX:0-1000000 [813286-813312] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAGGGCGCCACCTGGCGCCACAGGGA
+||||||||||||||||||||||||||
+CAGGGCGCCACCTGGCGCCACAGGGA
+
+CAGGGCGCCACCTGGCGCCACAGGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [233553-233579] vs target chrX:0-1000000 [813344-813370] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCATTGCCAACCTGTGGCTGTGGATG
+||||||||||||||||||||||||||
+GCATTGCCAACCTGTGGCTGTGGATG
+
+GCATTGCCAACCTGTGGCTGTGGATG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [235622-235652] vs target chrX:0-1000000 [815575-815605] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGACATGTTTGCAGAAAAAGTCTGGCTGAA
+||||||||||||||||||||||||||||||
+GGACATGTTTGCAGAAAAAGTCTGGCTGAA
+
+GGACATGTTTGCAGAAAAAGTCTGGCTGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [235662-235694] vs target chrX:0-1000000 [815615-815647] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAACAAAGGTTCACCCTTGGGAGCAATTTAG
+||||||||||||||||||||||||||||||||
+GAAACAAAGGTTCACCCTTGGGAGCAATTTAG
+
+GAAACAAAGGTTCACCCTTGGGAGCAATTTAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [236725-236758] vs target chrX:0-1000000 [817368-817401] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGGCTCCTCAGGGAGCTTGGGAGGGGCTGGCT
+|||||||||||||||||||||||||||||||||
+AGGGCTCCTCAGGGAGCTTGGGAGGGGCTGGCT
+
+AGGGCTCCTCAGGGAGCTTGGGAGGGGCTGGCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part3 [237178-237213] vs target chrX:0-1000000 [817795-817830] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCCTGCCTCTGAAGCCATCTGATTGGTGAGGAAAG
+|||||||||||||||||||||||||||||||||||
+CCCTGCCTCTGAAGCCATCTGATTGGTGAGGAAAG
+
+CCCTGCCTCTGAAGCCATCTGATTGGTGAGGAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [2870-2901] vs target chrX:0-1000000 [823276-823307] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTAATGTCCAGTTGGAAGTTGGAAGGAAAG
+|||||||||||||||||||||||||||||||
+AGTAATGTCCAGTTGGAAGTTGGAAGGAAAG
+
+AGTAATGTCCAGTTGGAAGTTGGAAGGAAAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [10146-10171] vs target chrX:0-1000000 [829172-829197] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCAAGGCCAATGGCAAAGATGACC
+|||||||||||||||||||||||||
+ATCAAGGCCAATGGCAAAGATGACC
+
+ATCAAGGCCAATGGCAAAGATGACC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [12416-12442] vs target chrX:0-1000000 [831414-831440] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAGAAATTTGAACTATTTGTCTTGGA
+||||||||||||||||||||||||||
+AAGAAATTTGAACTATTTGTCTTGGA
+
+AAGAAATTTGAACTATTTGTCTTGGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [12465-12490] vs target chrX:0-1000000 [831463-831488] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTGGCTATTTGTCATTGCCATGCC
+|||||||||||||||||||||||||
+GCTGGCTATTTGTCATTGCCATGCC
+
+GCTGGCTATTTGTCATTGCCATGCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [12497-12531] vs target chrX:0-1000000 [831495-831529] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TACAACTGGTGCCTGCTGGTGGCCAGGTGAGCAG
+||||||||||||||||||||||||||||||||||
+TACAACTGGTGCCTGCTGGTGGCCAGGTGAGCAG
+
+TACAACTGGTGCCTGCTGGTGGCCAGGTGAGCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [14290-14330] vs target chrX:0-1000000 [833151-833191] + length 40 check 40
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGAGCCTGCTTCAGTGACCTACAGAAAGGCTACTACCT
+||||||||||||||||||||||||||||||||||||||||
+GCAGAGCCTGCTTCAGTGACCTACAGAAAGGCTACTACCT
+
+GCAGAGCCTGCTTCAGTGACCTACAGAAAGGCTACTACCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [14994-15038] vs target chrX:0-1000000 [833957-834001] + length 44 check 44
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTCCTCTACATCTTGGTCATCATCCACTGGAATGCCTGCATCTA
+||||||||||||||||||||||||||||||||||||||||||||
+GTCCTCTACATCTTGGTCATCATCCACTGGAATGCCTGCATCTA
+
+GTCCTCTACATCTTGGTCATCATCCACTGGAATGCCTGCATCTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15090-15125] vs target chrX:0-1000000 [834053-834088] + length 35 check 35
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACATCACTGACCCTGAGTATGGCTACCTGGCTAG
+|||||||||||||||||||||||||||||||||||
+AACATCACTGACCCTGAGTATGGCTACCTGGCTAG
+
+AACATCACTGACCCTGAGTATGGCTACCTGGCTAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15177-15210] vs target chrX:0-1000000 [834140-834173] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGACACCACCCCCTGTAAAGGATGAGGAGTAC
+|||||||||||||||||||||||||||||||||
+GAGACACCACCCCCTGTAAAGGATGAGGAGTAC
+
+GAGACACCACCCCCTGTAAAGGATGAGGAGTAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15211-15239] vs target chrX:0-1000000 [834174-834202] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATTTGTCATCTTTGACTTCCTGATTGG
+||||||||||||||||||||||||||||
+TATTTGTCATCTTTGACTTCCTGATTGG
+
+TATTTGTCATCTTTGACTTCCTGATTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15270-15302] vs target chrX:0-1000000 [834233-834265] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGGGCTCCATGATCTCCAACATGAATGCCAC
+||||||||||||||||||||||||||||||||
+GTGGGCTCCATGATCTCCAACATGAATGCCAC
+
+GTGGGCTCCATGATCTCCAACATGAATGCCAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15392-15424] vs target chrX:0-1000000 [834355-834387] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGGTTTGACTACTTGTGGACCAATAAGAAGA
+||||||||||||||||||||||||||||||||
+GTGGTTTGACTACTTGTGGACCAATAAGAAGA
+
+GTGGTTTGACTACTTGTGGACCAATAAGAAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15468-15494] vs target chrX:0-1000000 [834431-834457] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGGCTGAGATAGCCATCAATGTCCA
+||||||||||||||||||||||||||
+AGGGCTGAGATAGCCATCAATGTCCA
+
+AGGGCTGAGATAGCCATCAATGTCCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15655-15680] vs target chrX:0-1000000 [834618-834643] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGGCAGTGGTGGCTGATGATGGTGT
+|||||||||||||||||||||||||
+TGGCAGTGGTGGCTGATGATGGTGT
+
+TGGCAGTGGTGGCTGATGATGGTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15720-15749] vs target chrX:0-1000000 [834683-834712] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGATCAGTATCCTTAACATTAAGGGCAG
+|||||||||||||||||||||||||||||
+GAGATCAGTATCCTTAACATTAAGGGCAG
+
+GAGATCAGTATCCTTAACATTAAGGGCAG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15807-15836] vs target chrX:0-1000000 [834770-834799] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGCTTGTCCAAGGATGATCTTATGGAAGC
+|||||||||||||||||||||||||||||
+TGCTTGTCCAAGGATGATCTTATGGAAGC
+
+TGCTTGTCCAAGGATGATCTTATGGAAGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15837-15863] vs target chrX:0-1000000 [834800-834826] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTGACTGAGTACCCTGATGCCAAGAA
+||||||||||||||||||||||||||
+GTGACTGAGTACCCTGATGCCAAGAA
+
+GTGACTGAGTACCCTGATGCCAAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [15987-16011] vs target chrX:0-1000000 [834950-834974] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACCTTGTACACTCGCTTTGGCCGC
+||||||||||||||||||||||||
+ACCTTGTACACTCGCTTTGGCCGC
+
+ACCTTGTACACTCGCTTTGGCCGC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [22184-22212] vs target chrX:0-1000000 [842594-842622] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGGCAGACATTTCCCTGGAAGGACAATC
+||||||||||||||||||||||||||||
+AGGCAGACATTTCCCTGGAAGGACAATC
+
+AGGCAGACATTTCCCTGGAAGGACAATC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [23130-23159] vs target chrX:0-1000000 [843532-843561] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AAATTAAATTGGGCAATTTGTTGTTAGGT
+|||||||||||||||||||||||||||||
+AAATTAAATTGGGCAATTTGTTGTTAGGT
+
+AAATTAAATTGGGCAATTTGTTGTTAGGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [23227-23257] vs target chrX:0-1000000 [843629-843659] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAGTGGTGGAATCAGAGGCCAGCTGGAGG
+||||||||||||||||||||||||||||||
+GGAGTGGTGGAATCAGAGGCCAGCTGGAGG
+
+GGAGTGGTGGAATCAGAGGCCAGCTGGAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [24239-24268] vs target chrX:0-1000000 [844635-844664] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGACAGGCTGCCCAAACCTGTTGAATTCA
+|||||||||||||||||||||||||||||
+AGACAGGCTGCCCAAACCTGTTGAATTCA
+
+AGACAGGCTGCCCAAACCTGTTGAATTCA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [24297-24321] vs target chrX:0-1000000 [844693-844717] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ACAGGGACAATGGCTGGAGGGCTC
+||||||||||||||||||||||||
+ACAGGGACAATGGCTGGAGGGCTC
+
+ACAGGGACAATGGCTGGAGGGCTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [24474-24502] vs target chrX:0-1000000 [844870-844898] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCTGAGCACTTGGATATGCAATGTGCTT
+||||||||||||||||||||||||||||
+GCTGAGCACTTGGATATGCAATGTGCTT
+
+GCTGAGCACTTGGATATGCAATGTGCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [30248-30281] vs target chrX:0-1000000 [850019-850052] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTGGCTGCCATGTCAGGAAGGAATAAGGGAGA
+|||||||||||||||||||||||||||||||||
+ATTGGCTGCCATGTCAGGAAGGAATAAGGGAGA
+
+ATTGGCTGCCATGTCAGGAAGGAATAAGGGAGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [32259-32283] vs target chrX:0-1000000 [851768-851792] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGACAAGTCTTCCTCTTTGCTCTT
+||||||||||||||||||||||||
+GGACAAGTCTTCCTCTTTGCTCTT
+
+GGACAAGTCTTCCTCTTTGCTCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [36526-36554] vs target chrX:0-1000000 [859094-859122] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTTATTTTCAATGTCAATTAGAAGGAA
+||||||||||||||||||||||||||||
+TTTTATTTTCAATGTCAATTAGAAGGAA
+
+TTTTATTTTCAATGTCAATTAGAAGGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [41620-41659] vs target chrX:0-1000000 [866365-866404] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCATTCTGCTCCCTCCTCCTCACCTGGCTGTCAGTTGTC
+|||||||||||||||||||||||||||||||||||||||
+TCATTCTGCTCCCTCCTCCTCACCTGGCTGTCAGTTGTC
+
+TCATTCTGCTCCCTCCTCCTCACCTGGCTGTCAGTTGTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [41666-41694] vs target chrX:0-1000000 [866411-866439] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGTAGAAATAAAGCAAACACACAGAAAC
+||||||||||||||||||||||||||||
+AGTAGAAATAAAGCAAACACACAGAAAC
+
+AGTAGAAATAAAGCAAACACACAGAAAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [41703-41730] vs target chrX:0-1000000 [866448-866475] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCAGAAAGATTAGAGGAAATATTGGAA
+|||||||||||||||||||||||||||
+TCAGAAAGATTAGAGGAAATATTGGAA
+
+TCAGAAAGATTAGAGGAAATATTGGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [42111-42136] vs target chrX:0-1000000 [866893-866918] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCCAAGAATTACTGATCTCCTGACC
+|||||||||||||||||||||||||
+TCCAAGAATTACTGATCTCCTGACC
+
+TCCAAGAATTACTGATCTCCTGACC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [44879-44907] vs target chrX:0-1000000 [869429-869457] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATATTGGACTTAGACTCAAAAGTACTGG
+||||||||||||||||||||||||||||
+ATATTGGACTTAGACTCAAAAGTACTGG
+
+ATATTGGACTTAGACTCAAAAGTACTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [47040-47064] vs target chrX:0-1000000 [871110-871134] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCAGGAGAATGAAAGGGGTTTGTT
+||||||||||||||||||||||||
+GCAGGAGAATGAAAGGGGTTTGTT
+
+GCAGGAGAATGAAAGGGGTTTGTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [55021-55047] vs target chrX:0-1000000 [875576-875602] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TGACTTTGACAGTTTTGAGGAGGACT
+||||||||||||||||||||||||||
+TGACTTTGACAGTTTTGAGGAGGACT
+
+TGACTTTGACAGTTTTGAGGAGGACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [55472-55498] vs target chrX:0-1000000 [876023-876049] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATACTTTGGGTTATATTCTAATATT
+||||||||||||||||||||||||||
+TATACTTTGGGTTATATTCTAATATT
+
+TATACTTTGGGTTATATTCTAATATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [56961-56988] vs target chrX:0-1000000 [876176-876203] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTACTTTCTGGTGCTACAAGATACTT
+|||||||||||||||||||||||||||
+TTTACTTTCTGGTGCTACAAGATACTT
+
+TTTACTTTCTGGTGCTACAAGATACTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [58396-58425] vs target chrX:0-1000000 [877849-877878] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCACACATTGTTGGTAAGAATGTAAAATT
+|||||||||||||||||||||||||||||
+TCACACATTGTTGGTAAGAATGTAAAATT
+
+TCACACATTGTTGGTAAGAATGTAAAATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [58826-58853] vs target chrX:0-1000000 [878294-878321] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTCTGCTTTCTCCAGATGACACTGT
+|||||||||||||||||||||||||||
+ATTTCTGCTTTCTCCAGATGACACTGT
+
+ATTTCTGCTTTCTCCAGATGACACTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [61010-61036] vs target chrX:0-1000000 [881366-881392] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATATTATGAATACCATACACTCTGG
+||||||||||||||||||||||||||
+TATATTATGAATACCATACACTCTGG
+
+TATATTATGAATACCATACACTCTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [63616-63650] vs target chrX:0-1000000 [883807-883841] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTCCAAGGTAGAATTAAATAACTAACCTTTGTGG
+||||||||||||||||||||||||||||||||||
+TTCCAAGGTAGAATTAAATAACTAACCTTTGTGG
+
+TTCCAAGGTAGAATTAAATAACTAACCTTTGTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [63651-63679] vs target chrX:0-1000000 [883842-883870] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GCACTTTGTAGTTTTCAAAGCACTTTCC
+||||||||||||||||||||||||||||
+GCACTTTGTAGTTTTCAAAGCACTTTCC
+
+GCACTTTGTAGTTTTCAAAGCACTTTCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [64842-64869] vs target chrX:0-1000000 [885054-885081] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATTTTCTCCACCTCAATATTTCTTCT
+|||||||||||||||||||||||||||
+CATTTTCTCCACCTCAATATTTCTTCT
+
+CATTTTCTCCACCTCAATATTTCTTCT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [65711-65738] vs target chrX:0-1000000 [885886-885913] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAAACCTGCTCTGCCTGCTTAGCCTAT
+|||||||||||||||||||||||||||
+CAAACCTGCTCTGCCTGCTTAGCCTAT
+
+CAAACCTGCTCTGCCTGCTTAGCCTAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [72903-72930] vs target chrX:0-1000000 [895870-895897] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTAATAATTCTTTATATTAAACTTTCC
+|||||||||||||||||||||||||||
+TTAATAATTCTTTATATTAAACTTTCC
+
+TTAATAATTCTTTATATTAAACTTTCC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [73326-73355] vs target chrX:0-1000000 [896290-896319] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGGAGCTTTTAACATCTATGGATGTCCTG
+|||||||||||||||||||||||||||||
+GGGAGCTTTTAACATCTATGGATGTCCTG
+
+GGGAGCTTTTAACATCTATGGATGTCCTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [81319-81344] vs target chrX:0-1000000 [902093-902118] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTCATGCATGCAGAGGGCTGAGAT
+|||||||||||||||||||||||||
+TTTCATGCATGCAGAGGGCTGAGAT
+
+TTTCATGCATGCAGAGGGCTGAGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [84071-84102] vs target chrX:0-1000000 [903919-903950] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAAGTAGAGTTTATCCCCAGGATGCAAGAAT
+|||||||||||||||||||||||||||||||
+CAAGTAGAGTTTATCCCCAGGATGCAAGAAT
+
+CAAGTAGAGTTTATCCCCAGGATGCAAGAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [86672-86701] vs target chrX:0-1000000 [906202-906231] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGATTTCCTCCTACACAACAGAACAAAAA
+|||||||||||||||||||||||||||||
+GGATTTCCTCCTACACAACAGAACAAAAA
+
+GGATTTCCTCCTACACAACAGAACAAAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [86732-86756] vs target chrX:0-1000000 [906263-906287] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGCAGTCACTGTGAATCACATATT
+||||||||||||||||||||||||
+GGCAGTCACTGTGAATCACATATT
+
+GGCAGTCACTGTGAATCACATATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [90580-90604] vs target chrX:0-1000000 [910240-910264] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GTTGTTGCTTGTAATCTTTAAAGG
+||||||||||||||||||||||||
+GTTGTTGCTTGTAATCTTTAAAGG
+
+GTTGTTGCTTGTAATCTTTAAAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [90608-90639] vs target chrX:0-1000000 [910268-910299] + length 31 check 31
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAAATTAAAAGAATTAAGAAACAATTATGTC
+|||||||||||||||||||||||||||||||
+GAAATTAAAAGAATTAAGAAACAATTATGTC
+
+GAAATTAAAAGAATTAAGAAACAATTATGTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [92056-92081] vs target chrX:0-1000000 [911432-911457] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATGGTCTAGGGGAATCCCTAGCTT
+|||||||||||||||||||||||||
+CATGGTCTAGGGGAATCCCTAGCTT
+
+CATGGTCTAGGGGAATCCCTAGCTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [92780-92819] vs target chrX:0-1000000 [912148-912187] + length 39 check 39
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GATGATGAATTGGGGCTTATTGAAATGGCCTTAAATCAA
+|||||||||||||||||||||||||||||||||||||||
+GATGATGAATTGGGGCTTATTGAAATGGCCTTAAATCAA
+
+GATGATGAATTGGGGCTTATTGAAATGGCCTTAAATCAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [95161-95186] vs target chrX:0-1000000 [913556-913581] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAGGAGGCAGTTGCAGAAGTCCAGG
+|||||||||||||||||||||||||
+GAGGAGGCAGTTGCAGAAGTCCAGG
+
+GAGGAGGCAGTTGCAGAAGTCCAGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [97441-97465] vs target chrX:0-1000000 [914759-914783] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTTAAGAATAAAGGAGTGATTA
+||||||||||||||||||||||||
+ATTTTAAGAATAAAGGAGTGATTA
+
+ATTTTAAGAATAAAGGAGTGATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [99100-99128] vs target chrX:0-1000000 [915872-915900] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CATTTTCCCTTTTGTGCAAGAAGAAAAA
+||||||||||||||||||||||||||||
+CATTTTCCCTTTTGTGCAAGAAGAAAAA
+
+CATTTTCCCTTTTGTGCAAGAAGAAAAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [99129-99156] vs target chrX:0-1000000 [915901-915928] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TAGAAAATTACATTCTTCTCAGATTTC
+|||||||||||||||||||||||||||
+TAGAAAATTACATTCTTCTCAGATTTC
+
+TAGAAAATTACATTCTTCTCAGATTTC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [99385-99419] vs target chrX:0-1000000 [916133-916167] + length 34 check 34
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AGATTCAGGAAGGTTGGGAATTCACTCAAGTCAT
+||||||||||||||||||||||||||||||||||
+AGATTCAGGAAGGTTGGGAATTCACTCAAGTCAT
+
+AGATTCAGGAAGGTTGGGAATTCACTCAAGTCAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [99635-99660] vs target chrX:0-1000000 [916379-916404] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAAATCAGAGAAGGAAATTATACA
+|||||||||||||||||||||||||
+GGAAATCAGAGAAGGAAATTATACA
+
+GGAAATCAGAGAAGGAAATTATACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [100391-100421] vs target chrX:0-1000000 [916943-916973] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTTGTCTGCCAAACTCCCTGGGGCTTACT
+||||||||||||||||||||||||||||||
+CTTTGTCTGCCAAACTCCCTGGGGCTTACT
+
+CTTTGTCTGCCAAACTCCCTGGGGCTTACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [109665-109695] vs target chrX:0-1000000 [919435-919465] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCCCACCTCCTCCAGGAAATCTGTGCTGAC
+||||||||||||||||||||||||||||||
+TCCCACCTCCTCCAGGAAATCTGTGCTGAC
+
+TCCCACCTCCTCCAGGAAATCTGTGCTGAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [111959-111985] vs target chrX:0-1000000 [921400-921426] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TTTGAGCCTCAATGTCCTCCCCATTA
+||||||||||||||||||||||||||
+TTTGAGCCTCAATGTCCTCCCCATTA
+
+TTTGAGCCTCAATGTCCTCCCCATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [118555-118587] vs target chrX:0-1000000 [933894-933926] + length 32 check 32
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AACACATGGGACAAATAGAAAACAGATAACAA
+||||||||||||||||||||||||||||||||
+AACACATGGGACAAATAGAAAACAGATAACAA
+
+AACACATGGGACAAATAGAAAACAGATAACAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [124471-124501] vs target chrX:0-1000000 [937008-937038] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGAATAATCTATAAGTACTTGAAAAGATT
+||||||||||||||||||||||||||||||
+ATGAATAATCTATAAGTACTTGAAAAGATT
+
+ATGAATAATCTATAAGTACTTGAAAAGATT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [126634-126662] vs target chrX:0-1000000 [937949-937977] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+AATATAATTGATTTAAAAATCTGGATGA
+||||||||||||||||||||||||||||
+AATATAATTGATTTAAAAATCTGGATGA
+
+AATATAATTGATTTAAAAATCTGGATGA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [133963-133987] vs target chrX:0-1000000 [944838-944862] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CAAGGACAGATCAGCAGATGAGAA
+||||||||||||||||||||||||
+CAAGGACAGATCAGCAGATGAGAA
+
+CAAGGACAGATCAGCAGATGAGAA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [134294-134319] vs target chrX:0-1000000 [945180-945205] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATCAGACAAATGGCACCAAAGGTTA
+|||||||||||||||||||||||||
+ATCAGACAAATGGCACCAAAGGTTA
+
+ATCAGACAAATGGCACCAAAGGTTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [136414-136440] vs target chrX:0-1000000 [947137-947163] + length 26 check 26
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTGCAAAACATTGCTGAAAGAAATTA
+||||||||||||||||||||||||||
+CTGCAAAACATTGCTGAAAGAAATTA
+
+CTGCAAAACATTGCTGAAAGAAATTA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [139468-139493] vs target chrX:0-1000000 [951476-951501] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATGATTAAAGCCTCAGTGGGTAGTG
+|||||||||||||||||||||||||
+ATGATTAAAGCCTCAGTGGGTAGTG
+
+ATGATTAAAGCCTCAGTGGGTAGTG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [142787-142816] vs target chrX:0-1000000 [954524-954553] + length 29 check 29
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TATCCCACTCCCTCTGTTTGTTCCTTTGG
+|||||||||||||||||||||||||||||
+TATCCCACTCCCTCTGTTTGTTCCTTTGG
+
+TATCCCACTCCCTCTGTTTGTTCCTTTGG AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [142874-142899] vs target chrX:0-1000000 [954611-954636] + length 25 check 25
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAGAAGTAAGGCATATGTTGTTTT
+|||||||||||||||||||||||||
+GGAGAAGTAAGGCATATGTTGTTTT
+
+GGAGAAGTAAGGCATATGTTGTTTT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [143608-143632] vs target chrX:0-1000000 [956228-956252] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GAATTGCATTGAATCTATAGAACA
+||||||||||||||||||||||||
+GAATTGCATTGAATCTATAGAACA
+
+GAATTGCATTGAATCTATAGAACA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [146219-146243] vs target chrX:0-1000000 [959319-959343] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+ATTTTACCTTGTCAGGTGCTAGAT
+||||||||||||||||||||||||
+ATTTTACCTTGTCAGGTGCTAGAT
+
+ATTTTACCTTGTCAGGTGCTAGAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [157769-157797] vs target chrX:0-1000000 [980206-980234] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTCGCATCATTGTGTTTCCAAGGCAACT
+||||||||||||||||||||||||||||
+CTCGCATCATTGTGTTTCCAAGGCAACT
+
+CTCGCATCATTGTGTTTCCAAGGCAACT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [161548-161576] vs target chrX:0-1000000 [983397-983425] + length 28 check 28
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTTTCATCCTGGTGGGTAATTTTATTGT
+||||||||||||||||||||||||||||
+CTTTCATCCTGGTGGGTAATTTTATTGT
+
+CTTTCATCCTGGTGGGTAATTTTATTGT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [162539-162563] vs target chrX:0-1000000 [984282-984306] + length 24 check 24
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+GGAAGTTACTGTTATTCTGAGATA
+||||||||||||||||||||||||
+GGAAGTTACTGTTATTCTGAGATA
+
+GGAAGTTACTGTTATTCTGAGATA AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [163306-163336] vs target chrX:0-1000000 [985416-985446] + length 30 check 30
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CTAAAGGTCAGAACAGGTTCAAATGCTCAC
+||||||||||||||||||||||||||||||
+CTAAAGGTCAGAACAGGTTCAAATGCTCAC
+
+CTAAAGGTCAGAACAGGTTCAAATGCTCAC AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [163657-163684] vs target chrX:0-1000000 [985750-985777] + length 27 check 27
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+CCTCAGGTTTCTGTTAATTTGGCCAAT
+|||||||||||||||||||||||||||
+CCTCAGGTTTCTGTTAATTTGGCCAAT
+
+CCTCAGGTTTCTGTTAATTTGGCCAAT AMB
+-------------------------------------------------------------------------------
+
+Query chrX_part4 [172332-172365] vs target chrX:0-1000000 [994844-994877] + length 33 check 33
+Identity (w/ indel count): 100 %
+-------------------------------------------------------------------------------
+
+TCCTTGAGGGAAATTTATAGCATATTTTAAATG
+|||||||||||||||||||||||||||||||||
+TCCTTGAGGGAAATTTATAGCATATTTTAAATG
+
+TCCTTGAGGGAAATTTATAGCATATTTTAAATG AMB
+-------------------------------------------------------------------------------
+
+
+Total bases aligned:               13715
+Total bases in target sequence:    1000001
+Covered by at least one alignment: 13714 (1.3714 %)
+All bases in aligns: 13762
+Executing: ./SortSatsuma -i test_out/xcorr_first/satsuma_summary.chained.out > test_out/xcorr_first/satsuma_summary.chained.out_sorted > 
+********************************************************
+ERROR!!! See log file for more error messages. ABORTING!
+********************************************************

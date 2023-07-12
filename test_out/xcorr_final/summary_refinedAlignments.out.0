@@ -1,0 +1,1714 @@
+##BLOCK
+chrX:0-1000000       +       1873 TGAATGCCTCTGGAATGCACTGGAA 1897
+                                  |||||||||||||||||||||||||
+PseudochrX:0-1000000 +        507 TGAATGCCTCTGGAATGCACTGGAA 531
+
+
+
+##GAP
+chrX:0-1000000       +       3168 TATCTCAAGAGGAAGATTCTGGAAGTCAGGGACACATCGTACCTTGCGTTTCTCTCTGGGAGCCATGCATATGATTGGTGCAAAATAAACATTGTCCAAGTTGGCTTCGTGGAGAGGAG-----------AATATTTGGTGCTCCTGGCACAGGGATCTCTCTTTCCTCTGTCACCTCCACTCTTTCCATCAGAGTCCAG 3356
+                                  |||||  || | | | ||||||||| ||| ||| |||| ||  ||   ||||||||||    |  ||||| | ||||||   |||| ||||||| || ||||| ||| ||| |||| ||           | ||| ||||  |||||||||  ||||| ||| ||| ||||  ||||  ||||||||||||||| ||  |
+PseudochrX:0-1000000 +       1904 TATCTAGAGGGAAGGCTTCTGGAAGCCAGAGACCCATCTTATTTTCTATTTCTCTCTG----CTGTGCATGTAATTGGTATGAAATGAACATTGGCCCAGTTGCCTTGGTGAAGAGAAGGGACACATCGAATTATCTGGTATTCCTGGCACTTGGATCCCTCCTTCTTCTGCTACCTTGACTCTTTCCATCAGACTCTGG 2099
+
+
+
+chrX:0-1000000       +       3357 CATGCCGGGTGGCCCTGGGCCCAGAGTAAGGGGGAGTGAGCAGTGCCCTGTCCCTCACCCCCTGTCCTCATCACCTGTGGGGATTTTCCTTTAGAAACTCTGACTTTTCAATTTTTCCAAGACTATCTTTCTGCAGTGAAAGATTGGGAGAGAACTAAGTGAAAGTATTCCACTT-GGGGATCTGCTCACTGTCTGCTTA 3555
+                                  ||    |  ||||||| ||||||| | | ||||  || || ||    || ||||||              | | || |||| ||||||  ||||||||| |||| ||| |||||||||| ||  |||||||||  |  |||  ||| || |||||| ||||| ||||  |||||   | |||||||||            
+PseudochrX:0-1000000 +       2100 CAGAGGGTTTGGCCCTTGGCCCAGGGCATGGGGAGGTCAGTAG----CTCTCCCTCT------------GTTATCTATGGGTATTTTCGCTTAGAAACTTTGACCTTTGAATTTTTCCAGGATGATCTTTCTGTGGCAAAACCTTGTGAAAGAACTGAGTGACAGTACCCCACTCAAGAGATCTGCTC-----------C 2272
+
+
+
+chrX:0-1000000       +       3556 CTGTGTCTTTTTGGGCCCTCCCTGCTTCATT---GCCGCCACCACCTCC----ACCTGGCTCCTGCTGTCTCCATCTCGAATGGGAATTACTGGACCCTTGTCCAGCTGCTCCCTGGTCCCACTGCCTTCATTGCTGCACCCACCAACCCAGGCTCCACATGGCAATCAGAATGGTCATCCTAAAATAGATT-TCTTCTT 3747
+                                  ||||||| | | ||       ||||||| |     | |||||||||  |     ||||| ||| |||||| |  | ||  ||    ||||||| |       ||||||||||||||||||| | || | || || ||  ||||  || |||  |||  ||   || ||||  |||   |||| ||| ||||| | ||  |
+PseudochrX:0-1000000 +       2273 CTGTGTCCTCTAGG------ACTGCTTCCTCCTCACTGCCACCACCGGCTCTGCCCTGGTTCCAGCTGTCACTGTGTCACATCAAGATTACTGCA-------CCAGCTGCTCCCTGGTCCCGCCGCATCCACTGTTGGCCCCATGAATCCACCCTCTGCACAACAGTCAGGGTGGCTGTCCTGAAACAGATTATTTTTCT 2459
+
+
+
+chrX:0-1000000       +       3748 TTCACGCCCCAGCTCATAAATGGCAACTCATCTTCAAAATAAAACCAAGCTACTGAGTGTTGGCATCCAGGCACCCCAAGTCTCAGCCTTTGGCATGCCTCCTACACCTCTGATACTGCATTTATGGTACAAACTTGTTCATTTCCAAAATGCAGCGGGTGCATTGATGTCTCTAACACTCAATCTGGGCAATTCTCCCC 3947
+                                   || | ||||||||||  ||||||||||  |||  |  |||||||||| || ||||  || |   ||| ||   ||  |   || | |  |||    |   |     |     | ||     | | |                          | ||     || |||| ||||    |||||||  |||||||| || |
+PseudochrX:0-1000000 +       2460 CTCGCTCCCCAGCTCACGAATGGCAACTTGTCTCTAGGATAAAACCAAACTTCTGACAGTGGCGTTCCGGGTGACCTGACCATCTGACCCTGGGTGTCAGGCCCTGTCATAACTCCTATGACTCTAGA------------------------TACCGCACTTATCGATGCCTCTGGGGCTCAATCCAGGCAATTCCCCAC 2635
+
+
+
+chrX:0-1000000       +       3948 TCCTGGACACCTCCCCCGCCCCTATCTCTGACCACTCACAACAAATCCTGAAAGATTTGTCTCCTCTCCAAAGCCTTGTCTCCCCAGGTCTC-TCTCACTTTTGGACCCAGCCCCAGTATGAAACCAGTAAATACTCTCTAAAGTGAAGCAAT---TAGTTCACAATGAGATCCCACTTCACAGCCACCAGGGAGGCTGT 4143
+                                  ||||| |                |  ||||||| ||  ||||||||||  |||||||   ||||||||||| ||| ||||||| |||  ||| || ||| || || |   ||||||||| ||||||| |||||||||||||||| ||   |      |       ||  |||||||||||||| |||| ||||||||| |
+PseudochrX:0-1000000 +       2636 TCCTGAA----------------ACTTCTGACCGCTTGCAACAAATCCCAAAAGATTCACCTCCTCTCCAA-GCCCTGTCTCCTCAGCCCTCCTCCCACCTTGGGGCTTTGCCCCAGTAGGAAACCAATAAATACTCTCTAAAGAGAGAAATAGGACATGAAGAGATCCGATCCCACTTCACACCCACTAGGGAGGCTAT 2818
+
+
+
+chrX:0-1000000       +       4144 AATCAAAAAGGCAGATACTAACCAGCATTGGTGAGGATGTGGAAAATCATACAGTGCTGATAGGAGTGTAAAATGGTGCAACTACCATGGAAAACAATTTGGGAGTTCTTCAACAAGTTAACTATAGAGTTACCATATGACTCAGCAATTCCACGGCTAAGTATATACCCAAGAGAATTGAAAGCACATGTTCAGGCCGG 4343
+                                  ||||||||||||||||  ||   ||  |||||||   | |||| ||                |     |    | ||    || | ||   | |  |     || |   |     |   ||  | | | |||   | |  | |||   |         ||||  |    ||||  |   | |  |    |||| |||  |
+PseudochrX:0-1000000 +       2819 AATCAAAAAGGCAGATGGTATTAAGTGTTGGTGACAGTATGGAGAAATTCGAGCCATCATATGTTCACTGTCTTAGTTTGGCTGCTATAACAGAATACCATAGACTGGGTGGCTTATCAAAACAGATACTTA---TTTCTCACAGTTCTAGAGGCTAGAAGTCCAAGATCAAGGCACCAGCAGACTTGGGTTCTGGCGAG 3015
+
+
+
+chrX:0-1000000       +       4344 GGGCAGTGGCTCACGCCTGTAATCCTAGCACTTTTTTTTTCTTTTTTTTGAGACAGAGTCTTGCTCTGTTGCCCAAGCTGGAGTGCAGTGGCGCCATCTCAGCTCACTGCAACCTCGGCCTCCGGGGTTCAAGCGATTCTCCAGCCTCAGCCTCATGAGTAGCTGGGATTACAGCGTGCACCACAACGCCCAGCTAATTT 4543
+                                  || ||                           | ||| |  ||  |    ||      ||||||  |||   |  |        |   | |     ||||||              |||| |     |     |  |  |   | |||  ||||||||                                          
+PseudochrX:0-1000000 +       3016 GGCCA---------------------------TCTTTCTGATTCATAAACAGTTGTCTTCTTGCCATGTCCTCGCACAGCAGAAGGGATAGGTAGCTCTCAGGCTCTCTTTTATAAGGCCAC-----TAATCCCATTCATGGGGGCTCTCCCTCATGA------------------------------------------ 3141
+
+
+
+chrX:0-1000000       +       4544 TTTGTATTTTTAGTAGAGAGGGGGTTTTGCCATTTTGGCCAGACTGGTCTTGAACTTCTGACCTCAAGTGGTCTGCCCACCTTGGCCTCCCAAACTGCTGGGATTACAGGTGTGAGTCACCACACTCGGCCTAATCCTAGCATTTTGAGAGGCCAAGGCAGGTGGATTGCTTGAGCCTAGGAGTTCAAGACCAGCCTGGG 4743
+                                                                                                               |    |  |||||||||   |     |  | |        ||                                                                           ||||||
+PseudochrX:0-1000000 +       3142 -----------------------------------------------------------------------------CCTAATCCCCTCCCAAAGGCCCCACCTCCCTGTACGATCACA---------------------------------------------------------------------------CCTGGG 3189
+
+
+
+chrX:0-1000000       +       4744 TAA-CATGGCAACATCCTGTCTCTACAAAACATATGAAAAATTAGCTGAGTGTGGTGGTGTGCGCCTGTGGTCCTAGCTACTTGGGAGGCTGAGGTAGGAGGATCACCTGAGCCTGGGAGGTTGAGGCTACAGTGAGGGGTGACAAAGTAAAACCCTGTCTAAAAAAAAAAAAGGAAAGAAAGAAAGAAAAAAGCAAGCA 4942
+                                  | |  |   |||||  | |||| ||  ||  |||  |    |  ||                                                  |    |   | |||     ||| ||  |   || ||  |||        |     |    | ||      |   | |      | |||||   |||     |  
+PseudochrX:0-1000000 +       3190 TTAGGACACCAACACTCAGTCTATAGCAAGTATAAAATGTTTCCGC-------------------------------------------------CACTCTGGAAAACTGTTTTGGGGGGGCAGTTTCTCCATCGAGTTAACCACAGACTCAGTAATTTCATGCCTAGGTATATACCCAAGAGAAATGGAAACATGTGTC 3340
+
+
+
+chrX:0-1000000       +       4943 CATATCCACACAATGACTTGTACATGAATGTTCACAGCAACTTTATTCTTAATAGCCAAAGTGGAAATAACTCAAATATCCATCAATGG----ATGAATAATCAAAATATGGTCTACTCATAAAATGCAATATTATTCAACCGTAAAAA--AATAAAGTATGGATACATGCTATAAAATCAATTAACATTGAAAACATGA 5136
+                                  | |         |  ||||| || ||  |||||| |||| | || |||| || ||||||||  |||| || |||| | ||||||||  |    |||  |||  ||||| | || ||  ||||  | | ||||  ||    |  ||||||  ||| | |||||||| ||||||| ||  |     |   ||||||| ||||
+PseudochrX:0-1000000 +       3341 CCTG-------CAGAACTTGGACCTGTGTGTTCATAGCAGCATTGTTCT-AACAGCCAAAGCAGAAACAAGTCAAGTGTCCATCAACTGACAAATGGGTAAAGAAAATGTAGTATATCCATACCACGGAATACCATGAGCCAATAAAAAGCAATGAGGTATGGATCCATGCTACAACGTGGGCAAGACTTGAAAATATGA 3532
+
+
+
+chrX:0-1000000       +       5137 TGCTAAGTGAAAGAAGCCAGACAGAAAAGACCACATATTATATGATTCTGTTTATACAAAATGTCCGGAATAGACAAATCCATAGAGACAGAAAGTAGATAAGTGGTTGCCTAGGGCTAGCGGGAGGAG-----------GTTGGTAGTTGATGGCAAAGAGGAGCAGGATTTCTTTGGCGAGTGAAGAAAATGTTTTGG 5325
+                                  |||  |||||| ||||||||||| |||||| ||| |||   ||||||||||  |    |   ||||  ||||| |||| ||||||||| |||||| |||| |||||||||||| ||     ||  ||||            | |  || |||||||||||||| |||||  ||||||  |  ||    || ||||  |||
+PseudochrX:0-1000000 +       3533 TGCCGAGTGAAGGAAGCCAGACACAAAAGAGCACGTATGGCATGATTCTGTACACGTGAGGAGTCCAAAATAGGCAAACCCATAGAGATAGAAAGGAGATGAGTGGTTGCCTAAGGTCTAGGGTGGGAGAGCCAAGGGGGATCGTGAGGTGATGGCAAAGAGGGGCAGGGCTTCTTTCCCAGGTCTTAAAGATGTCGTGG 3732
+
+
+
+chrX:0-1000000       +       5326 AATTAGAT---GGTGATGGTTGTACAACCTTGTAAATATACTGAAAACCACTGAATTGTATATTTTAAAAGAGTGAATGGCCGGGTATGGTGGCACACACCTGTAATCCCAGCACTTTGGGAGGCCAAGGCAGGAGACCTGCTTGAGGCTAAGGAGTTCAAGACCAGCCTGGGCAACATAGTGAGACCTCCATCTGTACA 5522
+                                    ||||||    |||||||||| |   |||  |  |||  || |||  |||||| ||| | | | | ||         ||   | ||||  |      | |||||                       | || || | ||||||                                                        
+PseudochrX:0-1000000 +       3733 GCTTAGATAGCAGTGATGGTTGCATCGCCTGATGCATAGGCT-AAATACACTGACTTGGACACTCTGAA---------GGTGAGTTATGTAGCATGTGAACTGTA----------------------TGTCAAGAAAGCTGCTT-------------------------------------------------------- 3844
+
+
+
+chrX:0-1000000       +       5523 AAAAAAAAATTAAAAGTTTGCCAGGCATGGTGGCTCATGCCTGTAGTCCCAGCTACTTAGGAAACTGAGGTGGGAGGATTGCTTGAGCCCAGGAGTTTGAGGCTACAGTGAGCCATGATTACACTACTGCAGTGCACCCTGGGCAACAGAGTGAGATCGTGTCTCAAAAAAAAAAAAAATATATATATATATATATATAT 5722
+                                                                                                                                                                                                        ||||||||||||| | |                 
+PseudochrX:0-1000000 +       3845 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------AAAAAAAAAAAAAGAAA----------------- 3861
+
+
+
+chrX:0-1000000       +       5723 GTGAATGAATTATATGATATGTGAATTATATCTCAATAAAGCTCAGTACCAGACACTGAGCAAGTATTTTACAGGCATTAGCTCCTCAATTCTCATAAAACCCTATGAGATAGTGTTATGGACTGAATGCTTGTGTCCCCCCACCAAATTCCTATGTTGAAACCCTAACCCCCACCAGGCGTGGTGGCTCACGTCTGTAA 5922
+                                    |||||||||      | ||||      |           ||| |||||  |||| ||| ||| |||||    |  |||     |   || |  ||    | |||     || | |   ||  || ||   | | | |      |                |        ||||   ||  |        |    |   
+PseudochrX:0-1000000 +       3862 -GGAATGAATTGGCAAGTGTGTGCTCAGCAGTC-------ACTCCGTACCCAACACAGAGTAAGCATTTTGGGTGTTTTATTATTTTTTTTATTTTATTTACTTATTCATGAGAGATGCAGAGAGATTGGCAGAGACACAGGCAGAGGGAGAAGCAGGCTCCCTGCGGGGACCACAGTGCAGGACTTGATCCCAGGGCCC 4053
+
+
+
+chrX:0-1000000       +       5923 TCCGAGCACTTTGGGAGGCTGAGTCGGGCAGGTCACGAGGTCAAGAGTTTGAGACCAGCCTGACCAACATGGTGAAACCCTGTCTCTTCTAAAAATACAAAAATTAACTGGGCGTGGTGGCGCAAGCCTATAATCCCAGCTACTCAGGAGGCTGAGGCAGGAGAATCACTTGAACCCAGGAGGCAGATGTTGCAGTGAGC 6122
+                                     |  ||      |||   ||| | |       || |       |    |    |  |      | |||  ||||  |                        ||||||                                                                                           
+PseudochrX:0-1000000 +       4054 CGGGGTCATGCCCTGAGTGAGAGGCAGATGCTCAACCACTGAGCCACCCAGGTGTCCCCAGAGTAAGCATTTTGAAGGC-----------------------TTTAACT------------------------------------------------------------------------------------------- 4139
+
+
+
+chrX:0-1000000       +       6123 CAAGATCACACCACTGCACTCCAACCTGGGCAACAGAGTGAGACTCCATCTAAAAAAAAACAAAAAAACTAAAAACAAAACAAAACAAAAAACCCCTAACTCCCAATGTGATGGTATTAGGAGGTGGGGCCTCTGAGAGGAAATTAG-----------TTCATGAAGGTGGGGCTCCCTTGATGGGACT-GGTGCCCTTA 6310
+                                        || | |  |   |   | ||      |||||||||    |    |         ||              |||   | | |   || ||| ||| |||| ||||| ||| | |||||||||||| | |  ||||   ||||            |||  ||||| |  | |||  || |||| |  |||||||||
+PseudochrX:0-1000000 +       4140 -----CCATAACTGTCATCGAAACCCCATCAGACAGAGTGATGGACTGAATGTCTGTGTCCATGT----------GAAACTCACATACTGAAGCCCGAACCCCCAGTGTGACGGTGTCAGGAGGTGGGGCTTTTTTGAGGTCCTTAGGTTTAGATGACGTCACAAAGGTAGAACCCCCACGAGGGGAATCAGTGCCCTTA 4324
+
+
+
+chrX:0-1000000       +       6311 TAAGAATAAAAAACACTAGT-GTTCTCTCTCTCTTGCTGACATGTGAGGATACAGCAAGAAGATGGCCATCTGCAAGCCAGAAAGAGACCTCTCACCAGAAACCGAA-TCTGCCACCACCCTGATCTTGGACTTCCCGGCCTCCAAAACTGTGTGAGATCG-----CTGTTGTTTAAGCAACCCAATCTATGATATCTTA 6503
+                                  |||| | | | | ||    |  |||| ||||||||     | || ||||| ||||||| |||   ||  ||||  |||||| |||  | | ||||||||| || |||  |||||| |||| ||||||||||| | || ||||||| | ||||| || ||        ||||||| ||||  |||| ||| || ||| || 
+PseudochrX:0-1000000 +       4325 TAAGGAGAGACACCAGGTTTCTTTCTGTCTCTCTTCT--CCCTGGGAGGACACAGCAATAAGCCAGCTGTCTGTCAGCCAGGAAGGCAGCCCTCACCAGACACTGAACCCTGCCAGCACCTTGATCTTGGACCTTCCAGCCTCCAGATCTGTGAGAAATAAATGTCTTGTTGTTGAAGCTGCCCAGTCTGTGCTATTTTG 4522
+
+
+
+chrX:0-1000000       +       6504 TTATAGCAGCCTTAGTGGACTAAGACAGATCGGTGCTATTTTAATATCTATTTTACAGCTGGGGAAACTGAGGCACAGTTAAGTAGCTTGCTCAAGGTCACTCAGCTGGTGAGTGGCAGCACCAGGATGTGAACCCAGGAAGCCTGGCTTACATACCCCTGTTCTTAACTGCCTCTCTGGTAGACAGATGTGTGCTACAG 6703
+                                   | |||||||       | ||||||||||  ||||| ||  | |||   || | |  |||  |||| |||||||| ||| ||| ||||||| ||| ||||||||||   | ||||||||||||||| ||||||||| || || ||||| | |  ||||      ||  |||| ||||  | |||||  |||||||| || 
+PseudochrX:0-1000000 +       4523 CTCTAGCAGCAG----AGGCTAAGACAGAGAGGTGCCATGCTTATACTCATCTCAGGGCTAAGGAATCTGAGGCAGAGTAAAGCAGCTTGCCCAATGTCACTCAGCCCATAAGTGGCAGCACCAGGGTGTGAACCCGGGCAGACTGGCCTGCCAACCCTGCCATTTGGCTGCTTCTCATGGAGACAACTGTGTGCTGCAA 4718
+
+
+
+chrX:0-1000000       +       6704 GGCTTACAGTCAGAAAAGGGAGAATGGGTTCCTCATTCACTCTGCTTCAGAAAAAGGGTTCAAGGAGTCCCCAACTCCCAACAGCTGTGTTGTCCTGGGGAGTCCTGGCAGAATGTGTCTAAGGAGCTATTCGCCAGGTCTCTACCATATCTATAAGCAGGCAAAGCTCCCCAGATCCTTTATACAATGGCCAGGTCAGT 6903
+                                  |  ||   ||||||||||||| | | ||||| |||||  | |     ||||| | || ||  ||| ||||| ||| ||| ||   |    |||||  |||||                                                             |||   |||| ||||| | ||||| |    ||||| |
+PseudochrX:0-1000000 +       4719 GTTTTGTGGTCAGAAAAGGGATATTTGGTTCTTCATTAGCACA---CCAGAAGAGGGATTTGAGGGGTCCCGAAC-CCCTACTAGTTGCCTGTCCCAGGGAGAA----------------------------------------------------------TAAGGCTCCCATATCCTATTTACAAAGATTTGGTCAAT 4856
+
+
+
+chrX:0-1000000       +       6904 GGGAAGGGGG--TCTTCTGCCTTTATCCAGAGGATCTTTACAGGGTGGGTTTTTGCGTCCTCCACCCTGCCTTAGCCTTGAAATCAAGGCTGGTAGACCAAGCCAACCCAACAGGGCTGCTTATTGTTCTGGGGCTCCATTCAAGAGGACCAGTAGAGAGCCAGGATGAGTATCCCTGACCTTTAGCTTTCCTGATGCCA 7101
+                                  ||||||||||  |||| |||||| |||||||||| ||                   | |||||| |  |||| || ||| ||||   |||  |  |||||||||  |||| |||||                 | ||||  |  || | |||| ||||||||||| ||  |||||| | ||||    |||||||||||| 
+PseudochrX:0-1000000 +       4857 GGGAAGGGGGCGTCTTTTGCCTTCATCCAGAGGAACTGGC---------------TGCCCTCCATCTAGCCTCAGTCTTAAAATTTTGGCCAGGGGACCAAGCCCGCCCAGCAGGG-----------------GATCCACCCTGGAAGGCCAGGAGAGAGCCAGGGTGCATATCCCCGGCCTTCCATTTTCCTGATGCCG 5024
+
+
+
+chrX:0-1000000       +       7102 GGGCAGGACCTCTGCTTCTATGTATTACAGGACCTTGCATTTGTGGACCCAAGGCATAGGGAAGGGGGTTCCTGAAGCCAGTATTGGGGCCTGGTATTGCTTATTGCTAATGACAGACTACGGGCACGCAGTCATTCATTCAGTATATAGAAGGTGTCATCCAGCCATAGATGTA------GAGAGCATGGACTCTGGAG 7295
+                                  |||   ||| ||||| |||    ||  |||  | |        |||| |  ||||  |||||||              |||||  || |||||| |   | ||| |||| ||  |||||   ||   |      ||||||  |  |  ||| | |  ||| | |||||||| |||      | |||||||| ||||||||
+PseudochrX:0-1000000 +       5025 GGGTCAGACTTCTGCCTCTGGTCATGCCAGAGCTTCAAC---ATGGAGCAGAGGCGGAGGGAAG-------------TCAGTACGGGAGCCTGGCACCACCTATCGCTAGTGGGAGACTGAAGGTGTGG----GTTCATTTGGGGTTCAGAGGATAGCATTCGGCCATAGAGGTAAAGGCAGGGAGCATGGGCTCTGGAG 5204
+
+
+
+chrX:0-1000000       +       7296 CCAGCCAG----------------------------------------GCTGTTTAAAGTTGGGCAAGTCACCTTGCCTCTCTGGTCCTCAGTGTCCTGATCTACAAAATGGGCAAAATAATGGCACTTACATCTTAAGGCTTTTGTGTAGAGGAAACACATTGATACACATGGAAAGTGCACAGAACAGTGCCTGGCAC 7455
+                                  ||||||||                                         |||| |    |||||||||||||||||| ||||||| |||| ||||   |||  |  |||  |                                     |||| ||||||    | |||||  |||||| |||  |||||| ||||||||
+PseudochrX:0-1000000 +       5205 CCAGCCAGCTCTGGCATCCCAGGCTGACCCTGCCACTCACTAGCATTTACTGTATGCCCTTGGGCAAGTCACCTTGCGTCTCTGGACCTCGGTGTTGGGATACAGCAAACAG-------------------------------------AGAGTAAACACGGGAACACACACAGAAAGTCCACGAAACAGTTCCTGGCAC 5367
+
+
+
+chrX:0-1000000       +       7456 ATAGTAAGCTCTCAACAAGCGATATCCTTTCGTATTGTTTTGTTTTAACTGTTATTATGTTGGCTAAGTAGGTGGGAAGAGAAGGAGGCACAAT--AAGAGACATCTGGGTTATTACTATGGTTTCAGGACTTTTACTCTCCAAAACCCGTGTTGAAATATAATCCCCAGTGTGGCAGCATTGAGAGGTGGGGCCTTTAA 7653
+                                  | || ||||||||||||   |         | |     || || ||||||  ||||   ||||||||| | |||||||  ||| ||||||| ||   ||| |||||||| ||||   ||                    ||| ||| |   |  |||||||  |  |                                 
+PseudochrX:0-1000000 +       5368 ACAGCAAGCTCTCAACAGTAGGA------GCTTTCCACTTGGTCTTAACTAGTATT---TTGGCTAAGCACGTGGGAAAGGAATGAGGCACCATCCGAGAAACATCTGGCTTATAGATAC------------------TTCCCAAATCACAGGAGAAATATCTTGAC--------------------------------- 5507
+
+
+
+chrX:0-1000000       +       7654 GAGATGATTGTGTCATGAGGGCTCTGCCCTCATGAGTGGACTAATCCATTCATGGTTTAATGGATTAATGGGTTATCACAGGAGTGGAACTGGTGGCTTTATAAGAAAAGGAAGAGAGACCTGAGTGAGCATGCTCAGCCCCCTCGACATGTGATGTCCTTTGCCACCTCAGTACTCTGCAGAATCCCCGCCGGCAAGAA 7853
+                                              ||||     ||||||||||   || || ||                                                                                          ||||||                                                              
+PseudochrX:0-1000000 +       5508 -----------ATCATTTTCCCTCTGCCCTCTCCAGGGGCCT-----------------------------------------------------------------------------------------GGCTCAG-------------------------------------------------------------- 5545
+
+
+
+chrX:0-1000000       +       7854 GTCCCTGACCAGATGCAGCCCCTCAACCTTGGACGTTTCAGCCTCCACAACTGTAAGAAATAAATTCCTTTTCCTTATAAATTACCCAGTTTGGGGTATTCTGTTATAAACAACAGAAAACGGGCTAAGAGAGTTAGAGATGCTTCCTGAATCACAACAGAAAGTTCTGTACATCTTTTATCCCTATACCCTCTGAGGAG 8053
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +       5546 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5545
+
+
+
+chrX:0-1000000       +       8054 CTTATTCTGCTCTAGACGGACAGAGGTGATATCCCACTCATCTCCTGGTCAGCTCACAGTGCCTGGATGCATGTCATGTTCTGGGTACCAGTAGCCTCTCTGAGAGACATTAACAGGCTGGATTTGCTTCAGGAGCCAGTGATCAGGATGTTAAAGGGAAGTTAGAATTTTCTTTTCTTTTCTTTTCTTTCTTTTTCTTT 8253
+                                            |||||| |||  |||| |  |  ||     || ||||| |                  ||||| | ||  |||| |||  ||| ||||||||||| |    |||| ||||   ||||| ||||||||||||| | |||||| | ||                                            
+PseudochrX:0-1000000 +       5546 ---------ATCTAGAAGGAGGGAGGCGGGAGTCCTGCTGTCCCCTGGCC------------------GCATGCCTTGCCCTGGCTACTGGTAACCTCTCTGAGACATGCGAACAAGCTGATCTTGCTCCAGGAGCCAGTGACCGGGATGTCACAG-------------------------------------------- 5674
+
+
+
+chrX:0-1000000       +       8254 TTTTTTTTTTTTTTGAGATAGAGTCTCTCTCTGTCACCCAGGCCGGACTGCAGTGGTGTGATCTTGGCTCACTGCAACCTCTGCCACCCAGGTTCAAGCGATTTTCCTGCCTCAGCCTCCCGAGTAACTGGGACTACAGGCATGCACCACCACGTCCAGTTAATTTTTGCGTTTTTAGTAGAGATGTGGTTTCATCATGT 8453
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +       5675 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5674
+
+
+
+chrX:0-1000000       +       8454 TGGCCAGGCTGGTCTTGAACTCCTGACCTCTAGCAATCTGCCCGCCTTGGCCTCCCAAAGTGCTAGGATTACAGGTGTGAGCCACTGCACCTGACCTATGGAAGTCGGAATTTTCATACAATGAATAATCTTGGTGAGTGTTTGGACCGGAGAAAAAGATGACTGTAAGGGGTAAAAAGGAAAGGAGTGATGAGGGAGAC 8653
+                                                  ||||||                                                                                     |||||||||||| | ||| ||||||||  |||| |  |||  ||||| |||||||||  |  |    ||| ||||| | ||| |||||| || 
+PseudochrX:0-1000000 +       5675 ---------------AGAACTC------------------------------------------------------------------------------------AGAATTTTCATACGAGGAACAATCTTGGGCAGTGCTGAGACAAGAGAAGAAGATGACTTGAGCGCACCAAAGGGAAAAGGGTGGTGAGGGGGAG 5775
+
+
+
+chrX:0-1000000       +       8654 TCCTGGAGGGAGCTCCTGGGGAATTTGATCTGTATTCTGTGGCCTCAGCTTATGAAAATAAGGATAAAGGGGAAAAGCTACAGGGTGATGGACTCTGGAACTTTCTTGTTTTAAAAGAGACAGAGTCTCACCCTGTCACCCAGGCTGGAGTGTAGTGGTATGATCATAGCTCACTGTAGACACAAACTTTCGGACTCAGG 8853
+                                  |||||||||||||||  | |||||||||||  | || ||| |||| |   | ||  || |||||| ||||||| ||||||||  |||||||| |||||||||||||                                                                                              
+PseudochrX:0-1000000 +       5776 TCCTGGAGGGAGCTCAAGAGGAATTTGATCCATCTTGTGTTGCCTAAATGTGTGGGAACAAGGATGAAGGGGACAAGCTACACAGTGATGGATTCTGGAACTTTCT---------------------------------------------------------------------------------------------- 5881
+
+
+
+chrX:0-1000000       +       8854 TAATCCTCCTGCCTTAGCCCCCCAAGTAGCTAGAACGATAGATACATGCCACCCCACCCAGCTAATTTTTTTAATTTTTATTTTTGTAGAGATGAGTCTTACTATGTTGCCCAGGCTGGTCTCTAACTGCTGGCCTCAAGTGATCCTCCCCGCCTTGGCCTTCCAAAGTGCTGGGATTAGAGGCATGAGCCACCATGCCT 9053
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +       5882 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5881
+
+
+
+chrX:0-1000000       +       9054 GCCTGGCTGGATTCGGGAACTTCCTAAGGGGCAGAACAACCTCAAGATGGAGGAGCTGCCTCTGTAGGAAGGGAGTTCCCATTCTTCAAGATATCCAGCCTAGTCTCCCTTTGAGGTCCTTTTCAACCTAGAGGCCCCATGACTC----TCCTCCCGCATGAGGGTTGAGCCAGGATAATATGGAAAGTCTGGGTTCCAA 9249
+                                                           ||| ||||||||||||||| |  ||| |||||| ||         |||   | |   |    |            ||||  |||||| | |||| || |||||| ||| || ||||||||     ||||||  |  ||| | ||||||||  ||||  ||||| ||||  |||| 
+PseudochrX:0-1000000 +       5882 -------------------------AAGAGGCAGAACAACCTCAGGCCGGAAGAGCTGGCT---------GGGCTCTTCGGATGCCTAGACCTGGTTCTGTAGTTCCCCTTTCAAGTCCCTTCCAACCTGGAGACCACATGACTCACTCACCTCCCTGACCAGGTTGGAGCCAGGGAAATAGTGAAAGGCTGGTCTCCAG 6047
+
+
+
+chrX:0-1000000       +       9250 AACTGCTAGAGAAAAGCAAAAAGAG-GTTTGGCAGGTCCTTTGGTTAG-----CCCCACATTTGAGACACACCTCTGAGGCTCTGCCACGTCCCACCCATGGCTGAACGGAATCATACACAGATTTTTCTGCCCACCTTTCCACACTCACCCTGTGATCCAGAGCTCAGAGAGTGAGACTGAGAGAGCTCATGCCAGGAG 9443
+                                  ||  ||||||| |||||||| |||| ||||||| ||| || || ||||      |||| ||||||||||||||  |||| |||      ||  |       |||||||   |        || |||  ||||||||||| |||| ||  |||||||| ||  ||   |||||||| |||||   |||||  |||||||||
+PseudochrX:0-1000000 +       6048 AATGGCTAGAGCAAAGCAAAGAGAGAGTTTGGCTGGTTCTGTGTTTAGTCTAAGCCCAAATTTGAGACACACCCGTGAGACTCCTGTGTGTGGCCA----AGCTGAACATGAGG-----GAGGTTTCCCTGCCCACCTTCCCACCCTTGCCCTGTGACCC-CAGGGGAGAGAGTGGGACTG--TGAGCTTGTGCCAGGAG 6235
+
+
+
+chrX:0-1000000       +       9444 CTTTTAGTTGTCAAGAAAAGGAGTCATCGTGTCTTTAGAAACAGGATGAATGCGGAAAG------------------CATACACACTGAAACGATTTCTAAGATTCTATATAGATCAAGGCCAGGGTCTAGCTGCTGAATTGGGGCCTAGCCTATCCTTTCCAGACAACACAATTCTAAAGTGCATTTCTCTCTTTTTTT 9625
+                                  || | ||| |||              |  ||| ||| ||||||||| |||||    |||                   |  |||||||| || ||  ||| |||||||| || ||| ||||||||||||||||| ||| ||||  ||| | | ||||||||| || || |||||||||||                    
+PseudochrX:0-1000000 +       6236 CTCTCAGTCGTCT------------GTTTTGTGTTTGGAAACAGGACGAATGAATGAAGGGGCGGGCAGGGAAGCACGAAGCACACTGAGACAATCCCTAGGATTCTATCTACATCGAGGCCAGGGTCTAGCTGATGAGTTGGTACCTGGGCAATCCTTTCCGGAGAA-ACAATTCTAAA-------------------- 6402
+
+
+
+chrX:0-1000000       +       9626 TTAAAATTTATTATTATTATACTTTAAGTTTTAGGGTACATGTGTAAAGTGCATTTCTCAACACACCCCTTCATCTCTTGAAAATGAAATGCTGCCGGCCGCGGTGGCTCACGCCTGTAATGCCAGCACTTTGGGAGGCTGAGGTGGGCGGATCACGAGGTCAGGAGTTCGAGACCAGTCTGACGAACACAGGGAAACCC 9825
+                                                                                 |||||| ||||||    |||||||   |||||||||||||||| ||| |                                                                                                        
+PseudochrX:0-1000000 +       6403 -----------------------------------------------AGTGCACTTCTCAGTGTACCCCTTTGCCTCTTGAAAATGAAATCCTGGC-------------------------------------------------------------------------------------------------------- 6451
+
+
+
+chrX:0-1000000       +       9826 CTTCTCTGCTAAAAATACAAAACAAAATTAGCCGGGTTTGGTGGCGGGCACCTGTAATTCCAGCTACTCAAGAGGCTGAGGCAAGAGAATCACTTGAACCCAGGAGGCGGAGGTTGCAGTGAGCTGAGATAGCGCCACTGTACTCAAGCCTGGGCAATAGAGCGAGACTCTGTCTCAAAGAAAAAAAAAAAGAAAAGAAA 10025
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +       6452 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6451
+
+
+
+chrX:0-1000000       +      10026 CAAGAAAAAGAAAATGAAATGTAATCCATGTCCTTGCAG-GTTCTTCA-TCAGATCTGCATTGAGAGCTACATGAGAGGCTTTCCAAGCACAGCACAATAGAGCAGGGGCCTCCCTC----AGTGTAATCTGCTTCAGCCCCCATGTTTAAAGAGGAAGGGACTGAGGCCCAGAAATGGGGAACAACTTGTCCAAGGTCA 10219
+                                              | | |||||| ||||| | |||| ||| |||||| | ||||||  ||||||  |   |  || ||||||||||||||| ||| ||  ||  |||  | |||| ||     || | ||||| | ||||  || ||||||                                                  
+PseudochrX:0-1000000 +       6452 ------------ATTTAAATGTGATCCACGCCCTTACAGAGTTCTTTACTCAGATGGGCATTGGCACACATGTGGGAGGCTTTCCAAGCATAGCCCACGAGCACAGAAGGCTCCTTCCTTCGGTCTTATCTGGTCCAGCAGCCCTGTTTA-------------------------------------------------- 6589
+
+
+
+chrX:0-1000000       +      10220 CACAGGAAGGCAGTGGCAACATAAACCAGGCCTTGTGCCTTCACATGGGCTCAGTGCCATTGCAGCATTGCAGGCAGTGTGACTTACCCTGCTGTGGCT--TTTCAGTGGCCCCCT-GGGGGCCACACCTGCCACCCTGTTCTCCCTGCTAAAAGG--TCTTTTCCTTTGTACCAGGTACTTCTGTCAAGTCCAAATCAA 10414
+                                                             ||||||  ||||||||  |||  |  |||                    ||||| | | |   |||| ||||  | ||||||||| ||| ||||||||| | ||||||| ||||||| | ||| |||||  || |||| ||||||| |||| |||||| ||||| ||||||||
+PseudochrX:0-1000000 +       6590 --------------------------TAGGCCTCTTGCCTTCATGTGGAGTTGGTG--------------------GTGTGGCCTCCAGGGCTGCGGCTGCTCTCAGTGGCCTCCTGGGGGGCCACTCATGCCACCTTGTTCTCTCAGCTCAAAGGAGTCCTTTCTTTTGTACGAGGTTCTTCTGCCAAGTTCAAATCAA 6743
+
+
+
+chrX:0-1000000       +      10415 GCAGAATGGGTTCCAACCAGCAGCAGGGTTTTCACTTGTAAGCAAACCACAGAAGGGATCAGCCACCAACCCAACAGATGAACAACTTGAC 10505
+                                  ||||||||| ||| |||||||||  || || |||||| ||   ||||||||| ||||| |||| ||  |||||| ||| | |||| |||||
+PseudochrX:0-1000000 +       6744 GCAGAATGGTTTCTAACCAGCAGTGGGATTCTCACTTATAGATAAACCACAGGAGGGACCAGCTACTTACCCAATAGAGGGACAATTTGAC 6834
+
+
+
+##BLOCK
+chrX:0-1000000       +      10512 TCCAATGGAGCCCAGCATTTGAAG 10535
+                                  ||||||||||||||||||||||||
+PseudochrX:0-1000000 +       6839 TCCAATGGAGCCCAGCATTTGAAG 6862
+
+
+
+##GAP
+chrX:0-1000000       +      10541 ATAATTGTCAGTTTAAATGTTAGTAAGTGAATGCTTGTAATTTACAAGTGAAGCTGCTTCTCTTATCAAGGGTCCCATTTCCTGTGGGCTGTTTGGAAGTATAAACT--------GTTATCAGAGGATTTGTGCTTATTTGAGGCTTGGCTTGCCCATCTGGTCAGAGAGAGAAAGTCTGGAGAGTATGCTGAGTCTAAT 10732
+                                  |||| |       ||||||||||| ||| ||||||||| ||| |||||| | ||||||||||||| ||      ||||||||||||||| ||||||||||  ||||          ||| |||| |||||||||||||||   | ||| ||||||||||| |||||||||   |||| ||||| ||||||||||      
+PseudochrX:0-1000000 +       7091 ATAAATAAATAAATAAATGTTAGTGAGTTAATGCTTGTGATTCACAAGTAATGCTGCTTCTCTTAGCA------CCATTTCCTGTGGGCCGTTTGGAAGTGCAAACAATACTACCCTTACCAGAAGATTTGTGCTTATTTTCAGTTTGACTTGCCCATCTAGTCAGAGAG--GAAGTTTGGAGGGTATGCTGAG------ 7276
+
+
+
+chrX:0-1000000       +      10733 TCTGCTGTACCCCATGACGAGCCTGTCCTGTTCAACATTCCACTTGCGGTCCATGAATCAAGCGCTATTCATGGGCACAGAACAGAATGAACCAACCTAAACCATTT 10839
+                                                   | | ||||||||     |  || ||| ||  |||||||||||||| ||||||||||| ||||| |||||| |||||||||| ||||||||
+PseudochrX:0-1000000 +       7277 -----------------CCATCCTGTCCT-----AAGTTTCACCTGTAGTCCATGAATCAAGTGCTATTCATGGACACAGGACAGAACGAACCAACCTGAACCATTT 7361
+
+
+
+##BLOCK
+chrX:0-1000000       +      10844 TGCTTGACATTCTCTAAATCCCACTCCCC 10872
+                                  |||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +       7366 TGCTTGACATTCTCTAAATCCCACTCCCC 7394
+
+
+
+##GAP
+chrX:0-1000000       +      10874 CTTTAAACGCACAAGCTCAGGGCCTGTTTCAAAGGGCAAATATTGTGAAAATGAAGAAATTATTACAGATTATACTTGGAAAGAGTTCAAATGTTGTTGAAATACCGTGATCTGTAGGTGGCATGTCTTCAAAGAGATTCATTTGAATAGA-TCAGGCTGAGGAACAGTCAATAGCAAAATAGTTATTTGTGTATCAAGT 11072
+                                  ||||||| ||||||||||| | |||||||||||| ||||||||||  ||||||| |||| | | |||| || |||||||||||||||||| || ||| ||| |||| ||| |||||||||| ||| ||||||||||||||| |||||| || | ||| ||||||||| |||||| |||||||| | |||||| || ||||
+PseudochrX:0-1000000 +       7396 CTTTAAATGCACAAGCTCAAGTCCTGTTTCAAAGAGCAAATATTG-AAAAATGAGGAAACTGTCACAGGTTGTACTTGGAAAGAGTTCAACTGATGTCGAACTACCCTGACCTGTAGGTGGTATGCCTTCAAAGAGATTCACTTGAATGGACTTAGGTTGAGGAACATTCAATAACAAAATAGCTCTTTGTGCATTAAGT 7594
+
+
+
+chrX:0-1000000       +      11073 ATGGACAAATTCTCAC--------------ATACCAGGAGGCTGCGAGACAGCACTTTCACAAGCTGATTTTAGATTTTGGCCCAACAGCTCTAAAGGCAAAG-GCTTTCTAGGCTAAAGGGATGATTA----------------------------------------------------------------------- 11186
+                                    |||||   ||||||               ||   |||| ||| |   |||  ||||||   ||||||||||||||   ||||||||| ||| ||||||||| | ||||||    |||| |||||||                                                                        
+PseudochrX:0-1000000 +       7595 GCGGACATGATCTCACCATATATGACTCCCCTATAGGGAGTCTGTGGAGCAGTGCTTTCATGGGCTGATTTTAGATTCCTGCCCAACAGGTCTGAAGGCAAAGAGTTTTCTACTGGAAAGCGATGATTTAGAAGATAATTAACAGGGAGCGCCTGGGTGGCACAATCGGTTAAGCATCCAACTCCTGGTTTTGGCTCAGG 7794
+
+
+
+chrX:0-1000000       +      11187 -------------------------------------------------------------------------------------------------------------------------------------GAAAGATAATA----GACAAAGTCAACTCC--------------------AGATGTACCAGTTGACC 11229
+                                                                                                                                                                        ||||||||||    | |||||| ||||||                    | ||||||| |    | 
+PseudochrX:0-1000000 +       7795 TCCTGATCCCAGGGTTGTGAGATTGAGCCCCGTGACACTGGGTGTGGAGCCTGCTTAAGATTCACCCTCTCTCTTTGCCCCTCCCCATCTGTTCTCTCTCTCTCTCCTTCTCAAAACAAACAAACAAATAAATAAAAGATAATAAATAGCCAAAGTTAACTCCGCATCAACCCCCCAACATACACATGTACCTGCAATCA 7994
+
+
+
+chrX:0-1000000       +      11230 ACCCCTCTGCCAACTGAAACCCTACTC--------TTGGGTTGATTTCACAGCTCAGGAGGGGAGCTCAAA----------CTCAAACTTGTCAATTTTGTGACTCAATAACAGACCCACTT--------------------------------------------TGGGGTGGGAGAAAAATG---------------- 11351
+                                   |    | |  | |          |           ||||  |       |    |      |||||||||           ||||     |  ||||| |       |   | |     ||                                             |  | |||||||  | |                
+PseudochrX:0-1000000 +       7995 GCTTTGCGGGGATCGTCTGGTGGCCCAGTAGCAGTCTGGGGAGGGGAAGAAAGGGAAATCATGAGCTCAAAAGGATATCTTTTCAACTGCCTTTATTTTATTTTATTTTTTTAAAAGATTTTATTTATTTATTCATGAGAGACACAGAGAGAGAGGCAGAGACACAGGCAGAGGGAGAAGCAGGCTCCATGAATGGAGCC 8194
+
+
+
+chrX:0-1000000       +      11352 --------------------------------------------GAAGTATGAGCTAAAAAGGAGATTCTTTCAATTGCCTTTGCCCTTCTGTTTTCTAGGCTGTCTATGTCCTCCAACAGCTCAGAGACTCAGAGTTGATGCGCTGGATTCTA----CTGCAAGTTGCGTCTTGATAAA---CATAGTTACTATGTGAG 11500
+                                                                              ||||   |  |||||  ||     |  |||| ||| |||      ||||| |||||||||||||| ||||||| || | || |||  || ||||||||  ||||||||||    |  ||||   | ||||| ||||    |  ||||| || ||| 
+PseudochrX:0-1000000 +       8195 CGACGTGGGACTCGATCCCGGTCTCCAGGATCAGGCCCTGGGCTGAAGGCAGCCCTAAACCGGGCTGCCCCTCAACTGCTTTTAGATCCCTGTTGTCTAGGCTGTCTATATCCTCCATCAACACAAAGATCCACAGTTGATGTACTGGATTCTATCTACCACAAGGCACATCTTGCTAAAACCTACTGTTACCATATGAC 8394
+
+
+
+chrX:0-1000000       +      11501 CCAGCAAATTCCATTTCTAGATATATACCCAAGAGAAATAAAAACTCATGTTCACAGGAATGCTTGTACACAAATGATCATAGCAGCATCATTCATAATAGCCAAAGTGGGAGCAAACCAAATGTCCATCAA 11632
+                                  |||||| | |||                || | |||||| ||||| ||||||  ||  ||  ||||||||  |||  |||||||||||| ||| |||||||||||||||| |  ||  ||||||||||||||
+PseudochrX:0-1000000 +       8395 CCAGCAGACTCCTAGGGATCT------GCCCATAGAAATGAAAACACATGTTTGCACAAAGACTTGTACATGAATACTCATAGCAGCATTATTGATAATAGCCAAAGTGGAAAAAACTCAAATGTCCATCAA 8520
+
+
+
+##BLOCK
+chrX:0-1000000       +      11666 ATACAATGGAATATTATTCAGCCAT 11690
+                                  |||||||||||||||||||||||||
+PseudochrX:0-1000000 +       8757 ATACAATGGAATATTATTCAGCCAT 8781
+
+
+
+##GAP
+chrX:0-1000000       +      16605 TTGCACACAGAGGAGAAGGGCCATGTGACCACTGAAGCATGATGCTCTGCTGCTGGCTTTGCAGATGGAGGAAGGGCCCATGAGCCAAGGAATGCCAAGAATGCAGCCGTAGATG-CTGAAAAAACCAGGAAAATGGATTATACTCTAGAGCCTCCTGAGGGTGGGCAGCCCAGCATACACCTTGGTTT-GGAGCCAGTG 16802
+                                  ||||||| |||||  |       ||  |||||||||||| |||||||||||| |||||||| | | ||||| | ||||  ||||| ||||||||| | ||||||| | | ||||| | ||||||| || | |||  |||| | | ||| |||| | ||| |  |||  |||||||  | | ||||||||  |  || |||
+PseudochrX:0-1000000 +       9236 TTGCACATAGAGGCAA------CTGAAACCACTGAAGCAAGATGCTCTGCTGTTGGCTTTGAAAACGGAGGTATGGCCTGTGAGCTAAGGAATGCAAGGAATGCACCTGCAGATGTCGGAAAAAAGCAAGCAAACAGATTCTCCCCTAAAGCCCCATGATGAGGGGTGGCCCAGCCAAAATCTTGGTTTCAGCCCCGGTG 9429
+
+
+
+chrX:0-1000000       +      16803 AAACTGATTT--GGATTCTGACTTCCAGAAACGTAAGAGAATAAATATGTGTTTTTTTAAGCCACCAAGTTGTTAGTAATCTGTTATAACAACTGTAGGGAACAAATAAAACATTCCTG--------------ATGTGATCGGCTTCAAAAAGGCACTGCAAT--CAGAGGTATGCACTCAGGAACAGGGCATTTGGTGT 16984
+                                  ||||||||||  ||  |||||||| |||||| ||| || ||||||| |||||| | | |||||||||||||| | | ||  | || ||||| |   |  |||   ||  ||    |||                |||||| |||||  | |||| |||| | |  |||| || ||  ||||||| ||||       ||| 
+PseudochrX:0-1000000 +       9430 AAACTGATTTTGGGCCTCTGACTTACAGAAATGTAGGAAAATAAATGTGTGTTGTCTGAAGCCACCAAGTTGGTGGCAAATTATTGTAACAGCCAAAACGAATGGATGCAATCCGCCTCCCCCTGCTCCTCCAGTGTGATAGGCTTTGAGAAGGTACTGTAGTTACAGAAGTTTGGGCTCAGGAGCAGGCTCAGGAGTGG 9629
+
+
+
+chrX:0-1000000       +      16985 CCATTTGCTCCTTGCTAAAGACAGTTTCCACTGGTCTGACTGAGCTGTGTTATGTGCAATGCCCTGCCTGCTCTGGAACTTGCTGGAATGTTCCATGGAATAATAGGAGGCATGC-AGAGGGCCACACTGTTCAGTCCTGGCAGACCAGTTTGCCCAGTATAGAGGATCCTGCTCCCTTAGCCTAGAGCTGTGGGCAGAG 17183
+                                  |||||| || ||||||||| |||||   ||  || |||     | |   || |||||| ||||||| |||||||||||||  | ||||| |||    | || | | ||||||||   ||||||| |||  ||||||||||||||||||| || |||||| |  || ||| |||||||||||| | |   |   | |||||
+PseudochrX:0-1000000 +       9630 CCATTTACTACTTGCTAAAAACAGTCAACATGGGCCTG----GGTTTCTTTCTGTGCAGTGCCCTGGCTGCTCTGGAACTCACGGGAATATTC----GGATTACAAGAGGCATGGTGGAGGGCCTCACGCTTCAGTCCTGGCAGACCAGCTT-CCCAGTGTGCAGAATCTTGCTCCCTTAGCATGGGCTTACAGACAGAG 9820
+
+
+
+chrX:0-1000000       +      17184 CTTG---------CCTCTGCCTGGGCATCTGA----------------------AAGGGCAGAACATGGTTAAAAGGGGTATATGTTCATTATCTTAACAAATCTACTCTGCAGGGTCTACTCCAAGAAATGATTGAAACTTCCGGATTTAGTGATTTAATTCAAGTACTTATCTGTTCTTCAGTTATTTTCAAACAAGT 17352
+                                  | ||          ||||| |  || ||||||                       |||||||||  |||| ||| || || |   |||| | ||| |||| | |||||            |||||||||||||||  | |   |||                                                      
+PseudochrX:0-1000000 +       9821 CCTGTCCTGCCCAACTCTGTCCAGGTATCTGACAATGCCATGTGCCCTACCTGCCAGGGCAGAATGTGGTCAAATGGAGTGTTCTTTCACTGTCTAAACATACCTACT------------CTCCAAGAAATGATTAGATCCAGCGG------------------------------------------------------ 9954
+
+
+
+chrX:0-1000000       +      17353 CCTGCTAATTTAGAGGAACCTCGGAGTGTTGGGTGAAAAATTTAAGTGAGACCTCAAGGGAAGTGGAATCACAAGAAATAAAAAGAATTCCAGGGGAACCCCTTAGCTCTCACCTCTTTCATGTCTGGACCATCTACAGGCTCTGAGAGCTACTAGTGGATCAGAAAGTGAGGAGGGAAGAAACAAAGGCCTATGGGCCT 17552
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +       9955 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9954
+
+
+
+chrX:0-1000000       +      17553 TAGGCATTCTGCCTTGTGGCCAGGAAGACATACATTTTCCCATCTGCTTTGTGATCTCACCTTGGCAGAGGCCTTGCTGGCTCTTCCCCAGGTAGCTTTTGGCTTGCCCAGCAATCATCAGGCCTTTATGAGTTTCTACTCTGTGCCCTCAACTGTGCTTGGCTTAAAGTCTGAGCTATACAGTCATCTTTCTGTATCCA 17752
+                                                                  | ||||||||                                                || | || ||||||||   |||||||| ||  |||| |||| |||||| | ||||||||| ||||| | ||  ||||| | |||||||||                    
+PseudochrX:0-1000000 +       9955 --------------------------------CTTTTTCCCA------------------------------------------------GGCATCTCTTGGCTTGTGTAGCAATCAACAAACCTTCATGAATTTCTATTTTGTGCCCTCCACTGTACATGTTTTAAAATTTGAGCTATAT------------------- 10055
+
+
+
+chrX:0-1000000       +      17753 CGGAGGATTGGTTCTGGGACCCCCCTGCAGATGCCAGCACCCAACGATACTCAATTCCCATGTATAAAATGGTGGGTTTTTTTGTTTTTGTTTTTTGCAAAGTATTGCTCTGTTGTTCAGGCTGGAGTGCCGTGGTGCGATCTCGGCTCACTACAAGCTCTGCCTCCTGGGCTCAAGCGATCCTCCCACTTCAGCCTCCT 17952
+                                                           |||  || |   |||  ||   |  ||||   |||||                                                                                                  | |||     |       ||      | |||||| || ||
+PseudochrX:0-1000000 +      10056 ------------------------TTGCTTATTCGTTCACTAAATCTTCATCAAGGGCCATG-------------------------------------------------------------------------------------------------ATCCCTGTAAAGGCTCTAGGAAAGAATCTCTTCAGTCTTCT 10134
+
+
+
+chrX:0-1000000       +      17953 GAGTAGCTGGGACTTCAGGTGCATGCCACCACACCTGGCTGATTTCTGTAGAGACGGAGTTTCACCATGTTGCCTAGGCTGGTCTCCAACTCCTGGGCTCAAACAATCTGCCCACCCCAGCCTCCCAAACTGTTGGAATTATAGGTGTGAGCCACCATCCCCAGCCCGGTGTAATATTTGTGTGTAGCCAATGAACATTC 18152
+                                         |      |      ||     ||        |       ||||||                                         ||        ||||||| |   |                                                                                    
+PseudochrX:0-1000000 +      10135 TTCCTAATTTCCAGTGGCTGTCAGCAATCCTTGGTGTTCCTTGGCTTGTAGA-----------------------------------------TGAATCACTCCAATCTGTCTGTCTGT--------------------------------------------------------------------------------- 10212
+
+
+
+chrX:0-1000000       +      18153 TCCTTTATACTTTAAATTATGTCTAGATATAATAACTAATGCAATATAAATGCTATGCAAAAAGCTGTCAGACTGTATTGTTTTTTAAATTTGTAGTATTTTTACTGCTGTGTTGTTATTTTTCATTGTTTTTTTTTTCCCCAAATATTTTCTTTTCTTTTCTTTTCTTTTCTTTTTTTTTTGAGGTGGAGTTTTGTTCT 18352
+                                                                                                                | |||||||||                                                                                    ||||||||     |  |     |    
+PseudochrX:0-1000000 +      10213 -----------------------------------------------------------------------------CTTTTTTTTAAAG----------------------------------------------------------------------------------ATTTTTTTTATTTATTCATGAGAGACAC 10253
+
+
+
+chrX:0-1000000       +      18353 TGTTGCCTAGGCTGGAATGCAATGGCTCGATTTCGGCTCACTGCAACCTCCACCTCCTGGGTTCAAGCGATTCTCTTGCCTCAGCCTCCTGAGGAGCTGGGATTACAGGTGTCTGCCACCACACCTGGCTAATTTTTTGTATTTTTAGTAGAGACGGGGTTTCACCAGGTTAGCCAGGCTGGTCTCGAACTCCTGACCTC 18552
+                                   |     ||||| |      || |          |||||  ||||     |    | ||||                                       |||  ||||| ||    | ||| ||                                                ||||||||                   
+PseudochrX:0-1000000 +      10254 AGAGATATAGGCAGAGGAAGAAGG---------AGGCTCCATGCAGGGAGCCTGACATGGGACT-----------------------------------CGATCCCAGGTCTCCAGGATCACGCC------------------------------------------------CCAGGCTG------------------- 10342
+
+
+
+chrX:0-1000000       +      18553 AGGTGATCCACCCGCCTCGGCCTCCCAAAGTGCTGGGATTACAGGCATGAGCCACTGCTCCCAGCCTCCCCAAGTATTTTCAAACTGAGGTTGGTTGAATCCAAAGATGCAGAATCCAAGGATATGAAGGGCTGACTGTATTTGCTTATGAGTTTACCAAAC-AGTCACCAAGGGCCGTACTCCCTCTAAAGTTTCTAGG 18751
+                                                                                                                                                                                     | |     ||||||| | | | | |     |    |||||||           
+PseudochrX:0-1000000 +      10343 ---------------------------------------------------------------------------------------------------------------------------------------------------AAGGTGGCACCAAACCACTGAGCTACCTGGGCTGCCCCTCTA----------- 10384
+
+
+
+chrX:0-1000000       +      18752 GAAGGATCTGTTCCAGGCCTCTCTCCTAGCTTCTGGTGGCTTCTGGCAATTCCTGGCATTCCTTAACTTGTAGATGCATCACTTCAATCTCTGTCTTTGTCTTCACATGGCCTTCTCCTCATGTGTCTCTGTCCTTGTGTCTTTACATGGCTTTAAAGTTTTCTTTTTTGATAGAGAGAGTCTTGCTATGTTGCCCAGGC 18951
+                                                                                                                          |||||||||      || ||||  |||| ||  ||| ||||||||| ||| |||||||||||| ||                                              
+PseudochrX:0-1000000 +      10385 ---------------------------------------------------------------------------------------CCTCTGTCTT------CATATGGGTTTCTTCTTGTGTCTCTCTGTCCCTGTCTCTTTACATGGCCTT---------------------------------------------- 10445
+
+
+
+chrX:0-1000000       +      18952 TGATCTTCAATTCCTGGGCTCAAGCAATCCTCCTGCCTTGGCCTCCCAAAGCATTGGGATTACAGGCATGAGCCACTCGGCTACATGGCTTTTTCACAAGGACATCAGACATTGGATTTAGGGCCTACCCTACTCCATTATGACCTTACCTTAACTTGATTATATCTGTAAAGACTCTATTTCCAAATAAGGGCACATTG 19151
+                                                                                                                               | ||||||| | ||| ||||||| |||||||||||| || |||  ||||| || | |||||||||||||| |||| ||| || ||| |||||| ||| | |||||| 
+PseudochrX:0-1000000 +      10446 --------------------------------------------------------------------------------------------CTTACAAGGATACCAGTCATTGGACTTAGGGCCTACCTTAATCC-GTATGAACTCATCTTAACTTGATTATGTCTGCAAACACCCTACTTCCAAGTAAAGTCACATTC 10552
+
+
+
+chrX:0-1000000       +      19152 ACAGGCACCAGGGGTTAGGACATTACCATATCTTTTTAGGGGATTTGATTCAACCCAGAACACCTTCCAGTCTTGGCAATATCTTGCAGCTTTGGAGCAAAGCCGACGGTCCCTCCCATCCAGGGTCAATTGTATTTCTTTTCCTTCTCTTAGCTAGGACATCAGGATGAGAAGCAGACATCTTCAGGGCTGGG------ 19345
+                                  |||||  |||||| ||||||| | | |||||||||   || ||   |||| |||||| |||        | ||||| |||||||||    ||||  ||||||  ||| || | ||||||  || ||||| ||| ||| | |||||||   ||||||| |||| ||||| || |  || || || ||||||| ||      
+PseudochrX:0-1000000 +      10553 ACAGGTGCCAGGGATTAGGACTTCAACATATCTTTCAGGGAGACACGATTTAACCCATAAC-------GGCCTTGGTAATATCTTGATCATTTGAGGCAAAGATGACTGTTCTTCCCATTTAGTGTCAACTGTGTTTATCTTCCTTCAGCTAGCTAGAACATTAGGATAAGCAATAGCCACCTCCAGGGCTTGGATATTC 10745
+
+
+
+chrX:0-1000000       +      19346 ----------TGCAGTGGCTCGTACCTGTAATCCCAGC-----------------------------------ACTTTGGGAGGCCGAGGCAGGAGGATGGCTT------------------------------------------------------------------------------------------------ 19404
+                                             ||||   |     ||  |    |||||                                    | |||||      || |    || ||||||                                                                                                
+PseudochrX:0-1000000 +      10746 AGGACTGCCTGGCAGGTTCAATGGCCCTTCCCTCCAGCTAATGGTAGATGAAGAAATGTATACAGCTCCAGATCCCTTGGGCTAGTCAGTCTCCTGGCTGGCTTCAGTCAAGTAGGCCTAGCTGGTTGGGGCTGTCAGCCATGGTGGATATTCTTCTGCTGCAAACTTAGATCAAGTGAAACCTGTGTGCTAATGTTTAT 10945
+
+
+
+chrX:0-1000000       +      19405 ------------------------------------------GGCCCCAGGAGTTCAAGACCAGCCTGGGCAACATAGTCAGACCCTATGTCTACAAAAAATTTTGAAGAATTAGCCAGGCATGGCATCACGTGCCTGTAGTCTCAGCTACTCAGGAGGCTGAGGTGGGAGGATTGCTTGAGCCCAGGAGTTTGGGGCTG 19562
+                                                                             | ||||  |||  | ||   |    |  |||  || |||| ||      |  || |   ||||    |  ||         | |      | |  ||      |    |     ||         |   | |         |  ||       |   
+PseudochrX:0-1000000 +      10946 AGCGATATTATGCCTAAGAGCCAAAAGGTAGGAACAATCCAAAGGCCCATCAGTAGATGAATGGAGAAGCAAACTGAGGCAGATCCATACAATGGAATATTCTTTGGTCTAAGAGAAGAAGGAAGTACTGATGGACGCTACAACATGGATATATCTCGGTGAGTTCCTGCAAACTTGAAAGAAGCCAGACACAAAAGACC 11145
+
+
+
+chrX:0-1000000       +      19563 CCATGAGCTGTGACTGAGCCACTACACTCCAGCCTGGGTGACAGAG---------------------------------------------------CAAGATCCTAACTTTAGAAAAAAGATAATAATAAAATGAAATCAAATTGGCTGTGGTAATGGTTGCACAACTCTGTGAATGTACTCAAAACCATTGAATTACT 19711
+                                   |||   |   |  |||     | ||    |        |||||||                                                   ||||     |    |  |    | |    |  | ||||     | |||  |  |||| ||||||||||||||  |||||| ||  |||| |||||||||    
+PseudochrX:0-1000000 +      11146 ACATACACATCGTGTGATTATATTCATATGAAAGCCCAAGACAGAGAAATCTATAGAGACAGAAATTAGATTAGTGGTTGCAGGGGCCTGGTGTGGACAAGGGATGATAGCTGAAGGGTACAGTTGATGAGAATGTTCCAAGATTAACCATGGTGATGGTTGCACAACT--GTGAATATATCCAAATCCATTGAATGGTA 11343
+
+
+
+chrX:0-1000000       +      19712 TACTTTAAATTGGTGAATGGTATGGAATGTGAATTATATCTCAATAAAGGTGTC-------------------------------------------------------------------------------------------------------------------------------------------------- 19765
+                                   ||||||  | ||| |    | |||  |||||||||||||   |||||| | |                                                                                                                                                   
+PseudochrX:0-1000000 +      11344 CACTTTACGTGGGTAATGTATGTGGTGTGTGAATTATATCATCATAAAGCTATTTAAACGGGGCACCTGGGTGGCTCAGTGGTTGAGTGTCTGCCTTCAGCTCAGGTCATGATCCCGGGGTCCTGAGATTCAGTTCTGCATCAGGCTCCCTACTGCCTACTTCTCTCTCTGCCTGTGTCTCTGCCTCTGTGTGTGTGTGT 11543
+
+
+
+chrX:0-1000000       +      19766 ---------------------------------------------------CAAAAATATGTCATGGATTCGTGCTATTCTTACATATATACTCATATAATATA-------------TAGTTCCTATTCTACTAAACTTATATGAGGGCCTCACCCTCAGCTATCTTGTTATTACATGGTTGTTTTGTTTAATTACGTTG 19901
+                                                                                      |||||| ||  |   |||| ||||||   | |||  |     ||||||||||              |||| | ||||| |||  ||| ||||  || ||||| |||      ||||||||| ||| |||||||  ||||| ||  |||
+PseudochrX:0-1000000 +      11544 GTGTGTGTCTCATGAGTAAATAAATAAAACCTTAAAAAAAACAAAGCTATTTAAAAATGTGCTACAAATTCATGCTATCTGTGCATGGA-----ATATAATATAAGCACATAGCATACAGTTTCCATTCTGCTATGCTTGTATGGAGGTCTCACACTC------CTTGTTATTGCATAGTTGTTTCATTTAAATAATTTG 11732
+
+
+
+chrX:0-1000000       +      19902 GGTTAGTTCCACCCATAGTTTTGAATGATCACTGGAATTCAACTGATATGCAACAAGTAAACCTAAGTCTCCAAGTAAACCTAAGTTTCCTAAATAACCTGTACTTTGTTCTTTAGGATAATTGGTATTTACCCATAGTCTGTTTTGTTCTATAATGCTAAGACTGGCCTTTAGCTTAACGGATGTATCAGTTTCCTATT 20101
+                                  | ||  | |||||||||  ||  |   |||||| |||||||  | ||||| ||||||  ||   |                   |||| |||||| |||   |||| |||||||| ||||| ||||||||| ||  | |||||| |||||| || |  |||| |||  |||| |||||  | | || | | | || ||| 
+PseudochrX:0-1000000 +      11733 GTTTTATCCCACCCATATCTTAAAGGTATCACTTGAATTCAGTTCATATGTAACAAGGGAATTGA------------------GGTTTACTAAATCACCCACACTTAGTTCTTTAAGATAACTGGTATTTATCCCCACTCTGTTCTGTTCTGTAGTATTAAGGCTGATCTTTGGCTTAGTGAACGTTTTAATCTCTTATA 11914
+
+
+
+chrX:0-1000000       +      20102 GTTGCTGTAGCTAATTACCACAAACTTAGTGACTTCAAACAACACAAATGTATTGCCCTACAATTCTGGCTATCAGATTTTTTTCTTTTAGACTCCAGCCTGTCTCCCAGGCTGGAGTGCAGTGATGCAATCCCGGCTCACTGCACCCTCCGCCTCCCAGGTTCACGCCATTCTCCTGCCTCAGCCTCCCCAGGCAGCTG 20301
+                                  | |||||   | |||||||||||||| |  | |||  ||  |||||||| | ||  | |  | || | | |||||||                                                                                                                           
+PseudochrX:0-1000000 +      11915 GCTGCTGCTACAAATTACCACAAACTCATGGTCTTTCAATGACACAAATTTTTTATCTTGTAGTTTTTGATATCAGA--------------------------------------------------------------------------------------------------------------------------- 11991
+
+
+
+chrX:0-1000000       +      20302 GGATTGCAGGCGCCTGCTACCATGTCCAGCTAATTTTGTATTTTTAGTAGAGATGGGGTTTCACCATCTCGGCCAGGCTGGTCTTGAACTCCTGACCTCGTGATCCACCGGCCTCGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGTCAACACGCCCGGCCCAGAAAACTTAAAATGAGGGTGTCAGCAAGGCTGCATT 20501
+                                                                                                                                                                                                        |  ||||||||    ||||||| |||||||||||
+PseudochrX:0-1000000 +      11992 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------AGTCTTAAAATCCAAGTGTCAGTAAGGCTGCATT 12025
+
+
+
+chrX:0-1000000       +      20502 CCTGCTGGAGGC-CTAGGGGACAATCTATTTCCTTGCCTTTTTGTAGCTTTCAGAGGCCACCTGCCTTCCTTGGCTCATGGCTCTTTCTTCCATCTTCGAAGCCAGCAGCACATTTTCTTTTCTTTTTTTTGAGACGGAGTCTCGCTCTGTCTCCCAGGCTGGAGTGCAGTGGCATGATCTTGGCTCACTGCAAGCTCCA 20700
+                                  ||| ||| |||| |||||||| || |   | || || ||  |   ||||| ||||  |||| | |  |||||| |||||||| | ||| ||||| ||| ||||||| |||      ||||    |               |||| |||| ||||  |  ||||                                     
+PseudochrX:0-1000000 +      12026 CCTTCTGAAGGCTCTAGGGGAGAACCAGCTCCCCTGTCTCCTC-CAGCTTCCAGA-ACCACTTACACTCCTTGACTCATGGCCCCTTCCTCCATATTCAAAGCCAGAAGCCTGACATCTTCCAAT--------------CTCTCTCTCTCTCTCTGACTCTGGC------------------------------------ 12173
+
+
+
+chrX:0-1000000       +      20701 CCTCCCGGGTTCATGCCATTCTCCTGCCTCAGCCTCCCGAGTAGCTGAGACTACAGGCGCCCACCACCACGCCCGGCTAATTTTTTGTATTTTTAGTACAGACAGGGTTTCACTGTGTTAGCCAGAATGGTCTTGATCTCCTGACCTCGTGATCTGCCCGCCTCGGCTTCCCAAAGTGCTGGGATTGCAGGCATGAGCCA 20900
+                                                      ||||||| ||                                                                                                                                                                          
+PseudochrX:0-1000000 +      12174 -------------------CCTCCTGCATC-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12184
+
+
+
+chrX:0-1000000       +      20901 CCGCGCCCGGCCTAGCACAACATTTTCAAATCTCCAACTCTGACCCCCCGCCCACCTCTTCAAAGGACCCTTGTGATGACATTGGGCCCACCTGGAAAGTCCAAAATAAT---CTCATCTTGAGATCATTAACTTAATCACATCT------ACCCCTTTTAGCATGTAAGGTCACATATTCACAGGTTTCAGGAATAAGG 21091
+                                                                                        |||||| |||| ||||   |||  |||||||||||||||||| | || ||||||||   | |||    ||||| || |||||||||||| |       |||||||   |||||||||  | ||| ||||| |||   ||  | |||
+PseudochrX:0-1000000 +      12185 ------------------------------------------------------CCTCTTGAAAGAACCCAAATGACTACATTGGGCCCACCTGGATAATCTAAAATAATTTCCACATTCCAAGATCCTTGACTTAATCACATTTCCAAAGTCCCCTTTC-CCATGTAAGGCAAGATAGTCACAAGTTCTGGGGCTTAGG 12329
+
+
+
+chrX:0-1000000       +      21092 ACAAGGCCATCTTGGGGGGCT----GTTATCCAGCCTACCACAGTGCAGTTCCTTTTTATTT-----ATTTATTTTATTTTTATTTTTATTT----TTTTGAGACCAAGTTTCGCTCTTGTTGCCCAGGCTGGAGTGCAATGGTACATTCTCAGTTCGCTGCAACCTCCACCTGGCGGGTTCAAGTGATTCTCCTGCCTC 21278
+                                  | | || |||||||| ||||      |||| ||||| |||||||||  | |||||||||  |     |||| |    |||| | ||||||||     |||||||   ||             ||   ||                                                                       
+PseudochrX:0-1000000 +      12330 A-ATGGACATCTTGGAGGGCCAGCCATTATTCAGCCAACCACAGTGACGCTCCTTTTTAGATAGAGCATTTGTAGCTTTTTAAATTTTATTTCTTTATTTGAGAGAGAGAAAGCGAGCACAAGCAGGGG----------------------------------------------------------------------G 12458
+
+
+
+chrX:0-1000000       +      21279 AACCTCCTGAGTAGCTGGGACTACAGGCACCCGCCACCACACCTGGCTAATGTTTTGTATTTTTAGTAGAGACGGGGTTTCACCACGTTGGCCAGGATGGTCTCGAACTCCTGACATCAGGTGATCCACCCATCTCGGCCTCCCAAAGTGCTGGGATTAGAGGCGTGAGCCACCGCGCCCAGCCACAGTTCCTTTTTAGA 21478
+                                  ||   |    | ||  |||    ||| | ||| |||| |  |  ||                                   | | |   |    |  || || |  |  ||||| |||| |   |   ||               |||        |||   |  |||||||||  | |   ||            ||||
+PseudochrX:0-1000000 +      12459 AAGGGCAAAGGGAGAGGGGGAAGCAGACCCCCCCCACTAAGCAGGG-----------------------------------AGCCCAACGTAGGGCTTGATCCCAGAACCCTGAGATCATGACCTGAGCC--------------GAAGGTAGACACTTAACCGACTGAGCCACCCAGGCACCCC------------TAGA 12597
+
+
+
+chrX:0-1000000       +      21479 GATAATATTTAATACAGAGTCTCTCAGAAGACTACCAGTGAGAGCTAAAAGAGAAGGAAGAGGTCCGGGCACCTATAATCTCAGCACTTTGGGAGGCCAAGGTGGGAGGATGGCTTGAGTCCAGGAGTTTGAAACCATGCAGCCTGGGCAGCATGGCGAAACCCCATCTATACAATAAATACAAAAATTAACCAGGCATG 21678
+                                   | |  |||| || ||||||||||||   ||| ||||                ||||||                                                                                                                                             
+PseudochrX:0-1000000 +      12598 TAGAGCATTTGATGCAGAGTCTCTCACGGGACCACCATGAG-----------AAAGGAA--------------------------------------------------------------------------------------------------------------------------------------------- 12645
+
+
+
+chrX:0-1000000       +      21679 GTGGCACGCGCCTGTAGTCCTAACTACTCAGGAGGCTGAGGTGGAAGGGTCATTTGAACCCGGGAGGTTGAGACTGCAGTGAGCCATGATTGCGCCACTGCACTCCATCTTAGGCGACGGAAATGAAATCCTCTCTCAAAAAAGTACAAATAAAAAAAAGAAAGAAGAGACTTCACAACCTAGTTATTCTATGTCTTCTG 21878
+                                                               ||||||                             ||  |||||||                                                                                                              || || ||  |||||
+PseudochrX:0-1000000 +      12646 -----------------------------AGGAGG-----------------------------AGACTGAGACT-------------------------------------------------------------------------------------------------------------CATCCTGTGGGTTCTG 12678
+
+
+
+chrX:0-1000000       +      21879 TAGAGGATCCTCCCATTTGGAGATACCACAAGGAAAAATCTGCTTTCCTGTGTGATGTAGCCTCTCCACCA-----------------------CTTCCAGTCCCAGGGCACTGCTTTGCACGACCAACATGCTTGGTAACCATGGGCCCAAGGCTGACTGGGTCCCTGCCTCAGGAGAGGATGAAGGGCAGTCTAAAAG 22055
+                                  |||| ||| ||| |||||||| || |||  ||| |  ||||||||  |||||      ||  |||||||||                       ||||  ||||  | | |||  ||||||    | || ||||| ||||  |  ||| ||||||||||||||||| |||| |||   | |||||| | || | | ||||
+PseudochrX:0-1000000 +      12679 TAGATGATTCTCTCATTTGGAAATGCCATGAGGTA-TATCTGCTTCTCTGTGCA---CAGGATCTCCACCAACGGTGACCGGAGGAATTGGTGCCTTCAGGTCCAGGTGTACTATTTTGCATATGCTACGTGCTTAGTAAGTACTGGCTCAAGGCTGACTGGGTCCTTGCCCCAG---AAGATGAAAGTCAATTTGAAAG 12871
+
+
+
+chrX:0-1000000       +      22056 GGTCCCAGTGGATGGACTGTTTCAAGGCCATCACTAAAGAATCTTTTTAATTAACAATTCCACTC----------TTCTTGGGGGCTAATTTAAATCTCTCCTACCATGATGGAAGGCCATGTCATTTGCTCTTGTTTGCGTCTCAGGGCAAACAAGAAATGTACAATAGCTTCTGAACAGAACATCCATATCCTGGAAA 22245
+                                  ||||| | | ||  | ||||||||||| ||| |||||||||| |  ||||||||||| |||||||          ||||| || |||||||| || ||||||||||||| ||||||               ||||||||  ||| |||||||        |||| ||||||||| |||| ||||| | |||  |  || |
+PseudochrX:0-1000000 +      12872 GGTCCTACTTGACAGGCTGTTTCAAGGTCATAACTAAAGAATATCCTTAATTAACAACTCCACTCCTAGAATCCCTTCTTTGGAGCTAATTTCAACCTCTCCTACCATGTTGGAAG---------------CTTGTTTGGTTCTTAGGGCAA-------GTGTATAATAGCTTCAGAACGGAACACCTATAGACCAGAGA 13049
+
+
+
+chrX:0-1000000       +      22246 AGCACCATTAATTTACTCTGAGGCCTTTGCAGTAGGTGAAATCATCTCAGTTCCTTTATTTTTCTTCACAGGGCCTTCTTTCACAGAAACTACCCACACTGCAGCAAATGTTACTCCTGTTCTTCTAAAAGACCCG-GAAATTCTCCTATGTCCAATCCTTCACTGCTGACAGATACTCATTGAGTGATCTGCTGTGAAC 22444
+                                   ||||||||||| ||||   |  |||||   | ||| ||||||   ||| |||||||   |||||   |  ||    | | |   | || ||||||||||||||||||  |||||| || | |||  ||||||||   ||| |||||  || |||  |  ||||||||||||||||| || ||||||| ||||    | |
+PseudochrX:0-1000000 +      13050 GGCACCATTAATCTACT--TACACCTTTTGTGCAGGAGAAATCTCTTCAATTCCTTTG-CTTTCTCTGCGAGGTTGCCATCCTTGGGAATTACCCACACTGCAGCAAACTTTACTC-TGATTTTCCTAAAGACCCCCTAAAGTCTCCCGTGCCCACCCTATCACTGCTGACAGATACCCACTGAGTGACCTGCCACAAGC 13245
+
+
+
+chrX:0-1000000       +      22445 TCACCGTCTTTCCTTCTTGCCCCACTGGTCTGGCTTTCTGTCCCCGGCTGATTTTTGCTTGTTTCATTGTAGGCAGGCATTGTGGCAGAATAGAAGGAACGTGAAATTTGGAATCAGAAAACATG---GATTGGAATTCAGCTGTGAACCTGCTGGCTGTGTGATCTTTGGCCAGCCACCTCCCCTCCAGAACCTAGGTT 22641
+                                  || || |||||||||||  |||       ||||| |||||||||  ||||||| |||  ||||| |||  ||||||||||     |||||||||  |||  ||  ||||||| ||| |||||| |    |||| | |||||||| ||||||| ||||||||||| |||| ||||||  |||| |||  ||| || | || 
+PseudochrX:0-1000000 +      13246 TCTCCTTCTTTCCTTCTCCCCC-------CTGGCCTTCTGTCCCTAGCTGATTCTTGTCTGTTTGATTACAGGCAGGCATCACAACAGAATAGATAGAATATGGGATTTGGAGTCAAAAAACACGAATAATTGCAGTTCAGCTGCGAACCTGTTGGCTGTGTGACCTTTAGCCAGCTGCCTCTCCT--AGAGCCCAAGTC 13436
+
+
+
+chrX:0-1000000       +      22642 TCTTCATTTGAAAG--------------------GGGGAGAAGTGGTTAAAAATCCCTGTGTTGGCTGGGTGCAGTGGCTCACACCTGTAATCCCAGCACTTTGGGAGGCCAAGGTGGGTGGATCACTTGAGGCTAGGAGTTCGAGACTAGCCTGGCCAACACAGCGAAACCCCATCTCTACTAAAAAACAGAAAAATTC 22821
+                                    ||||||||||||                    |||| || || || |||||||||||||||                                                                                                                                         
+PseudochrX:0-1000000 +      13437 CTTTCATTTGAAAGAGGACTGGGGCTAGAGGTGGGGGGGGATGTTGTGAAAAATCCCTGTGTT----------------------------------------------------------------------------------------------------------------------------------------- 13499
+
+
+
+chrX:0-1000000       +      22822 AGCTGGGTGTGGTGGCACACACCTGTAATCTCAGCTATTCCGGAGGCTGAGGCATGAAAATCGCTTGAACCTGGGATGCAGAGGTTGCAGTGAGCTGAGATCATGTCACTGCACTCCAGCCTGGGCAACAGAGTGAGACTCTGTTTCAAAAAAAAAAAAAAATCCCTGTGCTCAGTCAAGTTTGATGGCTCATGCCTGTA 23021
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      13500 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13499
+
+
+
+chrX:0-1000000       +      23022 ATCCCAGCACTTTGGGAGGCTGAGGCCAGAGGATCACTTTGGGACCAGCCTGGGCAGCATAGTGAGATGCTGCTTCTACAGAAACATAAAATAGCCAGGCATGGTGGTGTGTGCCTGTAGTGCTAGCTACTTGGGAGGCTGTTGTTGGAGGGTTGTTTGATCCCAGGAGTTTGAGGCTGCAGTGAGCCATAATTGTGTCA 23221
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      13500 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13499
+
+
+
+chrX:0-1000000       +      23222 CTGCACTACAGTCTAGGTGACAGAGCAAGACACTGTCTCAAAAAAAAAAAAAAAAAAAATTGCCCATGCTCAGTCTCTCCCTCCAAAGGTGTGGGGGTGGGGCAGGAGGCTCCTCAGGACCTGCTAATGAAATGTTGCTTTT---CCCAAATCTCTTGATGAAGTTGT----AGCAAAAGGAGCTCCGACTGAACTTCCT 23414
+                                                                                                        ||| | ||| |||||||   | | || |||||   ||||||||||  | |||||| |||   | || |||||    ||||  |||||||| |||||||     ||| || |||| | | |||| ||    
+PseudochrX:0-1000000 +      13500 ----------------------------------------------------------------------CAGCCCCTCTCTCCAAAACGGGGAGGATGGGGTGAGAGGCTCCTCCAGCCCTGCTGATGGGGTCTTACTTTTTTCGCCAAGCCTCTTGATCAAGTTGTTTGTTGCAGAATGAGCACTGGCTGAGCTCTGC 13629
+
+
+
+chrX:0-1000000       +      23415 CTTCAGAAGCCCTTGGGGAA----------------TTGAGACATTGAGCCCAACAGAATGTAAATCAAAGAAGCCATCCTTGCCATTAACTCAAAATGGATCCAAGACTTAAATACGACAGCTACAACTTTCAAAACTATAAAATTCTTAGAAGAAAACATAGGGGTAAATCTTTGTGACCTTGGCAATGGTTTCCTTC 23598
+                                   ||  ||||| |     |||                 |||| | |||||||  ||||||| |||| ||||  || | |  ||||||||| ||||||||||| ||||||||||||||  | ||||||||   | |||| |||| |||||||||||| | ||  || | || ||  |  ||| |  |||| |||||||||  
+PseudochrX:0-1000000 +      13630 ATTTGGAAGCTCAAAATGAAACAACAGCCTTAACAAATGAGCCCTTGAGCCAGACAGAATATAAAGCAAATCAGTCCTGTTTGCCATTAGCTCAAAATGGACCCAAGACTTAAATATAAGAGCTACAAACAT-AAAAGTATACAATTCTTAGAAGGACACTCAGAGCTAGATTGTCATGATCACGGCAGTGGTTTCCTGG 13828
+
+
+
+chrX:0-1000000       +      23599 ATATGGGAACAAAAATACGAGCAACCAAAGAAAAAAATAAATAAATTGAACTTCATCAAAATTAAAAACATTTCTGGCTGGGTGCAGTGGCTCACACCTGTAATCCCAGCATTTTGGGAGGCTGAGAGGAGTAGCTCACTTGAGGTCAGAAGTTCAAGACCAGCCTGGCCATTATGGTGAAACCCTGTCTCTACTAAAAG 23798
+                                  |||||  | || ||  || ||| ||||||| ||||||||||||||||| ||| ||||||||| |||||||||| |  |   |   |                                                                          || ||||||                               
+PseudochrX:0-1000000 +      13829 ATATGACACCAGAAGCACAAGCTACCAAAG-AAAAAATAAATAAATTGGACTCCATCAAAATCAAAAACATTTGTTTCAAAGGATA--------------------------------------------------------------------------CATCCTGGC------------------------------- 13922
+
+
+
+chrX:0-1000000       +      23799 TACAAAAATTAGCCGGATGTGATGGCGCACACCTGTAACCCCAGCTACTCGGGTGGCTGAGGCAGGAGAATCACTTGAACCTAGGAGGCGGAGGCTGCAGGGAGCCGAGATTGCACCACTGCACTCCAGCCTGGGTGACAGAGCAAGACTCTGTCTCAAAAAAAAAAAAAAAAAATTAAAAACATTTCTGCTTCAAAGAA 23998
+                                                                                                                                                                                                                                     ||| |
+PseudochrX:0-1000000 +      13923 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------AAGGA 13927
+
+
+
+chrX:0-1000000       +      23999 TATGTCTTGTGGAGAATACTTCTTTGCAGTTATATTGTCTTTATA----ACCCTGAATAAAAAATTGCATGTGCAGAGTTCTGGCATAAGGATAGACATATAGGTCAATGGATGTCTATTCGATGGAGTAGAATTGAGATTCCAGAAACAAAACCTCACAGCTATGGTCAATTGCTTTTCCACAAGTGTGCCACAACAAT 24194
+                                  ||  |  ||  ||| ||||||| ||||  ||||||||| |  |||     ||| |||||||||||||||   |||  || ||||||||||  | |||||| || ||||||||                |||||  |||| |||||||| |||  ||||||  ||||| |||||| ||| | |||| ||||||||||||||
+PseudochrX:0-1000000 +      13928 TACATTCTGATGAGGATACTTCCTTGCTATTATATTGTTTCAATAGCCAGCCCCGAATAAAAAATTGCACAGGCATGGTACTGGCATAAGACTGGACATAGAGATCAATGGA---------------ATAGAACGGAGAGTCCAGAAATAAACTCTCACA-TTATGGCCAATTGATTTCCTACAATTGTGCCACAACAAT 14111
+
+
+
+chrX:0-1000000       +      24195 TCAATGGGAGAAGGAATAGTCTTTTCAGCAAATGGTACTGGGAAAATTGGACATTCACATGCAAAAGAATGAATTCGGAC----------CTCCTCCTTCACATCATATACAAACATTAACTCAAGGTGGATCACAGACCTTAATGTAAGAGCTAAAACGCTAAAATTGTTAGAAGAAAATGTAGGTGTCAATCTCCATG 24384
+                                  |||||||| |||||| ||||||||||| |||||||| | |||||||  ||| |   |||||||||||| ||| || ||||          || || ||||  | |||||   || |||| |||||  |||| || ||      ||||||     | |    ||||  | |||||||||||  ||| |||||||||  |||
+PseudochrX:0-1000000 +      14112 TCAATGGG-GAAGGAGTAGTCTTTTCAACAAATGGTGCCGGGAAAACAGGAGAGCAACATGCAAAAGAGTGAGTTTGGACTCCCCCTACCCTGCTACTTCTTACCATATTTGAAAATTAGCTCAAAATGGACCAGAG------ATGTAAATATGAGATGTATAAACATCTTAGAAGAAAACATAGATGTCAATCTGGATG 14304
+
+
+
+chrX:0-1000000       +      24385 ACCTTGAATTAGGCAATGGTTTCTTAGATATGACACCAAAAGCAC 24429
+                                   ||||| ||| ||| ||||| ||||||||| | ||||  ||||||
+PseudochrX:0-1000000 +      14305 CCCTTGGATTTGGCCATGGTCTCTTAGATAGGGCACCTGAAGCAC 14349
+
+
+
+##BLOCK
+chrX:0-1000000       +      25188 AAGCCTCCAACCTTGAGAAGCTCGGG 25213
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      15956 AAGCCTCCAACCTTGAGAAGCTCGGG 15981
+
+
+
+##GAP
+chrX:0-1000000       +      25214 TTTTGTGGATTACACAGCGAGTCAGGTGATGACTCTGCAGGGAGGCTGCCAGCATTCTC-----TGTGATGCTCTTGTGAACTGGAGAAAGGCCAATTTGCTTCAGCAAGGAGAA---AGGAAGAGGCCGACAGTAAATTCCTGTGATGGCAGGCACCCTTT-------------------------------AGGAAAT 25374
+                                  |||| |||||||||| | ||| |||||||   |||||  |||||||||||| | | |||      |     ||||||||||| ||||| ||||||||  ||| |||||||||| |    |||||||||||||||||||||   |||  ||||||| ||| ||                               |||    
+PseudochrX:0-1000000 +      15983 TTTTATGGATTACACGGGGAGCCAGGTGACAGCTCTG-TGGGAGGCTGCCAACGTCCTCCTCCGCGGTGCTCTCTTGTGAACGGGAGAGAGGCCAATCCGCTCCAGCAAGGAGGAGGAGGGAAGAGGCCGACAGTAAATTAACGTGGAGGCAGGCCCCCCTTCCAGGCTTTCGGACTCCGTGAGTTGGCAGGGAGGTCGC 16181
+
+
+
+chrX:0-1000000       +      25375 GGACTGTGTAAGCAGGTGGGGGAGCCTCTCCTCCTGGGCTGTGAAAGAAAACAGGGCTCCCTCTAG-CTCCTCCTGAAAATTGGACAGGCAGCTCTCCTTCTCTCTCTCTCCTTTTGGGATGGCAGCTCCACGAGAGACCAGCCTGGGGGATATGTTAAAGGCATAAGAAAGGGTAGGTCTCTGTGGGCACAAGAACTTG 25573
+                                   | | ||||  ||| ||| | | |||||||||||  ||     ||   |||| ||| |||||| || |||||||||| ||||  ||| | ||| ||||||| ||   ||||  | || ||   | || ||| | |   ||| ||||||||    |    | |    ||  ||||         ||||||           
+PseudochrX:0-1000000 +      16182 AGCCCGTGTTTGCACGTGTGTGTGCCTCTCCTCCCCGGGGCACAAGCGAAACGGGGTTCCCTCCAGCCTCCTCCTGAGAATTAAACACGGAGCCCTCCTTCACT---TCTCTGTCTGAGAGCCCTGCCCCATGGGGAGCCAACCTGGGGGGGCAGGGTGAAGGCACAGGGAGGG---------GTGGGC----------- 16358
+
+
+
+chrX:0-1000000       +      25574 AGGCTTTCCCGAGGTGGGAGGACAAGGTTAGGCTGTGGCTGGGTGGGACTGGCTCACACCGAGTGGAGGGCTACCCCTTTCACATCCCACCTGGAAATGCTCCTGCAAAGATGGAGTGAGAGCCTCTCCCTTTTCTGCCCACCT--TCCTCTCAATATGGAGGAACCCACCTCC-CCGCAAAATGCTGCTCTACAGTCCT 25770
+                                                                      | ||||||||||  ||   |    |   | ||||  | ||||||||||||||||||   | ||| ||  ||  ||||| ||  | ||       ||  | | ||   |  ||| || |    |||||| |||||| ||  | | | || |  |||| ||| || 
+PseudochrX:0-1000000 +      16359 ------------------------------------GTCTGGGTGGGAGGGGTGAA----GGAAGCAGGGGGATCCCTTTCACATCCCACCTCTGAGTGCACCCCCAGTGATGGTGTTGGGGCTCTCGGTTTCCCCGTCCCTGTGCTCCCCTTAGCGAGGAGGATCCCACCGCCGTCCCCAGATCCCCCTCTTCAGCCCC 16518
+
+
+
+chrX:0-1000000       +      25771 TTGGCAATTTTCCTTTTGAAAAGCTGACCAATAAAGTCCACATATCATATACTTCCATTCAAATGAAAGTCCAGACTAGGAAAATCTACACAGACAGAAAGTAGGTTACTGGCTGCTTAGGGTCAGGGGGAGAGAGATGTAGGAGGAAAATAGTTTAAAGGGTATGAGGTTTCTTTGGGGAGTGACAAAA---ATATCTA 25967
+                                  | | ||||| |||||| ||| ||||||||  ||| ||||||||  |        ||||| |  || ||| |||||| ||  ||| ||  |  |||||||||  |       | |    |||| | ||  | | | |  |   ||||   |     |||||||  || ||   |||   || ||||||       | |  |
+PseudochrX:0-1000000 +      16519 TGGACAATTGTCCTTTGGAAGAGCTGACCGTTAAGGTCCACATTCC--------CCATTGATCTGCAAGGCCAGACCAGAGAAA-CTCTAGGGACAGAAAGCGG------CGGTCACCAGGGGCTGGCAGGGCGGGGGGACAGAGGGGTAGTCGCTAAAGGG-GTGGGGCCGCTTCCAGGGGTGACAGCCGGGTTCTGAA 16702
+
+
+
+chrX:0-1000000       +      25968 AAATTGGCTGGTGATGGTTGCACAGCTCCGTTAATACACTACAAACCATTAAATTGTACACCTCAAATGGGT-GACTCTGTGCTATGTGAATTATATTTCAATAAAGCTG---------------------TTTAAATGAAAGAAAGCTGATTGTTGGACAGTCC-TTCCTTAGCTGCCCCACCTCGCTTTATTTCCAAG 26144
+                                  |  ||   || |||  |  ||||   |||   || |  ||  | | |||  ||||||||||||    |||||  | |    |||||||||  ||||| |||||||| |||                     |||   |  ||||||||   |  |||| |||||| | ||||||||| |  | | |  |  ||||||| |
+PseudochrX:0-1000000 +      16703 ATGTTCTATGCTGACAGCAGCACGTATCCACGAAGAGGCTTTAGATCATCGAATTGTACACCTTGCGTGGGTACATTGCACGCTATGTGACCTATATGTCAATAAACCTGCGATTTTTTTATTTTATTCTTTTTTTTTTTAAGAAAGCCAGTCATTGGGCAGTCCCTGCCTTAGCTGACTGATCCCTTTACATTTCCAGG 16902
+
+
+
+chrX:0-1000000       +      26145 GAGCCCT-GGAAGAACGTGTGCCGTGGATCCTTCTGCACCTGGCCTGTACCAGGGCCACTCTTGGGAATGTTGTTGCTCGTGCTGGGCGCCACTCTGTGGGGCTGGGCACCTCGTTGTGATTGCAGATGGTTGGCC-AATGCACCGTGTGTGTGCAGCAATGAGAACTATGTGGAAGGCATTTAATA 26329
+                                   | |||   | ||| |  | ||||||| ||   || || | ||||||   |||  ||||| | ||   |||||| || || |||||| ||| | | ||||||| |||||| ||||||||| |||||||||  |||| |||||||||||||| | |||||||||||||||| ||||||||||||||||
+PseudochrX:0-1000000 +      16903 AACCCCCCAGGAGACCACGGGCCGTGGGTCGGCCTCCAGCCGGCCTGCGTCAGCACCACTGTCGGCTCTGTTGT-GCCCGCGCTGGGTGCCGCACCGTGGGGCCGGGCACGTCGTTGTGACTGCAGATGGCCGGCCAAATGCACCGTGTGTATACAGCAATGAGAACTATCTGGAAGGCATTTAATA 17088
+
+
+
+##BLOCK
+chrX:0-1000000       +      26331 AGTGACTCACAGGGTCATGCTTGGAAAATTAATTCAAATTGGCTTG-CATCAAGCCAAGGAAAACTGTCTGAAGAGGCTGTAAACAGAA 26418
+                                  |||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      17090 AGTGACTCACAGGGTCATGCTTGGAAAATTAATTCAAATTGGCTTGGCATCAAGCCAAGGAAAACTGTCTGAAGAGGCTGTAAACAGAA 17178
+
+
+
+##GAP
+chrX:0-1000000       +      26420 GTAATGGATTGAGCTGAAGCAGGGCTAGAGGGAAGGCA-CAGGGGGAG--------------------------------ACAGCTGGC-----------AGGAGGGGGTTGGTGTGGGGACCTGGTTGGGGGTGGGGCACAGAGGCTGAAGTCC--GGGAACTCCATCTCCTGCCAGTTCCTCTCCCCACTCTGGAGTC 26573
+                                  ||||||||||||||||||| |||| |||| |||  |||  ||||||||                                 |||||||             || || ||    | |  | ||  || ||||||  ||| || | |||  |||| |   ||| | |  |||||  |||||||| |||         |||||
+PseudochrX:0-1000000 +      17180 GTAATGGATTGAGCTGAAGGAGGGATAGAAGGAGAGCAGTAGGGGGAGGTCCAGCCGCACAGCCCGCCCCCCCCAGGCTGCCAGCTGGAGAGGGCTAATACGGGGGCGGGCACTCTCTGCACTGGGCTGGGGGCTGGGGACTGGGGCCCAAGTGCCGAGGACCCCTGTCTCCCACCAGTTCCCCTC---------GAGTC 17370
+
+
+
+chrX:0-1000000       +      26574 CCCGGTACCTGGCCTGCTTCCCCTGGTCACACTGATCCTTGTCACTCCTGGGCATCCCGGGCATTT-AGATATTTCTGTTTGCACTTTCTCTCTG--------------------TCCCGACTGGGAGCTCCCTGAGGGCAGGAAGGCGGTATCTGTAGACAAAGGAGAGCTATGAGTTCCCCGAGTG------------ 26740
+                                  ||||||||||||  |||| |||||||     ||| ||| |||  ||||      |||| ||| ||   || | |||||||||||| || ||||                       |||  ||||| ||||| ||||||||| |||  ||||       | | ||||   |    | | |      ||            
+PseudochrX:0-1000000 +      17371 CCCGGTACCTGGTTTGCTCCCCCTGGCAGTGCTGCTCCCTGTTGCTCCACAATGTCCCTGGCGTTCCTGACACTTCTGTTTGCACCTTATCTCCCACCTTCCCTCCCTCCTTCCCCCCCTGCTGGGGGCTCCTTGAGGGCAGAAAGAGGGTAGGCAGGCATAGAGGAACCCATCTATTGCTGGTGCTGCCTCAATGTAGT 17570
+
+
+
+chrX:0-1000000       +      26741 ----TCTGCCC-CGCGAGTCCCTGGTGGGCTGCCAAGGGGCCCCAGCTTTTTAAACCCACACCTCAC-CAGTAAAAATATGAATGCAAACTTTACCTCCAGTGGTTTGCGCTGGG--AAAATACAGCTCTCCTTATGGGTTTTCTAAAGAGATGTTATAATTT------------------TTTTTAACAGATTTATTGA 26914
+                                      |||||||  | ||| |||   |||||||||||||||||||| ||||||||| |||||||||||  || |  ||||| || | || | ||  || | |    |       ||  |||||  || | || ||||||||||||   |||| ||||||||| |                  ||||| |||||||||||||
+PseudochrX:0-1000000 +      17571 GCTCTCTGCCCAAGGGAGGCCCCAATGGGCTGCCAAGGGGCCCCACCTTTTTAAATCCACACCTCACTGAGCAGCAATATTAACGAAAGCCTTCACTTCTGATAATGCATACTGGCAAAAATGTAGGTTTCTTTATGGGTTTTCCCGAGAGCTGTTATAATGTCTTTGGTTTCTGTTTTCCTTTTTTACAGATTTATTGA 17770
+
+
+
+chrX:0-1000000       +      26915 GGTATAATGTAGATACCACAAATTGCAAGTGTATAACTCAGTAATGTTTAGAAAATTTATAGAGTTGTGCAATCATCACCACCATCTCTGCTCAGAACATTTCCATCCCTAAATATGTCTTTTAAACTATGCCTT-ACCCCATATTCTGATGCACACAGGGACGTAAGATGTCCCCTTTCTTCCCCTCCCCAGTTCTGGA 27113
+                                  ||| |||| ||||||||| | |||| | |||||| | ||||| || ||||| |||||| ||||||||||| ||||||| |||  ||  |  |  ||||||||| ||||||||||||| |||||||||  ||| ||  |||||||||||||| ||  ||| || | |   |||||| || |||||||| ||| | ||||| 
+PseudochrX:0-1000000 +      17771 GGTTTAATATAGATACCATACATTGTAGGTGTATGATTCAGTGATTTTTAGGAAATTTGTAGAGTTGTGCGATCATCATCACAGTCATT--TTGGAACATTTCTATCCCTAAATATGCCTTTTAAACCCTGCATTGCCCCCATATTCTGATACATGCAGAGATGCA--GTGTCCCTTTCCTTCCCCTTCCCGGCTCTGGG 17966
+
+
+
+chrX:0-1000000       +      27114 AAGTGAAAAGCTCAGTGACCTGGGGTCCTGCCATCTGTGTAGACA--CCAGCTGGACCC---AGTTGTTGGGCTCT------------------------------------------------------------------------AGACTTGCAGGT---------------------------------------- 27196
+                                   || | |||||||||  |||||| | ||  ||| |||  |   ||  ||||||   |||   ||| ||||||                                                                             ||||||| |                                          
+PseudochrX:0-1000000 +      17967 GAGCG-AAAGCTCAGCTACCTGGAGACCAACCACCTGGATTCTCAACCCAGCTCTGCCCCTGAGTGGTTGGGAGAACTTGGGCAAGTCTTTCCCCTCTCTGGGCCTGATTTTCCTTCCTGGAAAGCAAGGGAGTTGGGGCTGGGGAGGGGACTTGCTGCCTTGGAAGACTCTCCAGCTCAGGCACTGCGTGAGGATCTCT 18165
+
+
+
+chrX:0-1000000       +      27197 ---------------------------------AGCAGAGCTCTCAGCTTTTGCCCTGCCCTCCTGGCATTGTAAGAGCATCTCTCCCTGCACAGCTGGGAGCTAGGGTAA--GGAGGCTTCCAGACGCTTCCTGGGCAGAGTCTTTGGGTCTGGGATTCCTTTCCCAGGCATTCAAACGCCTCTCACCCCAACCCCCAG 27361
+                                                                    |  |||||||  |    |    ||     |        |  |  | ||    ||||||||| ||||||| ||||  |  ||||||| || ||||||| |||||||| ||                                           ||| |||||||  |
+PseudochrX:0-1000000 +      18166 GCCCTGGTGGAGGACACGGCGAAGGTCCATGAGTGATGAGCTCTGGGACCCTCAGGTGTAGAACCCATCACCTGGGCCCCTCGGCACCTGCACAGGTGGGAGCGAGGGGTATGGGAGGCTGCC-GACGCTTTCTGGGCAGGGT------------------------------------------GACCTCAACCCC--G 18320
+
+
+
+chrX:0-1000000       +      27362 CAGACACATTTACGATCCCCACAGCTGGTGGTGCGACCACAGCCAAGCAAGACCAGTCTTGGGCAGACAGAACAGAATGTGAACATCCATAGGAAACCCAACTCCTTCAGAGAGGGGCG----AGAGGCCTTGCACATTTGTCATGACCCCCTGGC--TCAATGCCTCTCCCGGCTGAGTGAATTCAAACAAACTTTTCC 27555
+                                  ||| |||| ||   || ||   |||||| |||                | ||||| ||||| ||| ||||| |||   || ||||||  |||||| ||  | ||||||   |||||||      |||||||  |||||||| | ||   |  ||||  ||| |||||| || ||||||||| |||||||||||| |||||
+PseudochrX:0-1000000 +      18321 CAGCCACACTTTGCATACCTGTAGCTGGAGGT----------------ATGACCAATCTTGTGCAAACAGAGCAGTGCGTAAACATCTGTAGGAACCCTGATTCCTTC---GAGGGGCCGCCAGGAGGCCTCACACATTTGCCTTGCTTCTTTGGCCCTCACTGCCTCCCCTGGCTGAGTGGATTCAAACAAACATTTCC 18501
+
+
+
+chrX:0-1000000       +      27556 TGAGTGCCAACTAGGGGTCAGGGTTCAGGTGAGGAGGCCCTGCAAGGGATGGGGACATGACAAGACATGGTTCAGGCCTTGGGGAGCTCCACATTCTCCAGAGTGGAAGAAACAAGGTGCATTAGTTTCCTGCCACTGCTGTAAGGAATTGCTACAAGTTTAGTGGTTTCAAGACAATGCAAATTTATTACTTTCTTTGG 27755
+                                  ||||| ||  |||||||   ||| |||| |||||||||||  |||||| |  ||   ||| || | |  ||| | ||||||| |||| |||||||||||| |||||| || |    | |  | ||| ||||    || || |||  ||||||||||| ||    | ||                                
+PseudochrX:0-1000000 +      18502 TGAGTACCTCCTAGGGGATGGGGCTCAGATGAGGAGGCCCCACAAGGGCTATGGGTGTGAGAA-AAACAGTTTATGCCTTGGAGAGCCCCACATTCTCCACAGTGGAGGAGATGGCGGGTGTAAGTGTCCTCTGGCTACTATAACCAATTGCTACAATTTCGTGGCTT-------------------------------- 18668
+
+
+
+chrX:0-1000000       +      27756 TTTGTTTTTTGAGACAGGGTCTCATTCTGTCTTTCAGGCTAAAGTGCACTGGAGCCATCACAGCTCACTGCAGCCTCGACCTCCCAAGCTCAAGCAATCCTCCCACCTCAGCCTCCCAAGTAGCTGGGACCATACCTAGGTGCATGCCACCACGCCTAGCTAATTATTTTGTTATTTTTGTAGGGCCAGGGCCTTGCTAT 27955
+                                                                                      ||||| ||||                                                                                                                                          
+PseudochrX:0-1000000 +      18669 ---------------------------------------------------AAGCCAACACA------------------------------------------------------------------------------------------------------------------------------------------ 18679
+
+
+
+chrX:0-1000000       +      27956 GTTGTCCAGGCTGGTCCCAAACTCCTGGGCTCAAGCAGTCCTCCTACTTCGGCCTTCCAAAGTTTTGGGATTACAGGTGTGAGTCACTGTGCCTGGCCACCAATTTATTATCTTACAGTTCTAGAAGTCAGGAGTTTCGGATGGGTGTCACTGGACTAAAGTTAAG------ACAGGGCTGCATTCCTTTTGGAGGCTCT 28149
+                                                                                                                                        ||||| ||||||||||||||  ||||||| ||| |   |||||| |||||| ||| |||  |||       |||||||||| ||||| |||  |||||
+PseudochrX:0-1000000 +      18680 -----------------------------------------------------------------------------------------------------TATTTACTATCTTACAGTTCTGAAAGTCAGAAGTCTGCAATGGGTCTCACTGAACTCAAGCCAAGGTGTTGGCAGGGCTGCACTCCTTCTGGCAGCTCT 18778
+
+
+
+chrX:0-1000000       +      28150 AGGAGAGAATGTGTTTTCTTGCCTTTTATGCCTTCTAGAGGCTGCCTACATCCCTTGGCTTGTGGCCACATCACTTCTCCTTCTGCTTCCATCATCACATCTTCTTCTCTGATTCTCACCTTCCTGCCTCCCTCTTATAAGGACCATTTGTGATTACAGGGGGCTGGCTCAAATAATCCAGGATAATTCTCTCATCTTAA 28349
+                                  | | |||| |   ||| | |||| |||    |||| |||| |  ||     ||||   | ||||| ||| |||||    |||   ||| ||   |||||| | |||||||||  |||||| |||||||   ||||||||||||||   ||||||||||  | |||  |||||| ||||||||||| || || ||||| ||
+PseudochrX:0-1000000 +      18779 AAGGGAGAGTCCATTTCCATGCCCTTTCCAGCTTCCAGAGACCCCCAC--ACCCTCATCCTGTGGACACGTCACTCTCACTTTCTCTTGCACTGTCACATTTCCTTCTCTGACGCTCACCCTCCTGCCCTGCTCTTATAAGGACC--CTGTGATTACATTGAGCTCACTCAAA-AATCCAGGATAGTTTTCCCATCTCAA 18973
+
+
+
+chrX:0-1000000       +      28350 AATCCTTAACTTAATCACATCTGCTAGGTCTCTTTTGCCATTTAAGGTAACACACTCACAGGTTCTAGGAATTAGGACATGGACATCTTTGGGGGCCATTATTCTCTTCACCATGTAAGGCCTGAGTTGGGCAGCCC-TGTGGGTGCCACCCAAGTGGGGCAGGTGAGAACGCTCCAGGCAGTGGGGCCTGGCCTTGTGA 28548
+                                   | |||  ||| |||||||||||||| || |||||||||||  ||||||| |    || ||||||| |||||||||   ||| |||||||||| |    |  ||  | || |    ||||||| ||  | ||||||| | ||| || |||| |||| || ||  | |||| |||||||   |                  
+PseudochrX:0-1000000 +      18974 GACCCTGGACTCAATCACATCTGCTAAGTTTCTTTTGCCATGGAAGGTAAGATGTCCAAAGGTTCT-GGAATTAGGGTGTGGGCATCTTTGGGAG---ATTGTCCATCCATCCCAGAAGGCCTCAGAAGAGCAGCCCCTCTGGATGTCACCAAAGTAGGCCACTTAAGAATGCTCCAGAGGG------------------ 19151
+
+
+
+chrX:0-1000000       +      28549 CAGCCTCCACGATAAAGGAGCTTTGGCACTAAGGATGGCTTTCATTTCTAGAAAGTAAAGTTTGAGGAATAAGTTGAGGGATCAAGGATAATATGCAGTTAGAAGGACAACCAAAGTGTGACCGTAAGTCAGTGTGCCTGGGGTTCGTTCATCTAAAGCCAAAAGTAGCCTTGCAAATGTTACCTAAACATGAGATTGTG 28748
+                                                                                                                                                                                                    |    ||||||||  ||                 ||||
+PseudochrX:0-1000000 +      19152 ------------------------------------------------------------------------------------------------------------------------------------------------------------------ACTAGGCCTTGCATGTG-----------------TGTG 19172
+
+
+
+chrX:0-1000000       +      28749 CTGGCGCACACCTGCATTCCCAGCTACTTGGGAGGCTGAAGCAGGAGAATGGCTTGAACCCAGGAGTTTGAAGCTATACTATATTATGATGGCACCTGTGAATAGACAGTGTACTCCAGCCTGGACAGCCAGGTGTGACTTCAGCTCTAAAATTAATAATAATAATAATAATAATAATTACATATGTGGCCCACATTATA 28948
+                                  |  ||||||||   ||  | ||                                                                                                                                                                                  
+PseudochrX:0-1000000 +      19173 CGCGCGCACACACACACACACA---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19194
+
+
+
+chrX:0-1000000       +      28949 AATAGATAAATAAAACATACAAGTCTATTTCTTGTATGTTTTACAAGAAAGGAAAAGAAAGGAAGTGGTGCAGGAGACCTGAGTTCATACTTTTTAAAAACAAGCTTTAATTTTGAAATGATTTTAAACTTATAGAAAAGTTGTGAGACTAGTACAAAGAACTCATTACTGACTGGGTGTGGTAGCTTATGCCTGCCATT 29148
+                                                ||| ||     ||||||||                                                                                                                                                                       
+PseudochrX:0-1000000 +      19195 -------------CACACACGTTGTTATTTCTT----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19214
+
+
+
+chrX:0-1000000       +      29149 CCAGCACTTTGGCAGGCTGAGGTGGGAGGATCACTTGAGGCCAGGAGTTTGAGACCAGCCTAGGCAACATAATGAGACCACATCTCTACTAAAAATAAAATAAAATAAAAATTAGCCAGCTGTGGTGCCATGTGCCTGTAGCCCCAGCTACTCAGGAGGCTGAGGTGGGAGGATGGCTTGAGCCCAGGAGATAGAGGCTG 29348
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      19215 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19214
+
+
+
+chrX:0-1000000       +      29349 CAGTGAGTTATGATTGCGCCGCTGCATCCCAGCCTGTGGCAGTGTGAGACACTGTCTCAAAACAAAGCAAAACAAAACAAAACAAAAGGACTCTTTACCTCTTTAACCTTTCTGTGGATTCCCAATTGTTAACATTTTACCATATGTGTCTTATGGTTCTCTCTCTCCTGCTCTGTCTCTCTCACTATTATTTTTACCAA 29548
+                                                                                                                                                                                                                                    | ||||
+PseudochrX:0-1000000 +      19215 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------TTCCAA 19220
+
+
+
+chrX:0-1000000       +      29549 ATCATTTGAAAGTAAGTTGCTGACCTGACGCTCCATTACCCCTAAATAGTTGAGTGTGTGTTTTCTAAAATTAAAGACACTGTCCTACAAAACCATAGTACACCAATGAGAATCAGGAAATTAGCATTTGACA---TTACCTAATCCATAGATTTTACTTAAATTTCCCTGATTGTCCAAATAATTAATGCTCTTTGTAG 29745
+                                  | |||| |||||| | |||||||| ||| |||||||||||||| |||  || ||||||  ||||||| |    | |||||| || ||||  |||  |||||||  || ||||| |  |||| | ||||| | |    |||||||||||||||    | | ||| | |   | ||||||||||| ||||| |         
+PseudochrX:0-1000000 +      19221 ACCATTGGAAAGTGAATTGCTGACATGATGCTCCATTACCCCTGAATGCTTCAGTGTGCATTTTCTAGATACCAGGACACTCTCTTACATGACCCCAGTACACATATCAGAATTATAAAATGAACATTTAATACTACTACCTAATCCATAGACCCCATTCAAACTCCTACGCTTGTCCAAATAGTTAATACA-------- 19412
+
+
+
+chrX:0-1000000       +      29746 TGAAAACAACAAACAAACA---AACAAAA--ATCTTTGCCATCATCATCAACATCATCATCATCATCAACAACAACTTTATTTTTCCTGGTTTTCTTTCTCGTCCAGGATCCAATCCCAGACCATATGTTGCATGTAGTTGTGTTGTCTCTTTG----GTCTACTGCAATCTGGAATAGTTACTCAGTCTTTCCTTGTTC 29936
+                                     || ||||||||| |||   |||||||  |||||||||| ||     ||||    |          | |||| |||| |||||||   ||| |||||| ||||| |||||||||| ||| |||||||||||| ||||| |  ||||||||||    | || || ||||| ||||||||| ||||| ||||||||| | 
+PseudochrX:0-1000000 +      19413 --GAAGCAACAAACATACAAATAACAAAATCATCTTTGCCACCAATGGTAACAAGTGCCAA------CAAAACACCTTTCTTTTTCCCAATTTCCTTTCTGGTCCAAGATCCAATCCTAGATCATATGTTGCATTTAGTTATTGTGTCTCTTTGAAGAGCCTCCTTCAATCCGGAATAGTTTCTCAGGCTTTCCTTGGTT 19604
+
+
+
+chrX:0-1000000       +      29937 CTTATGACCTTGACATTTTTGAAGAGTACAGGCCAAGTATTATATAGA-ATGTCCCTCAGTTTGGATTTGCTTGATATTCCCTCTGGAATACCTTGGGAGTGATGTGTTCTCAGTACACCCTATCAGG 30063
+                                   |||| ||||||||| |||||||||   |||||||  |||| | ||||  ||||||||  |||||||||| | |   ||||||| |||||||||  ||||||||| |||||||||||| |||||||||
+PseudochrX:0-1000000 +      19605 TTTATTACCTTGACACTTTTGAAGACCGCAGGCCAGTTATTTTGTAGATTTGTCCCTCCATTTGGATTTGGTCGGCGTTCCCTCAGGAATACCTGAGGAGTGATGAGTTCTCAGTACATCCTATCAGG 19732
+
+
+
+##BLOCK
+chrX:0-1000000       +      30135 ACATTAACTTTGATCACTTGATTAAAGTGTT 30165
+                                  |||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      19738 ACATTAACTTTGATCACTTGATTAAAGTGTT 19768
+
+
+
+##BLOCK
+chrX:0-1000000       +      46382 CAACAGGAAAATGAGCAAAGCATATG 46407
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      32161 CAACAGGAAAATGAGCAAAGCATATG 32186
+
+
+
+##GAP
+chrX:0-1000000       +      46409 ATAGGCAATTCTTAGGAGAAGAAACTGAAAAGGCTGGCAAGTAAGTATGTGAAGAGATGCTGGGATCCCAGATTCATTAGTAATCGGAGAAATGGAAATGACAACAATGA 46518
+                                  |||||||||||  || || ||||||  |||||||| ||||||||||||| |||||| ||||       |||| || ||||||||| |||||||| |||| ||||||||||
+PseudochrX:0-1000000 +      32188 ATAGGCAATTCCCAGAAGGAGAAACCCAAAAGGCTAGCAAGTAAGTATGCGAAGAGTTGCT-------CAGAATCGTTAGTAATCAGAGAAATGCAAATCACAACAATGA 32290
+
+
+
+##BLOCK
+chrX:0-1000000       +      46520 ATAGGATACACACATGTCAGATTGGCAAAAA 46550
+                                  |||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      32292 ATAGGATACACACATGTCAGATTGGCAAAAA 32322
+
+
+
+##GAP
+chrX:0-1000000       +      46552 CAGCTGTATGATGCCAAGTGTTGGCTAGAATAAGCAGAAGGAGGAACCATTGTGTGCCGCTGCTGGGAGTCCTGCTAGATGGATGCAGGCGCTTTGGAGAGCCACCTAGTAGCATTTAGCCAAATC--TTGTCTGTGCCCACACTGTCCCAGTAAGCCCATTCTTGGGTATAACC--TCAAGAAATTCTCCTGCAGGCCC 46747
+                                  ||||| |||||||||||||||||||||| ||||  |||| | |||||||||||||||  ||| ||||||||| ||||||| |||||||  |||| | | |||||||| | ||| | |||||| |||   |||    |  ||||| | ||||| || |||  |  |||||| | ||   |||  |||||| |||| |||||
+PseudochrX:0-1000000 +      32324 CAGCTATATGATGCCAAGTGTTGGCTAGGATAAAGAGAAAGGGGAACCATTGTGTGCTACTGGTGGGAGTCCAGCTAGATCGATGCAGCTGCTTGGCAAAGCCACCTGGCAGCCTGTAGCCAGATCAAGTGTACACGTTCACACCGACCCAGCAATCCCTCTTCTGGGTACACCCCCCCAACGAATTCTTCTGCGGGCCC 32523
+
+
+
+chrX:0-1000000       +      46748 ACAAAGGGACT--GAGTATCTTGTGGCTGCTGTAACAAAATATCACAAACTCAATGGCTCAAAACAACAGAAATGTATTCTCTGATACTTCTGGAGTCAAGAGGTCCAAAATCAGTATCCTTTGGCCGAACCCCAGATGTCAGCAGGGCTATGCTCTCTCAGGAGGTTCTGGGGGGTCTCCACTCCTTGCTTCTTCCAGC 46945
+                                  |||||||||||   ||| ||  ||||||||||||||| | |     |||||   ||| |  ||||| ||||||||| |||||| ||| |||||||| | | | |||||| |||||| ||| |  || |||  | |  |||  |||||||    ||| |||   |   |||  | |     |  |||| || || ||||||
+PseudochrX:0-1000000 +      32524 ACAAAGGGACTATTAGTTTCCAGTGGCTGCTGTAACAGAGTGCTGGAAACTGGGTGGTTTTAAACAGCAGAAATGTGTTCTCTCATAGTTCTGGAGGCCACAAGTCCAAGATCAGTGTCCCTGAGCTGAAATCAAACTGTTGGCAGGGCCC-ACTCCCTCCCCAACCTCTAAGAGAAGATCCTTCCTCGCCTCGTCCAGC 32722
+
+
+
+chrX:0-1000000       +      46946 TTCTGGTGGCTGCCAGCCTTCCCTGGTCTGCGGCTGCATCGCTTTGATGTTCAAGGCCAGCATCTTCGAA--TCTCTCCGCTCCCTCTTCACTCTGCCTTCTCTGTGTGAGTGTCAAATCTACCTCTGCTTCTCTTTTATAAGGATATAAGAGTAGTGGGCTGAATAATGTCCCCCCAAATTCACATTCACT--TAGAAC 47141
+                                  ||||| ||||| |  |  |                    ||||    ||| ||||||||||||| ||  |  |||||||||     ||||||   || | ||| ||||| |        ||  | |  |||||           ||| | | ||| ||||   |        |||||||||||| |||| |    |||||
+PseudochrX:0-1000000 +      32723 TTCTGATGGCTCCAGGTGT-------------------CCGCTGCTGTGTCCAAGGCCAGCATCCTCACATCTCTCTCCGCCGTGCCTTCACATCGCTTCCTCCGTGTGTGATATCTGCCTTGCCCCCCTTCT-----------ATACATGTGTACTGGGTGAATGCTGTCTCCCCCAAATTCATATTCCCCCCCAGAAC 32892
+
+
+
+chrX:0-1000000       +      47142 CTCAGAAAGTGACCTTATTTGGAAATAGGGTCTTTGAAGATGTAATTTGTTAAGATGAGGTCATACTGGAGTAGGAGGGGCCCTT---AATCCAATTTCTGCTGTCCTTATAAGAGGACAAAAGGACAGAGAGA------------------------------------------------------------------ 47272
+                                  |||| | |||||||| |||  ||||||||||| ||| || ||  ||   || |||||||| | | |||||| ||||| | |||||    |||||||  ||| |||||||| || | ||  |||     ||||||                                                                  
+PseudochrX:0-1000000 +      32893 CTCATACAGTGACCTGATTAAGAAATAGGGTCGTTGCAGCTGGCATC-ATTTAGATGAGGCCCTGCTGGAGGAGGAGAGACCCTTCTTCATCCAATGGCTGATGTCCTTAGAAAAAGAGGAAAAACATGAGAGACTCCTAACTCTGGGAAACGAACTAGGGGTAGGGGAACGGGAGGTGGGCGGGGGTGGGGGTACTGGG 33091
+
+
+
+chrX:0-1000000       +      47273 --------------------------------------------------------------------------------------------------------------------------------------CAGGGAAGACCATGTGAAGACGAGGCAGAGGTTGGAGTGATGCTGCCACAAACCAAGGAACACCTG 47338
+                                                                                                                                                                        |||||||| ||| | |   |    ||||||| |||| | |||  ||||||  ||  || |  |  |
+PseudochrX:0-1000000 +      33092 TGACGGGCACTGAGGGGGGCACTTGACGGGATGAGCACTGGGTGTTATTCTATATGTTGGCAAATTGAACACCAATAAAAAATAAATTTATAAAAAAAAAGAAAAAGAAAAAGAGGAAAGGCTACGGCGAAGCTCAGGGAAGGCCACGGGGGAA---TGCAGAGGCTGGACTCATGTGGCCACAGGCCGGGGCAGTCTGG 33288
+
+
+
+chrX:0-1000000       +      47339 AGTCCACTAGAATCCGGAAGAGGCAAGGAGGGGATTC--------------GGAGGCACTGTGGCCCTCCTGACACCTTGATTTCAGACTTCTGGCCTCCAGAA-CAGTGAGAGAGTAGATTTCTATTGTCTTAAGCCACCAAATTTGTGGTACAGTACTTTGTTACAGCAACCACAGAAAACCAATACAACATGTGACT 47523
+                                  || | || |||| | ||||||||||||||  ||||||               |  |  |    ||||| | | || |||||| |||||| |  ||||||||||| |  | | | || | |||  | |||| | |||||| | | ||||||     ||||||||||| |||| || ||| |||||  |||||  ||||| |
+PseudochrX:0-1000000 +      33289 AG-CTACCAGAAGCTGGAAGAGGCAAGGA-AGGATTCTCTCCGAGAGCCTTTGGAGGGCGCGTGCCCTGCCGGCAGCTTGATGTCAGACCTTGGGCCTCCAGAATCTTTTAAAAAGCAAATTGTTGTTGTTTGAAGCCATCTAGTTTGTG-----GTACTTTGTTAGAGCAGCCCCAGGAAACCCCTACAATTTGTGATT 33481
+
+
+
+chrX:0-1000000       +      47524 TCCTTTCCAGCCCACCCTGATAACCCAGGATAATCTCCCCATCTCAAAATCCTCAACACGATCACATCCGCAAAGACCCTTTTTCCATATAAGGCAACATTCACAGACTCCAAGCATTAGGACCTGATACCTT-TGGGGTCCATCTTGAGCCTGCTATAGGGACCCATGCAAGGATGTTTATTGTACAGAGCCTGTGCTA 47722
+                                   |  ||   |||||||| | ||| | ||| |||||||  |||||||  |||||       |||||||| ||| || ||| |||||||  |||||   ||| |||||  |||  | |   |||||||||| | |  |||| |     | ||||||||  ||||||||   | |||| ||| || || ||| || || ||||
+PseudochrX:0-1000000 +      33482 ACACTTGAGGCCCACCCAGCTAATCTAGGGTAATCTCTTCATCTCAGGATCCTT-----CATCACATCTGCAGAGGCCCATTTTCCAGGTAAGGTGGCATGCACAGGTTCCGGGGAACGGGACCTGATATCATCAGGGGCCGTCAATCAGCCTGCTGCAGGGACCCGCCCCAGGA-GTTCATCGTGCAGTGCTTGGGCTA 33675
+
+
+
+chrX:0-1000000       +      47723 GGACAGAATTGGAGGCAATCCAGGTGTCCACCACT-GGGGAAAAATAGAAGCAAATGAGTGGTT-----ACAAGCAACTCAGGAACACACAGCAGCATGGACAGTTAACACACACAGGGCTCAGTGGAAAAGCACCCAGTAAGAGACTGAACACACTCTCCAGGCCACTACCACTTATGTTTACTGAAAACACACACACA 47916
+                                    | || || || ||  | |||||| |||| |||| |||||||   |   |      | | | |      ||  || ||||||| ||||| | ||||||   || | |||| |||  || |  |||||||||| ||||| |||| |  |  ||  || |||||| || || || ||  |||||  ||  |||||||||||
+PseudochrX:0-1000000 +      33676 CCAGAGCATCGGGGGTGA-CCAGGTATCCAGCACTAGGGGAAAGGGAAGCGACCTGAACTTGCTCATAAGCACCCAGCTCAGGACCACACGGGAGCATGCGGAGGTCACACCCACCAGGTTGTGTGGAAAAGCCCCCAGGAAGAAATGGGGCAAGCTGTCCAGGACAGTAACATTTGAGTTTAGGGA-GACACACACACA 33873
+
+
+
+chrX:0-1000000       +      47917 CACACACACACACACACACACACACACACCCCTCTACACAGTTTGACAGAGCACACACTTGAGTGGTTGCCACTGAGGGGAGGAGCATTAGAGTGGAAAACAGTAATTAAAAAGACTGGAGAGATGGATAGATTGATTCAGCCAGAGAAGAATCTCACAGACCAATGATGGTGAGATCATGAATTGAGAAGCAACATTAC 48116
+                                  |||||||||||||||||||||||||||||    |       |||| |||||||||||||             ||||| | |||   | | | |  ||||||||  |||  |  ||| |||  | ||||| ||||||  |||||||||| ||| |||||| ||| ||||||| ||   || || ||| | |    ||||||
+PseudochrX:0-1000000 +      33874 CACACACACACACACACACACACACACACTATCCCTGTGCATTTGCCAGAGCACACACT-------------CTGAGAGTAGGGCAAGTGGGGCTGAAAACAGGCATTCCAGGGACCGGATGGGTGGATGGATTGACCCAGCCAGAGAGGAACCTCACACACCGATGATGGCGATGCCAGGAGTTGTGGAATGTCATTAC 34060
+
+
+
+chrX:0-1000000       +      48117 CTGAAAGCCAAACAAACAAACAAACAAACAAACAAATGGAAAGAAAAAGTCTGTGAGAGGTCCTTTCTGGGGAAAGCTGGCCACCTCTGCAAGTGCCTGGTGTGTTTTGCATAAAGACACATGGTCCCCCAGCCTGGGCAACACAGCAGGTAACAACTTGTCTCTACAAAAAAAAAAAAAAAAAATTAATTATCTGGGCA 48316
+                                  ||||| ||||||               | ||||||| |                              ||||||||                                                                                                                         || 
+PseudochrX:0-1000000 +      34061 CTGAAGGCCAAA---------------AGAAACAAAGGAG---------------------------GGGGGAAAG-------------------------------------------------------------------------------------------------------------------------GCC 34097
+
+
+
+chrX:0-1000000       +      48317 TAGACCGGGCGTGGTGGCTCACACCTGTAATCCCAGCACTTTGGGAGGGTGACGCAGGTGGATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGTCAAGATCGCGAAACCTCATTTCTACTCAAAATTAGCTGGGCGTGGTGGAGCGCGACTATAGTCCCAGCTACTCCAGAGGCTGAGACAGGAGAATTGCTTGAACC 48516
+                                   |||||      ||||| |                                                                                                                                                                                     
+PseudochrX:0-1000000 +      34098 CAGACCCAAATGGGTGGTT------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 34116
+
+
+
+chrX:0-1000000       +      48517 TGGGAGGCGGAGGTTGCAGTGAGCAGAGATCGTGCCATTGCACTCCAGCCTAGGCGACAGAGCAAGACTCCGTCTCGGGGAAAAAAAAAAAAAAAATCCGGGCATGGCAATACATGCCTGAAGTCCCAGCTACCCAGGAGGCTGAGGTGGGAGGATCTCTTGAACCTGGGAGGTCGAGGCTACAGTGAGCCATGATGGTG 48716
+                                                                             ||||||  ||||                                                           |||||||      |   | |  || |  |   | | ||||||                                            
+PseudochrX:0-1000000 +      34117 -------------------------------------------TCCAGCGAAGGC-----------------------------------------------------------TGCCTGACTCTGGAAGCATCTTGGCGCGTTTTGCGTGAGGAT-------------------------------------------- 34170
+
+
+
+chrX:0-1000000       +      48717 CCACTGCACTCCAGTGTGGGCGACAGAGCCACGCCTGTCTCAAAAAATAAATAAACAAATATAAATAAATAAATAATAAATAAATTAAAAAGACACATTGTTCCTTCAGTTGGAGCAGCAGTGGGTGGCAGCTAGGGACCTTCATCCTTCCCTACTGTTTGGGGAGGGTGGAACCATGTGGCCTGCAGAATGGAGAGAGG 48916
+                                                                                                                                ||   |  || |||| || ||||| || |||||||||| || || || |||| ||| || |  | |||| ||   ||||||||||||||| |||| || || ||||
+PseudochrX:0-1000000 +      34171 ----------------------------------------------------------------------------------------------ACGCCGCCCCATCAGCTGCAGCAGTAGCGGGTGGCAGCCAGCGAGCTGCATCTTTCACTTCCTTCTGGGAAGCCAGGAACCATGTGGCCTCCAGAGTGAAGGGAGG 34276
+
+
+
+chrX:0-1000000       +      48917 ACATCCTCCCTAGCAACACCAAGGAACAAAGGAAGCCACACTAATGCCATTTGCTGTTGCCTGCCAGTTGTGTTCCATCTGCTGCACTGAGTGTTCCCTCCCAGCAGCCTTGAGCAGCCAGCTGGCATTGTTGGCTCATCCACTGGTCTTAGTT-AGGCTTCCCATTATTTGATTCATTCTTGGAACACACCCTGGCCTT 49115
+                                  ||| ||||| |||||||||  | |||||||| ||||||||| ||||||||||||||| ||||  ||||| | ||||||||||||  | ||||| |||||||| || |           |||||| ||||||||||||| ||| ||||||| ||| |    || |||  |||  ||||||||||||||||||||||  | |
+PseudochrX:0-1000000 +      34277 ACACCCTCCTTAGCAACACTGACGAACAAAGAAAGCCACACGAATGCCATTTGCTGTCGCCTCACAGTTATTTTCCATCTGCTGTGCGGAGTGCTCCCTCCCGGCGG----------GCAGCTGACATTGTTGGCTCACCCATTGGTCTTGGTTCACATCTCTCATGGTTTTGTTCATTCTTGGAACACACCCTG--CCT 34464
+
+
+
+chrX:0-1000000       +      49116 CCTCTTTCC-GGATGCAATACTTCTCTCAGTGCCACTTGGTCAAGTAGCAGGGATG------------AGGCCAGTGGCCCTGGAAATAGGCATCTAAACGGTCGCGAATTCGGAATCAGCTTGGTAAACGGTCAGTCATTTTTAACCCCTGGAGAGGG--TTTGGATCTTGTTTGTTTAATGCCCCATTGGGTTCCTCA 49300
+                                  |||||| ||  ||| ||||||||||   |  ||||||   ||||||||||||  ||             | ||||||||||||||||| | |||  |||   ||  || ||| ||||||| |||| | |   ||||||||  |  |||||||| |||||   |  | ||||||| | ||  | | |    || |||    
+PseudochrX:0-1000000 +      34465 CCTCTTGCCCAGATACAATACTTCT---AACGCCACTCCATCAAGTAGCAGGAGTGCAAAGTAGAAGGCGACCAGTGGCCCTGGAAATGGTCATAAAAATCATCATGAGTTCTGAATCAGTTTGGAAGATATTCAGTCATCGT-GACCCCTGGGGAGGGGGGTCAGTTCTTGTTGGCTTCTTTCTCTTGGGGTTTCTCTT 34660
+
+
+
+chrX:0-1000000       +      49301 TAGTTCCTTGTAAAGTTCCC-TTTGAAAATGCCGTCCTACCATGTACGGTGGCTCACGTCTGTAATTCCAGCACTTTGGGAGGCCAAGGCGGGAGGATTATTTGAGGTCAGGAGTTCAAGACCAGCCTGGCCAACATAGTGAAACCCCATCTCCACTAAAAATACAAAAATTAGCCAGGCATGGTGGCACACGCCTGTAA 49499
+                                   | |||| || ||||| |||  |||||||| ||  |||                                                                                                                                                                  
+PseudochrX:0-1000000 +      34661 AACTTCCCTGCAAAGTCCCCCCTTGAAAATACCCCCCT------------------------------------------------------------------------------------------------------------------------------------------------------------------ 34698
+
+
+
+chrX:0-1000000       +      49500 TCCCAGCTACCCGGAAGGCTGAGGCACGAGAATGGTTTGAACCCGGGAGGTGGAGGTTGCAGTGAGCCGAGATCACGCCACTGCACTCCAGCCTGGGCGACAGAGTGAGACTCCATCAAAAAAAGAAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAGAAAATGCCATCCTATCTTGACTATGCTT 49699
+                                                                                                                                                                                                             |||||| ||||||| ||||| ||  ||||
+PseudochrX:0-1000000 +      34699 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------TGAAAATACCATCCT-TCTTGGCTGCGCTT 34727
+
+
+
+chrX:0-1000000       +      49700 GGGAAGGAAAGAGAACCTGACTTTTAATGTCTTGTCTGTTAG 49741
+                                    | ||||| |||||||||||||||||||| |||| | ||||
+PseudochrX:0-1000000 +      34728 CAG-AGGAAGGAGAACCTGACTTTTAATGTTTTGTGTATTAG 34768
+
+
+
+##BLOCK
+chrX:0-1000000       +      49743 ACCAAGGCCAGAGGGAAAAGGGGAGT 49768
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      34770 ACCAAGGCCAGAGGGAAAAGGGGAGT 34795
+
+
+
+##GAP
+chrX:0-1000000       +      49770 ATATTTTATTATAACCTTTTCTTTATCCTCCACAAAGGCCTTTTAGCAGAACTGACCTTAAATGTTTTAAAATCTAACAACAACAAGAAAAATGTGATGTGGCATTCACCTGTGCTCTTATCTGGGCTCTTCTTGATCCACTTAGGGATTCATATTTCCGGGTTCACCGACAGCTGGTTAACTTTGCTATTCATTCCTGC 49969
+                                  |||||||| | |||| || |||||| || ||||||||||| | |||||||||||||||| | | |||   || |   |||||||| ||||| | |||||                  | |     |    |||||||||||||| |||||||||||| | ||  || | |||||||  | | |||||| ||| |||||| 
+PseudochrX:0-1000000 +      34797 ATATTTTACTGTAACTTTCTCTTTAGCCCCCACAAAGGCCGTCTAGCAGAACTGACCTTCAGTATTTGTGAACC---CAACAACAGGAAAACTCTGATG-----------------GTGACACTCGGCTCTCTTGATCCACTTAAGGATTCATATTTTCAGGCGCATCAACAGCTGCCTGATTTTGCTCTTCCTTCCTGT 34976
+
+
+
+chrX:0-1000000       +      49970 CCACCTCCTCACACCCACTGTTGCAGTCATACCCACGAGACTCAATTTGCAAATACAGGTGAGGAATCAGGCAGTAATTTTTCATCTCCGAAGATGCCTTAACAGCCTGCTCCAGGTCTGTGCTCTTCATGAGCAAATACTTCATTTGAGCCTCGCCATATTTGACACAGCTGGCAGTCCCTGTTCAAAACTGGAACTAG 50169
+                                  |||||||||||| || || ||| ||| |||| |   |||||  ||||| ||||  ||||| |||||||| |||||  |||||||||| |||| ||||  ||||||||||| | ||||||||||| |||| || |||||| |||||              | |||||| ||  |||  ||| ||||||| || | ||||  
+PseudochrX:0-1000000 +      34977 CCACCTCCTCACCCCGACCGTTACAGGCATATCGGGGAGACGAAATTTCCAAACCCAGGTAAGGAATCAAGCAGTGGTTTTTCATCTTCGAAAATGCTATAACAGCCTGCCCAAGGTCTGTGCTTTTCAGGAACAAATATTTCAT-------------CACTTGACATAGTCGGCCCTCCTTGTTCAACACAGAAACTGC 35163
+
+
+
+chrX:0-1000000       +      50170 TGCTAAAAACAAAATTCATATAGAGACAGCAACGTATTCTTAGTTGTTTGCTTGGGAGACAGGGATTTGGCCAAACCAGGCAAGGGAAGATGAGAGAGCAGGCAGGAGTAACTTGCCTTGTTTTCCTCCCCATAAGTGTTCCTTGCTGCCTGCTAAGGGAGGCCTTCAGCCAATCACTCAGCC-CCTAGAGGCTCAAGTT 50368
+                                   ||||||||||||| |||| |||||||  ||   | ||||||||  |||||||||||||||| |||||   | ||||||| ||| ||||||||| ||||| ||||  ||| | ||| ||| ||||||||  | || | || |||||  ||  | |   ||||||||||||||| ||||||||| || |||| ||| | ||
+PseudochrX:0-1000000 +      35164 GGCTAAAAACAAAACTCATCTAGAGACTCCAGTATGTTCTTAGTCATTTGCTTGGGAGACAGAGATTTACTCCAACCAGGGAAGAGAAGATGAGCGAGCAAGCAGAGGTAGCCTGCTTTG-TTTCCTCCTGACAAATATT-CTTGCCTCCCCCCAGAAGAGGCCTTCAGCCAACCACTCAGCCTCCCAGAGCCTCTACTT 35361
+
+
+
+chrX:0-1000000       +      50369 ATTCATCTGTACAATG---AGGTTGAAACTAGACAAGTGTTTTCACACTCTGTTGGTGGAAGGTCCTGGGAGGTGCTTCAGGAGCCACCATTGAGG----GGATTTAGCAGGTGGGGATC-TGGACCTCCTTTTTCAATCATCACTCCTCTGTTTGCATCTGTTGTTTCTATAGGCA--------ATGATTTCATTTGAA 50552
+                                  ||||||||||||||||    ||||| |||||||  |  |||| ||| ||||||||   |||||| || ||||||||||| ||||||||||| |||      || |||||||||||||||| ||  ||  ||| ||||| | |   || |||  |  ||| |||| | |  ||||||          ||||||||||||||
+PseudochrX:0-1000000 +      35362 ATTCATCTGTACAATGGGGTGGTTGGAACTAGATGAAGGTTTCCACGCTCTGTTGCCAGAAGGTTCTAGGAGGTGCTTCGGGAGCCACCATGGAGACAGAAGACTTAGCAGGTGGGGATCCTGCCCCCTCTTGTTCAACCGTTGTTCATCTACTCTCATGTGTTCTCTTGATAGGCCTGTGCCATGTGATTTCATTTGAA 35561
+
+
+
+chrX:0-1000000       +      50553 AAGTAATTGATTTCGGTGCTAAGAAAATCATTAGAGACTGAGCATGGTGGTTCATGCCTGTAATCCCAACACTTTGGGAGGCCGAGGAGGATTGCTTGAGCCCAGGAGTTTGAGACCAGCCTGGGTAGCATACTGGGACCCTGTCTTTACTAAAAACAAAACAAAATTAGCTGGGCACGGTGGTGCCCAACTGTGGTCCC 50752
+                                  |||| |||||||| | ||||  ||||||   | ||                                                                                                                                                                     
+PseudochrX:0-1000000 +      35562 AAGTCATTGATTTTGCTGCT--GAAAATGTGTGGA--------------------------------------------------------------------------------------------------------------------------------------------------------------------- 35594
+
+
+
+chrX:0-1000000       +      50753 AGCTACTTGGGAGGCTGAGGTGGGAGGATTGCTTCAGCCTGGGAGGTCGAGGCTGCAGTGAGCCATGATTGCATCACTGTACTTCAGCCTGGGCAACAGAGGGAGAGCCTGTCTCAAAAACAAACAAACAAACAAACAAAGGAAAAAGCCCATACCTTGGACTAGATGAACTCTAAGGACTCTGTGTTAGTTTCCTG-GG 50951
+                                                                                                                                                                                         |  | ||||||||| |||||||| | | | | ||  | |||||||| ||
+PseudochrX:0-1000000 +      35595 -------------------------------------------------------------------------------------------------------------------------------------------------------AGCCATTGGACTAGTTGAACTCTGAAGGCCCCGTACTGGTTTCCTGTGG 35643
+
+
+
+chrX:0-1000000       +      50952 CTGCCATAACAAAGTACTACAAACTAGGGGGCTTTGAACAACAGGAATATTTAGCCTTTCACGGTTCTGGAGGCCGGAAGTCTAAAATCAGTATCTCTGGGTTGAAACCAAGGTGCTGGCAGGGCCCTGTTTCCTCTGGAAGCTCAAAGGGAGAATCCATTCCTTGTCTCTTCCAGCTTCTGGCAACTTCCTGCATTTCT 51151
+                                  |||||||||||||  || |  ||||  | ||||   || ||||                     || |   |  | |||||| ||||||||| ||||||   ||||| |||||||||                           | ||| |||||| ||||||| |||||  |||||  ||||  ||| |   | || ||
+PseudochrX:0-1000000 +      35644 CTGCCATAACAAATGACCAACAACTGCGTGGCTCAAAAAAACAA-------------------TTTATTCTGTTCAGAAGTCCAAAATCAGTGTCTCTGACCTGAAATCAAGGTGCT---------------------------CCAAGAGAGAATTCATTCCTGGTCTCGGCCAGCCCCTGGTGACTGCTGACGTTCCT 35797
+
+
+
+chrX:0-1000000       +      51152 TGGCTTAAGGATGCATCACTCTGATCTTTAAGACCAGCATCTTCAAATCTGTCTCTGCTCCAGCTTCACATCACCTTCTCATCTGTGCATCAAATCTTTCTCTGCCTCCCTC--ATAAGGATATACGTGGTTGCATGTAGGACCTACCCAGATAATCCAGAATAGTGTCCCCATCTCAAAATCCTAAACATGATCACATG 51349
+                                  ||| ||  || || |||||||  ||||| || ||| ||||||| |||   ||||||||||   ||||||||  ||||||  ||||||  || | || | | ||||||| |||  | ||||||| | |||| ||||| ||   || | ||||   ||  || ||| ||||||||  |  | || |||||| ||||||||| 
+PseudochrX:0-1000000 +      35798 TGGTTTGTGGCTGAATCACTCCAATCTTCAA-ACCTGCATCTTTAAA--CGTCTCTGCTCTGTCTTCACATTGCCTTCTTTTCTGTGGGTCTACTCCTCCCCTGCCTCTCTCTTAGAAGGATACATGTGGCTGCAT-TACAGCCCAGCCAGGCCATTGAGGATAATGTCCCCACGTGGATATTCTAAACTTGATCACATC 35993
+
+
+
+chrX:0-1000000       +      51350 TACATAAACCTCATTTTATTTATTTATTTATTTTTGCCATTTAAATTAACATTATTGTGGGTAATAAGAGAGAGAGGAAACAAAACAAGTAAGTTAACACTTACAGGTTTTGGTGATTAGAATGTGGATCTCTACTGGGGGACCAGTTTGTAGCCTACCACAGGCCCTTTCAAAAATCAGGTTCTAAGATCCCCTTTC-- 51547
+                                  | ||| | |     ||| ||| ||    ||| |                                                          ||||||||   | ||||| || ||||||| |||   |   ||||||||| | || | ||  |||||||||||||| ||| || |         ||||||||    ||  
+PseudochrX:0-1000000 +      35994 TGCATCAGCAAAGCTTTTTTTTTTATCCTATAT---------------------------------------------------------CAGTTAACATCCAGAGGTTCTGATGATTAGGATG---ACAGCTACTGGGGAATCATTCTGCTGCCTACCACAGGCCTTTTGAACA--------GTAAGATCCTACATCAC 36125
+
+
+
+chrX:0-1000000       +      51548 -CCCCAAATAATTCCTATCTCAGTAGCTTTCTATACATTCTTATGTCTTAAAGAACCTAAAAGAAGACCGGGTACGGTAGCTCACGCTTATAATCCCAGCACTTTGGGAGGTCAAGGTGGGTGGATCATGAGGTCAGGAGTTCAAGACCAGCCTGGCCAACATGGTGAAACCCCTGTCTCCACTAAAAACAAAAAAATTA 51746
+                                    |||    | |||| |||| |||| |||||| |||||||  |  |||||||||| |||                                                                                                                                             
+PseudochrX:0-1000000 +      36126 CTCCCTCTCAGTTCCCATCTTAGTAACTTTCTCTACATTCCCACATCTTAAAGAATCTA--------------------------------------------------------------------------------------------------------------------------------------------- 36184
+
+
+
+chrX:0-1000000       +      51747 GCTGGGCGTGGTGGCAGGTGCTGGTAATCCCAGGTACTCGGGAGGCTGAGGCAGAGAATTGCTCAAACCTGGGAGGCGGAGGTCGCAGTGAGCCGAGATCACACCACTGCACTCCAGCCTGGACAACAGAGTGAGACTCTGTCTAAAAACAAACAAACAAACAAAAAAACCAAAAAACAAACAAACAAACAAAAAACTAA 51946
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      36185 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 36184
+
+
+
+chrX:0-1000000       +      51947 AAAACAAAACCGAAAAGTACAGCATTACTTTTT-ATTTAACTCAGGAATAGGGAACCCAAACTTGACTCCTTCATCATGAAAGACTGTAGATTTGAGAGCTGTGCCTGAGCTGAGATGTTTTTATTTCTGCTAAAGTGTAGTGGAGGCTGGGCACAGCAGTTCATCCCTGTAATCCCAGCACTTTGGGTGACTGAGGCGA 52145
+                                                |||| |||||  ||||||| ||| |||||||||||||| ||||||| ||    ||||||||||||||||| |||||||||| |     ||  ||          |                    |||      | ||| ||| |  | ||||| |    |   |             |  |||  
+PseudochrX:0-1000000 +      36185 -------------GAAGTGCAGCAACACTTTTTCATTCAACTCAGGAATAGGAAACCCAA-CTCCCTTCCTTCATCATGAAAGAGTGTAGATTTGGGGCACCTGGATGGCTCAGTGGTTGA-----------------GAGTCTGCCTTTGGCTCAGGACATGATCCCGGGGTCCTGGGATTGAGTTCCCCATCGGGCT- 36352
+
+
+
+chrX:0-1000000       +      52146 ACAGATCACTTGAGGCCAGAAGTTTGAGACCAGCCTGGCCAACATGGCAAAAACCTGTCTCTACTAAAAATACAAAAGTTAGCCGGGCATGGTGGTACGCACCTGTAATCCCAGCTACTTGGGAAGCTGAGGCACGAGAATTGCTTGAACCTAGGTGGAGGTTGCAGTGAGCGGAGATCGCACCACCACACTCCACTCTG 52345
+                                        | | |||||       ||      | |||||     |   ||      ||||||||  | || | | |||    | |     | ||    |   |     ||    ||  |       |    | | | || |         |   ||   || |        ||    ||  || |||||  |||        
+PseudochrX:0-1000000 +      36353 -----CCCCATGAGGAGCCTGCTTCTCCCTCTGCCTGTGTCTC--TGCCTCTCTCTGTCTCTCATGAAGAAATAAATAAAATCTTAAGAAGGAAAGAAAAAAGAAGAAAGAAAGAAAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAGAAAGAAGGAAAGAGTAGATTTGAAAGCCCCACCTGACT-------- 36537
+
+
+
+chrX:0-1000000       +      52346 GGCAACAGAGCGAGACCCTGTCTCAACAACAACAACAACAACAAGTCTAGTGAAAATCATGAGTTGGTTTTCGTTTCGCTTTGGTTGGCTTTGCTGCCAGAAGATAGCGTGCACCATGCATAACCACAGGGCAATATAAAGAGAAACACCAAATGCTGGCCCCAGGGCACAAGTTAGGACCACAGGTTTTGGTACCTGCT 52545
+                                                      | | |                 ||||||| ||  ||    ||| |||||||      ||||||| | ||  |||| || |||||    | || ||||||| | |  | ||||||  | ||||| | |||||  |||||  ||| |||| |||||| ||||||||| |  ||| |||||  
+PseudochrX:0-1000000 +      36538 --------------------TGTGATGCTTGTTTCTCTATCAAAGTCTAATGGGAACTGAGAGGTGGTTTT------GCTTTGGGTAGCCCTGCTTCCGGAAGAAGCAGCGCGCCATGCACAGCTGCCGGGCAACGTGAAGAGTAGCACCA-GTGCTGCTCCCTGGGCCCAAGTTGGGACCACAG-TCCTGGGACCTGTG 36709
+
+
+
+chrX:0-1000000       +      52546 TCCCAGCTTAAGCTCTTTCCTTTTCCCTGTGACCTGGCAACATCCTGTCCACCCCCTGATAGTGGGGATGACATATGTGAGGACTCCCAGATCCTCAGAATTACCTCACAGGTACCTGTACCTTCTAGGATCTATTTGAAAAATGTTTTGTTGCATAGGT------TTTTTTCTCCC----TTTATACTGTATTTTTTCT 52735
+                                  |||  ||||| |||||| ||| | |||||||||| ||||    |||||   ||| |||| |   ||||  ||| |    |           ||     | |  ||||                   |||||||  |||||||||  |||||||||    |       | |||||| |     ||||| | ||| ||||||
+PseudochrX:0-1000000 +      36710 TCCTTGCTTAGGCTCTTCCCTCTGCCCTGTGACCAGGCA---GCCTGTGTGCCCTCTGACAACAGGGAGAACAGAGAACACCCGCAAAGCCTCGCAGTAGTATCCTC------------------CAGGATCTTCTTGAAAAAT-ATTTGTTGCAAGTTTCCCACCCTCTTTCTCACCCAACTTATATTTTATCTTTTCT 36887
+
+
+
+chrX:0-1000000       +      52736 GGTCATAAAAGTAATTCCTGATTCGTATCAAATAGTATAAAGAAGTAGAATTTTTTAAGATACTCTACCTCCAAAAAAAAAAAAAAAAAGAAAAGAAAGAAAAAAGAAATAGAATAAAAGATCACCTGTTGGGCCAGGCGCAGTGGCTCATGCCTGTAATCCCAGCACTTTGCAAGGCCGAGGCGGGTGGATCACGAGGT 52935
+                                  |||||||||||| ||| ||||   || |||||||||||                                                                ||||||||||||||||||| ||                                                                            
+PseudochrX:0-1000000 +      36888 GGTCATAAAAGTGATTTCTGACCAGTGTCAAATAGTAT----------------------------------------------------------------AAAGAAATAGAATAAAAGACCA---------------------------------------------------------------------------- 36947
+
+
+
+chrX:0-1000000       +      52936 CAGGAGTTTGAGACCAGCCTGGCCAACATAGTGAAACCCCGTCTCTACTAAAAATACAAAAAATTGGCTGGGCGTGGTGGCAGGTGCCTCTAGTCCCACCTACTCAGGAGGCTAAGGCAGAAGAATCGCTTGAACCTGGGAGGTGGAGGTTGCAGTGAGCCGAGATCGAGCACTCCAGCCTGGGCAACAGAGCGAGACTC 53135
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      36948 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 36947
+
+
+
+chrX:0-1000000       +      53136 CGTCTAAAAAAAAAAGATTGCCCGTTATTTCACCTTTCTAGGACAATCACATTTATTGAATGCTTCCATATGTGCCTGGACCTTGATACAGTGCACTCCATACTTT-TTCCCTACAATTGTCACAATAATCCTATGAAGTGGGTATTATCAGACCCATTTTATCAGTGAGGAAACTGAGATACAGAGAGGGTCAGCAACC 53334
+                                                      ||||| ||| || ||||| ||||||||||| |   |||||||||| || ||| ||||||||   |     |||  || |||||||| | | || ||||  |||| |  | ||| ||| |||||||||||||| | || |||| || ||||||||| |||  |  |||||  ||||||| |
+PseudochrX:0-1000000 +      36948 --------------------CCCGTAATTCCATCTTTCCAGGACAATCACTTGGGTTGAATGCTTTCA-ATGGGCCTGGACACAGGCTACGTGTGCTTCATACTTTATACTCTGCAATCCTCACGACTACCCTGTGAGGTGGGTATTATCAGGCTCACTTTACCAATGAGGAAACAGAGGCATGGAGAGATTCAGCAATC 37126
+
+
+
+chrX:0-1000000       +      53335 AGCCCAAGGGTGCTCAGCTAGGAACAGACAGAGTTGAGGCATAAACCCAGGTCTCTCTGACTCCAAAGCCTGTGTGTTTTTATTTATTTTTTATTTATTTTTGTTTTTTTGACAGGGTCTCTGCCCTGTTGCCCAGGCTGGAGTGCAATGGCGTAATCATGCCTCACTGCAGCTTTGACCTGTTGGGCTCAAATAATCCT 53534
+                                  ||||||| ||  ||||||||||||  |||||||||||| | | | |||| ||      ||||||||||||  |||                                                                                                                             
+PseudochrX:0-1000000 +      37127 AGCCCAAAGGCACTCAGCTAGGAAGGGACAGAGTTGAGACTTGAGCCCAAGTACT--CGACTCCAAAGCCCATGT----------------------------------------------------------------------------------------------------------------------------- 37199
+
+
+
+chrX:0-1000000       +      53535 CCCACCTCAGCCTCCTGAGTAGCTGGAACTACAGCTACAGCATGCACCACCACACCCAGCTAATTTTTTCATCTTTGGCAGAGGCAGGATCTCACTACGTTGCCCAGGCTGGGAGCCTGTGCTTTTGACCTCTGCACCCACCACATGCCCGCAGTACAATTTTGTATTCAAAGCTCTCAAGACAACATGACAGCAAGACT 53734
+                                                                                                                                                            | |||||||||||| ||||||||  ||  |||||||||||||| ||      | |||| ||||  ||||||||||| |
+PseudochrX:0-1000000 +      37200 --------------------------------------------------------------------------------------------------------------------------TCTTGACCTCTGCATCCACCACACTCCTTCAGTACAATTTTGTCTT------TGTCAAAACAATGTGACAGCAAGATT 37271
+
+
+
+chrX:0-1000000       +      53735 ATATGCCCACC----------------AGGACATACCCCCACCAGGATGTATCCTCACC----------------TGGACTCAGTTATATTCCAGCCTGCTCAAAGTCTCATTCTGCAAGGCTGTTGTACCATTCTGAGTTTCTGGAGGTGAAGTGCAGCTGGTGGGGTACTCATATGGATACAAATTGATCAAGAGGTT 53902
+                                    | |  ||||                |||||||| ||||||||||||| || ||  ||                 |||     ||| || |   |||||||||||||||||||||  |||||| ||||| |||| |  |||||| ||| ||||| |||  ||  |||| ||||  |                       
+PseudochrX:0-1000000 +      37272 GGACGTTCACCAGAACATAGCCCTGCTAGGACATATCCCCACCAGGATGCATTCTTGCCAGAGTGAACTCTTGCCAGGATCGCCTTACATCCTGTCCTGCTCAAAGTCTCATTCTGTGAGGCTGCTGTACAATTCAGGATTTCTG-AGGGGAAGTTCAGTGGGCAGGGTGCTCAGCT----------------------- 37447
+
+
+
+chrX:0-1000000       +      53903 TGGGAAGCCAGGTGCTGTGGTTCACACCCATAATCCCAGAACTTTGGGAGGTTGAGGTGGGAGGATCGCTTGAGCCTAGGAGTTGGAGACCAGCCTGGACAACAAAGTGAGACCCCATCTCTCCAAAACAAAACAAAAATAGAGGCTTGGGTAAAACAAGAT-CCGTCAGCAGGGCCTGAGAAGTCTGTCCCC---ACCC 54098
+                                                                                                                                                                                 ||| |||| ||| |||||| || ||| ||||||||||| | |||  | ||    |||
+PseudochrX:0-1000000 +      37448 ----------------------------------------------------------------------------------------------------------------------------------------------TGGCCTGGGGAAAGCAAGATGCCATCATCAGGGCCTGAGGAATCTCCCTCCGCATCCC 37505
+
+
+
+chrX:0-1000000       +      54099 TCGCCATTTGGAGGGAGGGGCAGAGTGGTATATTCCAAAGGCCAGTTCATACACTCAGATCAACCGGAATGGCACCAACTCTATGGAGTGGCTTTGCTGGGGTAGGGGACAGGTGAGATGGTGGGAGATCACTTACACTTCTCTCAGGCTTAAGTGAACTATCTCGCCATCTACATCCACTTTCTTTATTTCCTTTCCTA 54298
+                                     || | ||||||| ||  ||| ||||||||| |||| ||||  ||||  ||| |||  |||  ||||||   | | | ||| | ||||||||||| ||  || |||||||               ||||| |  |||| | | |                    |||||||||||||         |||||||  | |
+PseudochrX:0-1000000 +      37506 CAACCCTGTGGAGGG-GGCACAGTGTGGTATATGCCAAGGGCCCATTCACTCACCCAGGACAATGGGAATGATGCTACCACTAGGCAGTGGCTTTGCAGGAATAAGGGACAG---------------ATCACATCTACTTGTGTTA--------------------CCATCTACATCCA---------TTTCCTTGTCCA 37660
+
+
+
+chrX:0-1000000       +      54299 GAGAATGATGTGCCTCCTTTTCCCCTGATGCTGTATAAACATAGCTCACAACCAACACAGCTCACAACTAACACACCAGCATGCTTGCCAATCAAACGCTGTGTTGCTGTGCTGGCTCATTTCAATCTAAGGCAGGCATTGGCATCCAGGAGTTTGGAGTTTGCTCCAAAGT--------TTTCTAGTTTTCATTTTGGT 54490
+                                  |||||| ||||||||||| ||||  || ||| | | || |||  | |||  |||                                                                                                              ||||||||        |||| ||||  || ||||||
+PseudochrX:0-1000000 +      37661 GAGAATTATGTGCCTCCTGTTCCTTTGGTGCAGCACAAGCATGACCCACTTCCAT------------------------------------------------------------------------------------------------------------TTCCAAAGTATTGGAAGTTTCCAGTTCCCACTTTGGT 37752
+
+
+
+chrX:0-1000000       +      54491 GAAAGAGGCGGGCAGTGTGGTGCAGTGGACAGAGCCCTGGGC 54532
+                                  |  |||||| |||||||||||||||||| |||||| | ||||
+PseudochrX:0-1000000 +      37753 GGGAGAGGCAGGCAGTGTGGTGCAGTGGGCAGAGCTCAGGGC 37794
+
+
+
+##BLOCK
+chrX:0-1000000       +      54584 GTGACCTTGAGCCAGCTCCTGGCCCTC 54610
+                                  |||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      37830 GTGACCTTGAGCCAGCTCCTGGCCCTC 37856
+
+
+
+##GAP
+chrX:0-1000000       +      54621 AGTTCCCCATCTAGAAAAGGAAAAGTTTACATTAGATGCTAATGGTCCTTCCACTTGGAAAGTTGTATGATTCATAGAGTCTCAACACTCTGGCAAGTTAAGAGCTGATTTGAAAACCAACCATAAATATTTAAATTAAGTAGCAACATATGCTGAGCTTATCACATAATCAGGTGTCACATTAGTG---------GAGC 54811
+                                  ||||||||| |||||||||| ||| || |||| ||| |||||||| |||| ||| ||  ||||| |||||||  || ||| ||||||||  |||| | |||||| |||||||||||   | |||||||||||||||||  ||||||||||||||||||| |||||||||||| | | || || || |         ||||
+PseudochrX:0-1000000 +      37870 AGTTCCCCAACTAGAAAAGGCAAAATTCACATGAGACGCTAATGGCCCTTTCACCTGTGAAGTTCTATGATT--TACAGTGTCAACACT--GGCATGGTAAGAGGTGATTTGAAAATTCATCATAAATATTTAAATTAGCTAGCAACATATGCTGAGCTCATCACATAATCACGAGCCAGATGAGGGGTGGGGGGCGAGC 38065
+
+
+
+chrX:0-1000000       +      54812 AAGATCTAAAGGAGAGAGGGCAATGCCTGATTTGGTACTCACTTCCCTCCAGATCCCCCAATCAAGTGTTCCAGAAGCCGGATTTCTGTCGAATCCTTAGCTTATCATCATCATTAGCATCACCCAGTTCCTTTTTTTTTTTTTTTGAGATGGAGTCTCGCTCTGTCACCAGGCCAGAGTGCAGTGGTGCAATCTCGGCT 55011
+                                  |||||| |   |||||||||  | ||   || ||  |  | |||| ||| ||||||||| |||||| ||| ||||||| || |||||||   |||| | ||||||||||||||||| ||||| ||||                                                                         
+PseudochrX:0-1000000 +      38066 AAGATCGAGGAGAGAGAGGGTGACGCAGAATCTGACAGCCTCTTCTCTCTAGATCCCCCGATCAAGGGTTTCAGAAGCTGGTTTTCTGTGTGATCCCTGGCTTATCATCATCATTATCATCATCCAG------------------------------------------------------------------------- 38192
+
+
+
+chrX:0-1000000       +      55012 CCCTACAACCTCCACCTCCCGGGTTCAAGCAATTCTGGTGCCTCAGCCTCCTGAGTAGCTGGGACTACAGGCGCGTGCCACCACGCCTAGCTAATTTTTGTATTTTTAATAGAGATGGGGCTTCACCAAGTTGGCCAGGATGGTTTCGATCTCCTGACCTCGTGATCTGCCCACCTCGCCCTCCCAAAGTGCTGGAATTA 55211
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      38193 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 38192
+
+
+
+chrX:0-1000000       +      55212 CAGGCGTGAACCACCGCGCCCGGGCCAGCATCACCCAATTCTTAGGATTAAAGGCAGAAAGCTGGAGGGAGACACTTCCCAGAGGCCACCGCAGCAGTGGCAGCAGCAACAGCAAGGCCACTGTGGATCTTTCTTTCTCTCTCTTCACCCTTTTTTTCCCTCAGAGCTTTCAGGTTGCTGCACTTATTACCAAATGATGC 55411
+                                                                         |||||| || |||||||| |||| ||  || |||| ||||||||||||||||||||||  |||||||||  ||||    ||  |                                         |||||  |||| ||||||||||||||||||  ||||
+PseudochrX:0-1000000 +      38193 --------------------------------------CTCTTAG-ATGAAAGGCAGGAAGCCGGCAGGGGACATTTCCCAGAGGCCACCGCAGCAGCAGCAGCAGCAGTAGCAGCAGCAGCGGCAG------------------------------------CAGCTTCTAGGTCGCTGCACTTATTACCAAACAATGC 38317
+
+
+
+chrX:0-1000000       +      55412 TGCCCTTCATCCCTGAACACCGGCAAGCTAATTTAATTCTGTTCCAATTTTACTGGGAGCTC----CTAGTAAGGAACAAACCC--TGCAGGGCAATGGGTGGTCTAGAGAGCTCTGGGAGGTGGTTCCCACCCTGGGGGTGCACCAGGTGTGGTGGAAGAGCCCGGCAGGTACCAAACCACCTGGAACGCCCAGCCCAC 55605
+                                  ||  | || |  || | |||| |||||| | || |||||  ||| ||||| |||   || ||    ||   |   | |||||||  |||||||||  |||   ||||||||||| ||||||| |||||  ||| ||           ||| ||||||||||||| |||||||||  ||||| ||||||| | |       
+PseudochrX:0-1000000 +      38318 TGGTCCTCGTTTCTCAGCACCCGCAAGCCACTTCAATTCCATTCAAATTTGACTCCCAGTTCTGATCTGAGACCAACCAAACCCTTTGCAGGGCAGCGGGCCTTCTAGAGAGCTATGGGAGGCGGTTCTGACCTTG----------CGGTCTGGTGGAAGAGCCAGGCAGGTACAGAACCAACTGGAACACTCC------ 38501
+
+
+
+chrX:0-1000000       +      55606 CCTCAGCTCTGGGCTCTTGCAGAGCTGCCAATCAAGCGCTGTGTTGCTGAGCTGGCTCATTTCAATCTAAGGCAGGCATTGGCATCAAGGAGGCCTCAGGAGGAAGGTGCTGATTGAGATTGAAGAGTAAGCAGAATCTCCATAGAGATAAAGGAGAAAGGGCATTCTGGTCCTCAGGAATAGTGTGAGCAAAGTGCTTG 55805
+                                                                                                                                                                                                  |||||||||   || ||||| ||||||| ||   ||    
+PseudochrX:0-1000000 +      38502 ---------------------------------------------------------------------------------------------------------------------------------------------------------------AGGCATTCTGACTCTTAGGAAAAGTGTGACCATGCTGAAGT 38542
+
+
+
+chrX:0-1000000       +      55806 GAGACAGAGAAGTGCTGAGAGGGATCATGAAATGTGTGTGCAGTTGGTGGGTGGGGGAGGTTGGTGGCAGGAACCTGGCTGGAACTGAATCTTGGAGGTTTTTTTTTTTTTTTTTTTTCTGAGACAATGTCTCACTCTACTCTGTTGCCCTGGCTGGAGTGCAGTGGTGCAATTATAGCTCACTGCAGCCTTAATCTTCC 56005
+                                  |   || || |   |   | | ||      | |     ||      | |||||||||  | || ||||||||||||| |||||  |  ||||                                                                                                            
+PseudochrX:0-1000000 +      38543 GGATCACAGGATCCCCATGTGTGA-----CACTTGCGCTGGGCACTGGGGGTGGGGGCTGCTGATGGCAGGAACCTGACTGGAGGTAGATCT------------------------------------------------------------------------------------------------------------ 38629
+
+
+
+chrX:0-1000000       +      56006 AGGCTCAAGTGATCCTCCTGCCTCAGCCTCCAAGGAGCCAGGACTATAAGCACGTACCACCGCACTTAGCTAATTATTTTATTTTTTGTGGAGATGGGGTTTTGCCATGTTGCCCAGGCTGGCCTTGAACTCCTGGGCTCAAGCAATCATCTCACCTTAGCCTCCTAATGCTGGGATTACAGGCATGAGCCACTGTGCCC 56205
+                                                                                                                                                                                                                                          
+PseudochrX:0-1000000 +      38630 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 38629
+
+
+
+chrX:0-1000000       +      56206 TGCCTTGAAGGGTCTTTCTGTGG---CTTTCTCTCAAGGTAATGAAGAGTCATGAAGGGTTTTATTTTATTTTTTGAGATGGAGTTTCACTCTTGTTGCCCATGCTGGAGTGCAATGGTGTGATCTCAGCTCACTGCAACCTCTGCCTCCTGGGTTCAAGTGATTCTCTTGCCTCAGCCTCCCAAGTAGCTGAGACTACA 56402
+                                        ||||||||||||||||     ||||||| ||||| |||   ||||||||| ||    ||||||         ||||||                                                                                                                    
+PseudochrX:0-1000000 +      38630 -----GGAAGGGTCTTTCTGTGTTTTTTTTCTCTGAAGGTTATG--CAGTCATGAAAGG----ATTTTA--------AATGGAGCAGT---------------------------------------------------------------------------------------------------------------- 38698
+
+
+
+chrX:0-1000000       +      56403 AGCGCCGGCCACCACACCTGGCTAATTTTTGTATTTTTAGTAGAGACAGGGTTTCACCATGTTGGCCAGGCTGGTCTCGAACTCCTGACCTCAGGTGATCCACCCGCCTCAGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGTCACTGTGCCGGGCCAGAATTTTAAACAAGACAGAAAAATGTGTATTTATAAAAATT 56602
+                                                                                                                                                                                                          ||||||  |  ||||||  |||||||||    
+PseudochrX:0-1000000 +      38699 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------GACAAGATGG--AAATGTACATTTATAAA---- 38725
+
+
+
+chrX:0-1000000       +      56603 CAGCCAGGTGTGAAGGCTCATCTCTGTAATCTCAGCGCTTTGGGAGGCCAAGGTGGGTGGATTGCTTGAAGCCAGGCGATTTGAGGCCAAACTGAGCAGCAAAGGGATACCCTGTTACTACAAAAAAATTAAAAATAATAAAAATGTTTAAAAAGTAAAAAGTTCCCTCCAGATGATAGGAGACGGCTGAGCAGGGAGAC 56802
+                                                                               ||       |||| | | || |||||     |    |  |    | |    || | | |||| ||                        ||  |      ||   |  |||    ||   | ||||||||                         
+PseudochrX:0-1000000 +      38726 ---------------------------------------------GGATTCCTCGGGTCGCTGGCCTGAAGGGGCACATGGTATGAGAGAGCCATCCATCCAGGGGAGACGG---------------------GATCGTGGCTCAGTAGCACTAGTGGGGAGAGGCGTCCAGATG------------------------- 38834
+
+
+
+chrX:0-1000000       +      56803 GAGTTAAGGGAGAGACAGATAGACGATCTCTGCTTGGTAGTGAGAGGTGGGGAGGAGCAGCTGGATTCGGACATGTTTAGGATTTGCTGGTAGCCTGGATACGGGAAGTGAGGGCGAGGGAAGAGCCAGGCGGGACGCTGGGGGGATGGTGGTGCCATTCTCTAAGCACGGATATGGGGGCCGGGGCCGAGGTTGGGGAA 57002
+                                           |  ||| |  |||  |||||             |  ||||||                              || ||  |  |||  ||||  || |  |||||| ||| |  |||||||| |||| ||||||| | || |||||||| |||             || |||  ||||||||||||||||| 
+PseudochrX:0-1000000 +      38835 --------TGGAAGATATTTAGGAGATCT------------AACTGGTGGG------------------------------ATCTGAGGACAGCAGGGATGTGGAAGATGAGGGAGAGAGGGGAGCCAGGGGGGATGCTGGGGAGCTGATGGTGCCACTCT-------------TGAGGGATGGGGCCGAGGTTGGGGAG 38971
+
+
+
+chrX:0-1000000       +      57003 TTTAGTTTGGGACACACTGAGGTGAGGTAGTGGCAGGTCACGTAATTGATGACTTCAGCAATTGCCCTCAGGCCCTTTCACCTTTGCTGCCCTTTTCT--CTGGCTGTCTGCAGGCAGAAGAGTCCTGAATGGTCACTGACACCGGACTGTACAGAACGGGAAACAGATGCCCTCTGTGCATCTAACCCTCTCCTTGTTT 57200
+                                   || ||||||  ||          ||||  |||    ||||  |  |||||| |||||||| ||||   ||||||||| ||| |||| |||||| |||   |||||||  |||||||||||| || ||  |||||| ||||               |||||||  |    ||| | |  ||         | || |||||
+PseudochrX:0-1000000 +      38972 CTTGGTTTGGTGCA----------AGGTCCTGGATAATCACTCATCTGATGATTTCAGCAACTGCCAATAGGCCCTTTGACCCTTGCCGCCCTTCTCTGTATGGCTGTAGGCAGGCAGAAGAATCTTGGGTGGTCATTGAC---------------ACGGGAACTACCCCCCCCCCGGACA---------CCCCCTGTTT 39137
+
+
+
+chrX:0-1000000       +      57201 GTTTGCTCACTGAAAACAACCAGGCAGTAAAGCCTGTTACAAAGACTGAGAGGGGAGGATCACTGGAACTCAGGAGCTCGAGGCTGCTGTGAGCTATGATTGCACCACTGCACTCCTGCCTGAGCAAAAGAGTGAGATCCTGTCTCAAAAGAATAAAAATAAAAAGACAGAGAGGCAGAGTTCCAGTTTTCTCACAGATG 57400
+                                  |||||| |||||| |||| ||||||||| |||||| | ||| | |||| || |||||||                                                                                                          ||| |        ||| ||| |  | || | ||||
+PseudochrX:0-1000000 +      39138 GTTTGCCCACTGATAACAGCCAGGCAGTGAAGCCTCTGACAGACACTGGGA-GGGAGGA----------------------------------------------------------------------------------------------------------GACGGTTGATTTCAGTCCCAATCCTATCTCTGATG 39230
+
+
+
+chrX:0-1000000       +      57401 GCCTGGTATACTTGGACAAAACAGTTGCCTCCTCTGGGTTGCAGTTTTTCCAAAATATGCCAAAACATCCCACGTGATCATTAGGGGGTGCAAGTCAGACAGCAGATACGCAAGCACCA 57519
+                                  |||||||   ||  | | ||||| |||| |  | |||| | |  | ||||||||||||||| |||| || | |  || | ||  ||||  || || |||  | ||||| |||| |||||
+PseudochrX:0-1000000 +      39231 GCCTGGTGCCCTCAGGCCAAACATTTGCTTTTTGTGGGCTTCGATCTTTCCAAAATATGCCCAAACCTCTCCCAGGACCTTTGTGGGGCACAGGTTAGATGGTAGATATGCAATCACCA 39349
+
+
+
+##BLOCK
+chrX:0-1000000       +      57523 AAACTGTTAAGGAACAAAATGCAA 57546
+                                  ||||||||||||||||||||||||
+PseudochrX:0-1000000 +      39360 AAACTGTTAAGGAACAAAATGCAA 39383
+
+
+
+##BLOCK
+chrX:0-1000000       +      75036 GCGCCGGCCGCGCGCGGATCAGCCATTTTAGCGAG 75070
+                                  |||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      49101 GCGCCGGCCGCGCGCGGATCAGCCATTTTAGCGAG 49135
+
+
+
+##GAP
+chrX:0-1000000       +      75072 GGGACTCCGAGGCGCGGCGGACGCCGCCACCAGTGCCGCGGCTGCCGCCGGCCCGGCCGCACACCCCCCGCGC 75144
+                                  ||| ||| ||||| |||||| |||||||  |   ||||| || ||||||||||||||    | ||| | ||||
+PseudochrX:0-1000000 +      49137 GGGGCTCGGAGGCACGGCGGGCGCCGCCGTC---GCCGCCGCCGCCGCCGGCCCGGCTCTGCGCCCTCGGCGC 49206
+
+
+
+##BLOCK
+chrX:0-1000000       +      75152 CCGCCGCCGCCCCCGGCCCCGCGCG 75176
+                                  |||||||||||||||||||||||||
+PseudochrX:0-1000000 +      49214 CCGCCGCCGCCCCCGGCCCCGCGCG 49238
+
+
+
+##GAP
+chrX:0-1000000       +      75178 CCCCCGGGGATGACAGCGGCGGATTTCAGGGGCACTTTCTTTCATCAGGA 75227
+                                  ||||||||| || |||||| |||||||||||||| |||||||||||||||
+PseudochrX:0-1000000 +      49240 CCCCCGGGGGTGGCAGCGGGGGATTTCAGGGGCAGTTTCTTTCATCAGGA 49289
+
+
+
+##BLOCK
+chrX:0-1000000       +      75229 GCTTTTGACAAAATGGAAGGTGAATTA 75255
+                                  |||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      49291 GCTTTTGACAAAATGGAAGGTGAATTA 49317
+
+
+
+##GAP
+chrX:0-1000000       +      75257 GGGTGTCCCGGTGACCCGGCACGGGGGCCGAGGCGGGCTGCCTGCTGCCGGCCGGGACTCCCCCGCTCCCGGTCCCGCCCCGCCCGGGCCGCCGCTGCGGGTCTCTGTTGGGCAGCCTCCTGGGCGGCTGCTGCCAAGGGGAGC 75400
+                                  |||||||| |||||||| || | ||||||||| | ||||||| || ||||||| || |||||| || ||| |  ||||||| |||| || ||| ||||||| | |    | |   |||||  | |||   |||| | |||||||
+PseudochrX:0-1000000 +      49319 GGGTGTCCGGGTGACCCAGCGC-GGGGCCGAGCCCGGCTGCCCGCCGCCGGCCCGGGCTCCCCTGCGCCCCGGGCCGCCCCACCCGCGCGGCCACTGCGGGCCCCGAACGCGGCCCCTCC--GCCGGTCCCTGCGAGGGGGAGC 49459
+
+
+
+##BLOCK
+chrX:0-1000000       +      75405 TAGTTTTACATGATGACCTTGGGTGTGGGAAAAGGAAAAGATGGCGGGAAGCTGGGGGGTGGGACAGGGACGATGACATGCCGCAGCTGCATTTTTATTTGGAAACTTTGGAGAAAGT 75522
+                                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      49464 TAGTTTTACATGATGACCTTGGGTGTGGGAAAAGGAAAAGATGGCGGGAAGCTGGGGGGTGGGACAGGGACGATGACACGCCACAGCTGCATTTTTATTTGGAAACTTTGGAGAAAGT 49581
+
+
+
+##GAP
+chrX:0-1000000       +      75524 TTCTCGGCTGGACCTGCATTCTGGGTTACAGATGAGCACGACTAGCCCTTTTTATACACCCTCCCCCTTTAGATAGTGACGAAGTGA-TGAATTGAACTAATAGTACGGGGGTACCTGCTCACTTTCCAGATCTCCCGTGTTGTAAAGCCGTTTTTTTAGTAAGCCAAAACACATCAACAATAGTGACAATTTCAGATGT 75722
+                                  |||  |||||||| ||| ||| |    || |||||||  | |||||||||||   |  |||||||||||  |||| |||| ||||||  || |||||||  ||  ||||||| | |||||||||  ||  ||| ||  | ||| |||  |  ||| |  |  ||||||||  |||||  | |     ||||| || ||||
+PseudochrX:0-1000000 +      49583 TTCCTGGCTGGACATGCGTTCCGCTGCACGGATGAGCTGGGCTAGCCCTTTTGGCATCCCCTCCCCCTTCGGATAATGACAAAGTGACAGATTTGAACTCCTACGACGGGGGGAGCTGCTCACTGGCCGCATCACCTTTCTTGCAAAAGCCATTTCTAGG--AGCCAAAAGGCATCAGTAGT----GCAATTGCAAATGT 49776
+
+
+
+chrX:0-1000000       +      75723 CCCCTACGTATAGTTCTCCTGCTTTGGTCTTGTGTTCAGCAGTGGTAAGAGTTGTTGTTTTTAAT---TGTGTTAACAGTTAGCAGATGACCAGATAGTCTTAAGTCATAGATTTCAAGCTTCTATCA---------CCCCCACCAAATGTGTCCTCTCTCTACCCTTCCCACTTTGTGATTGTAGTTTCCAAAACATAG 75910
+                                   |||    ||   |||||| |||||| ||| | |   |||   |    |         ||||  |   |    |  |||| |     |   ||| | | |||||||| | | | ||  |||||| |||          ||||  || ||| |||||| |    |||| |||||| || | |||||||||||||||| |||
+PseudochrX:0-1000000 +      49777 TCCCCCTTTACGCTTCTCCAGCTTTGATCTGGCGCCTAGCGTAGCAGCGGTGACAGTATTTTTGTCTGTACCGTTGCAGTCAAACAGTTGACAGCTCGCCTTAAGTCGTGGGTCTCGGGCTTCTGTCATCCGCCTGCACCCCTACACATGCGTCCTCCCGGCGCCCTCCCCACTCTGCGGTTGTAGTTTCCAAAACGTAG 49976
+
+
+
+chrX:0-1000000       +      75911 CAGTTCTGTAAACGTAACACTGAG-----TACCCTACTTGGGTCGGCTCCATTTGGAGCACTTGATCGCT 75975
+                                   || || | |   | |              |||| ||||||||||| ||||||||||| |||||||||||
+PseudochrX:0-1000000 +      49977 TAGCTCCGAATGGGAATGTACCGCGGAGCCACCCCACTTGGGTCGGTTCCATTTGGAGAACTTGATCGCT 50046
+
+
+
+##BLOCK
+chrX:0-1000000       +      75979 GAGAAGTAACTCGCAAACCAGCGCGCTTCGTGCTGGTCAAAAGTTAAATGACAAGCGACA 76038
+                                  ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      50059 GAGAAGTAACTCGCAAACCAGCGCGCTTCATGCTGGTCAAAAGTTAAATGACAAGCGACA 50118
+
+
+
+##GAP
+chrX:0-1000000       +      76040 TGAAGCTGATTTCTTTCCTACTCTGCCTT---CTGCCACTGGTGTCCGGCATTGGGGGAAGGGGACT---TCCTAACAGCAAGTGTAGTTTTAGTTTTGCTCTGCCTTTGGTACGTCTTGTACTTCTTGTCAATTCCTCCTTGCTTTTCCTCATTGTATTTCTTTGTTTCTCTT 76207
+                                  ||| ||||||||| | |  ||||||||||   |||||    |    |||     ||||| |||||||    ||||||||  |   || ||  | |||||| |||||  || |    | |||   |||  |  | ||    |            |||| ||||||||| || |||
+PseudochrX:0-1000000 +      50120 TGACGCTGATTTCGTCCTCACTCTGCCTTGAGCTGCCGGCTGGCATCGGGCACTGGGGAGGGGGACTGCTGCCTAACAGGGACCTTAATTGGAATTTTGC-CTGCCCCTGCTGTACCCTGTGGGTCTGTTGTAGTCACTGTA----------TTTGTTTTTCTTTGTCTCCCTT 50282
+
+
+
+##BLOCK
+chrX:0-1000000       +      76210 ATCACAGTCAGGATGGCTAAAGGTGACCCCAAGAAACCAAAGGGCAAGATGTC 76262
+                                  |||||||||||||||||||||||||| ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      50292 ATCACAGTCAGGATGGCTAAAGGTGATCCCAAGAAACCAAAGGGCAAGATGTC 50344
+
+
+
+##GAP
+chrX:0-1000000       +      76264 GCTTATGCCTTCTTTGTGCAGACATGCAGAGAAGAACATAAGAAGAAAAACCCAGAGGTCCCTGTCAATTTTGC 76337
+                                  ||||||||||||||||||||||| |||||||| |||||||||||||||||||| ||||| ||||||||||||||
+PseudochrX:0-1000000 +      50346 GCTTATGCCTTCTTTGTGCAGACGTGCAGAGAGGAACATAAGAAGAAAAACCCGGAGGTTCCTGTCAATTTTGC 50419
+
+
+
+##BLOCK
+chrX:0-1000000       +      76342 TTTTCCAAGAAGTGCTCTGAGAGGTGGAAGGTA 76374
+                                  |||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      50424 TTTTCCAAGAAGTGCTCTGAGAGGTGGAAGGTA 50456
+
+
+
+##GAP
+chrX:0-1000000       +      76393 CAAACTAGTCTTAGTTGGGTTTCTTACTTTGGGGTTACTTACCTTCAGATTTTCTCCCAGATAGCTGCTTGCTTCCTCTTTTACTTTTACTTAGAATCATTTTTGCTTGTCTTAAGAATTTTGTGTGTGTGCTTTTATTTTTTTAAGGCCCTGCACAGGTTTCAGGCCTTTACCTACCCCCTTTTGCAAGTGGTTCTAGC 76592
+                                  ||| |||| ||||||||| ||||  ||  |||||||| | ||||||  | |  | ||||| | |||   |||||||||||   ||| |  |      | ||                   | |||||||||||||||||||||| | ||    ||  ||||| |||||                                
+PseudochrX:0-1000000 +      50474 CAAGCTAGGCTTAGTTGGATTTCACAC-ATGGGGTTAGTCACCTTCCCAGTAGC-CCCAGGTGGCTTTCTGCTTCCTCTTGGGCTTCTCTTGGCTCCCTTTCCA---------------ATCGTGTGTGTGCTTTTATTTTTTTTAAGCTGGACAAGGGTTTGAGGCC-------------------------------- 50624
+
+
+
+chrX:0-1000000       +      76593 AACTGCTAGTTTAATCACAAGAAACTGAATAGGTATGTGTTCACTGCATCGAGGGATTTAACGAGTCCTGTTCTTTGCAGACGATGTCCGGGAAAGAGAAATCTAAATTTGATGAAATGGC 76713
+                                                                       ||  ||||||| |||||||||||||   ||||||||||||||||| ||||| || |||||||| || |||||||||||||||||
+PseudochrX:0-1000000 +      50625 ------------------------------------CTGCCCACTGCACCGAGGGATTTAACAGCTCCTGTTCTTTGCAGACAATGTCTGGAAAAGAGAAGTCGAAATTTGATGAAATGGC 50709
+
+
+
+##BLOCK
+chrX:0-1000000       +      76715 AAGGCAGATAAAGTGCGCTATGATCGGGAAATGAAGGATTATGGACCAGCTAAGGGAGGCAAGAAGAAGAAGGA 76788
+                                  ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      50711 AAGGCAGATAAAGTGCGCTATGATCGGGAAATGAAGGATTATGGACCCGCTAAGGGAGGCAAGAAGAAGAAGGA 50784
+
+
+
+##GAP
+chrX:0-1000000       +      77578 CTTATATATTTTAGAACCTACAACTTTGTAGCATTGTATATGGTATCATAGATTACTTCACTTTAGGGAGAAGTC-ATAGTGGTAGGAGGGAGATGCTTCTCAGGAATGTGGGATTTCAACTTTAACTCAAATTTTTTGTGG----TTTCTCATGTAATGTATGTAATTCTTCCAAGGTCTGGATTCTTCCTGTTCTGTT 77772
+                                  ||||   ||| || |||||||||||||||  ||  || ||  ||  ||    ||  ||||||| |||||| ||||  ||||||| |||   || |     | ||  |   ||||| |   ||| | |||| ||||||  |||    | ||||||  |    | |   ||| |  |||||||||||| ||||||||||| |
+PseudochrX:0-1000000 +      51122 CTTAGGCATTCTAAAACCTACAACTTTGTCACAGCGTGTAGTGTCACACCTTTTTTTTCACTTCAGGGAGGAGTCTGTAGTGGTGGGA---AGGTATCCGTGAGAGACTGGGGATCTGGGCTTAAGCTCACATTTTTGCTGGCTCTTGTCTCATTCATACAACGGTTTTCCT-GAAGGTCTGGATTTTTCCTGTTCTGCT 51317
+
+
+
+chrX:0-1000000       +      77773 CAGAATTCCGCCCCAAGATCAAATCCACAAACCCCGGCATCTCTATTGGAGACGTGGCAAAAAAGCTGGGTGAGATGTGGAATAATTTAAATGACAGTGAAAAGCAGCCTTACATCACTAAGGC 77896
+                                  | ||||||||||||||||||||||| |||||||| || ||||| |||||||| ||||| || ||||| ||||||||||||||||| |||| |||||| || ||||||||||||| ||  |||||
+PseudochrX:0-1000000 +      51318 CGGAATTCCGCCCCAAGATCAAATCGACAAACCCTGGAATCTCCATTGGAGATGTGGCGAAGAAGCTCGGTGAGATGTGGAATAACTTAAGTGACAGCGAGAAGCAGCCTTACAACAACAAGGC 51441
+
+
+
+##BLOCK
+chrX:0-1000000       +      77901 AAGCTGAAGGAGAAGTATGAGAAGGT 77926
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      51446 AAGCTGAAGGAGAAGTATGAGAAGGT 51471
+
+
+
+##GAP
+chrX:0-1000000       +      77988 GGGCATGTGGCAGCTTTGCTGGGCTGAGTACTTAGCATAGCGCTCAAGGGCCCATCCCCCTGCAAGGTAGCTACGGGTGCTGGTGTTCATGCTTTTTTTTGACAGGTCTTTGTTTTGGGGACAACTTCAGGCTTGAAAAATTTTCCTTACTCTTTAAGGAAAAAAAAATGTTAACAGAGGATTTGATAGTCCTACTAATG 78187
+                                  |||| |  ||| |||||||||||||||    | |||  || |                             |||| | ||||| ||||| |  |      ||  | ||||||      |||| ||| ||| |  |              ||||||||    ||||    | ||||   ||||   || | |     | ||
+PseudochrX:0-1000000 +      51543 GGGCGTCCGGCTGCTTTGCTGGGCTGACAGGTGAGCCCAGTG-----------------------------TACGAGGGCTGGCGTTCAAGAAT-----AGAATGTTCTTTG------GGACCACTGCAGACAGG--------------CTCTTTAA----AAAAGTTGGATAACGTGGGATGCCATGGGCAGGGAATTG 51684
+
+
+
+chrX:0-1000000       +      78188 TGACTTGAAGGACACTTGAACACCCACTAACTTTTAAATTCGAATGGCTAAGAACCAAATTCATATATGGAAACACTTCAGATATATATGATAGCAGCACTGTCTTACTTGATTTCAATTCCTGTCCTCTTACCTGAGATGAGGACTGCATGTTTCTACTTTGTGTTAAAACAGCCGCA-----------------TACT 78370
+                                          ||  |  || |||| ||   ||||| ||||||||| ||||  | ||||| |||   || |           || ||  |   | |||||| |||  |      | |      | |||   |    ||||| || |||| ||||||||||    |  | ||||||||| |||                  | |
+PseudochrX:0-1000000 +      51685 GA-----GAGTCCCATTAAACAGCCGTAAACTTGTAAATTCGAGTGGCCGACAACCACATTTCCATGTATCTGGGAA-GAGGTACCTCAAAGAGCAGCCCTGAGT------AGTAAGTCACTTGTGTCCCATTCTGAGGTGGGGACAGCATGTTTCTGTCCTTGGCTAAAACAGCTGCAGGAGAGCCTTAGCCATCGATT 51872
+
+
+
+chrX:0-1000000       +      78371 CATTTGAAATGTGTCCCT--GTTCCTCTAGGATGTTGCTGACTATAAGTCGAAAGGAAAGTTTGATGGTGCAAAGGGTCC 78448
+                                  |||||| ||||||||||    | | || ||||||| |||||||||||||| ||||| ||||||||||| |||||||||||
+PseudochrX:0-1000000 +      51873 CATTTGGAATGTGTCCCCCATTCCTTCCAGGATGTCGCTGACTATAAGTCTAAAGGGAAGTTTGATGGCGCAAAGGGTCC 51952
+
+
+
+##BLOCK
+chrX:0-1000000       +      78450 GCTAAAGTTGCCCGGAAAAAGGTGGAAGA 78478
+                                  |||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      51954 GCTAAAGTTGCCCGGAAAAAGGTGGAAGA 51982
+
+
+
+##GAP
+chrX:0-1000000       +      78480 GAAGATGAAGAAGA 78493
+                                  ||||||||||||||
+PseudochrX:0-1000000 +      51984 GAAGATGAAGAAGA 51997
+
+
+
+##BLOCK
+chrX:0-1000000       +      78498 GAGGAAGAAGAGGAGGAGGAGGAGGAGGAGGA---TGAATAAA 78537
+                                  ||||||||||||||||||||||||||||||||   ||||||||
+PseudochrX:0-1000000 +      52002 GAGGAAGAAGAGGAGGAGGAGGAGGAGGAGGAGGATGAATAAA 52044
+
+
+
+##GAP
+chrX:0-1000000       +      78539 AAACTGTTTATCTGTCTCCTTGTGAATAC-TTAGAGTAGGGGAGCGCCGTAATTGACACATCTCTTATTTGAGAAGTGTCTGTTGCCCTCATTAGGTTTAATTACAAAATTTGATCACGATCATATTGTAGTCTCTCAAAGTGCTCTAGAAAT 78690
+                                  |||||||| |||||||||||||||||||| ||||||||||| |||||||| |||||||| ||||||||| |||  ||||||||||||||| ||||||||||||||| |||| | ||| | |||||||||||| ||||||||||||||||||||
+PseudochrX:0-1000000 +      52046 AAACTGTTGATCTGTCTCCTTGTGAATACCTTAGAGTAGGG-AGCGCCGTCATTGACACCTCTCTTATTCGAGGCGTGTCTGTTGCCCTCGTTAGGTTTAATTACACAATTGGGTCATGGTCATATTGTAGTTTCTCAAAGTGCTCTAGAAAT 52197
+
+
+
+##BLOCK
+chrX:0-1000000       +      78692 GTCAGTGGTTTACATGAAGTGGCCATGGGTGTCTGGAGCACCCTGAAACTGTATCAAAGTTGTACATATTTCCAAA 78767
+                                  ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52199 GTCAGTGGTTTACATGAAGTGGCCATGGGTGTCCGGAGCACCCTGAAACTGTATCAAAGTTGTACATATTTCCAAA 52274
+
+
+
+##GAP
+chrX:0-1000000       +      78768 CATTTTT-AAAATGAAAAGG 78786
+                                  ||||||| ||||||||||||
+PseudochrX:0-1000000 +      52276 CATTTTTAAAAATGAAAAGG 52295
+
+
+
+##BLOCK
+chrX:0-1000000       +      78789 CTCTCGTGTTCTCCTCACTCTGTGCACTTTGCTGTTGGTGTGACAAGGCATTTAAAGATGTTTCTGGCATTTT 78861
+                                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52296 CTCTCGTGTTCTCCTCACTCTGTGCACTTTGCTGTTGGTGTGACAAGGCATTTAAAGATGTTTCTGGCATTTT 52368
+
+
+
+##GAP
+chrX:0-1000000       +      78863 TTTTTATTTGTAAGGTGGTGGTAA 78886
+                                  |||| ||||||||||||||| |||
+PseudochrX:0-1000000 +      52382 TTTTAATTTGTAAGGTGGTGTTAA 52405
+
+
+
+##BLOCK
+chrX:0-1000000       +      78888 TATGGTTATTGGCTAGAAATCCTGAGTT 78915
+                                  ||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52410 TATGGTTATTGGCTAGAAATCCTGAGTT 52437
+
+
+
+##GAP
+chrX:0-1000000       +      78917 TCAACTGTATATATCTATAGTTTGTAAAA------------------------------AGAACAAAACAACCGAGACAAACCCTTGATGCTCCTTGCT 78985
+                                  ||||||||| |||||||||||||||||||                              ||||||||||||||||||||||| ||||||||||||||||
+PseudochrX:0-1000000 +      52439 TCAACTGTACATATCTATAGTTTGTAAAAAAAAAAAAAAAAAAAGAGAGAGAGAGAGAGAGAACAAAACAACCGAGACAAACTCTTGATGCTCCTTGCT 52537
+
+
+
+##BLOCK
+chrX:0-1000000       +      78987 GGCGTTGAGGCTGTGGGGAAGATGCCTTT 79015
+                                  |||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52539 GGCGTTGAGGCTGTGGGGAAGATGCCTTT 52567
+
+
+
+##GAP
+chrX:0-1000000       +      79017 GGGAG 79021
+                                  |||||
+PseudochrX:0-1000000 +      52568 GGGAG 52572
+
+
+
+##BLOCK
+chrX:0-1000000       +      79023 GGCTGTAGCTCAGGGCGTGCACTGTGAGGCTGGACCTGT 79061
+                                  |||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52574 GGCTGTAGCTCAGGGCGTGCACTGTGAGGCTGGACCTGT 52612
+
+
+
+##GAP
+chrX:0-1000000       +      79063 GACTCTGCAG 79072
+                                  ||| ||||||
+PseudochrX:0-1000000 +      52614 GACACTGCAG 52623
+
+
+
+##BLOCK
+chrX:0-1000000       +      79074 GGGCATCCATTTAGCTTCAGGTTGTCTTGTTTCTGTATATAGTGAC 79119
+                                  ||||||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52625 GGGCATCCATTTAGCTTCAGGTTGTCTTGTTTCTGTATATAGTGAC 52670
+
+
+
+##GAP
+chrX:0-1000000       +      79121 TAGCATTCTGCTGCCAT-CTTAGCTGTGGACAAAGGGGGGTCAGCTGGCATGAGAA-------TATTTTTTTTTTTTAAGTGCGGTAG 79200
+                                  ||||||||||||||||| |||||||||||| || ||||||||||||||||||||||        ||  |||||  |||||||||||||
+PseudochrX:0-1000000 +      52672 TAGCATTCTGCTGCCATTCTTAGCTGTGGAAAAGGGGGGGTCAGCTGGCATGAGAAGTGTTTGGATCCTTTTTAGTTAAGTGCGGTAG 52759
+
+
+
+##BLOCK
+chrX:0-1000000       +      79202 TTTTAAACTGTTTGTTTTTAAACAAACTATAGAACTCTTCATTGTCAGCAAAGC 79255
+                                  |||||||||||||||||||||||||||| |||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52760 TTTTAAACTGTTTGTTTTTAAACAAACTGTAGAACTCTTCATTGTCAGCAAAGC 52813
+
+
+
+##GAP
+chrX:0-1000000       +      79257 AAGAG 79261
+                                  |||||
+PseudochrX:0-1000000 +      52815 AAGAG 52819
+
+
+
+##BLOCK
+chrX:0-1000000       +      79263 CACTGCATCAATGAAAGTTCAAGAACCT 79290
+                                  ||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52821 CACTGCATCAATGAAAGTTCAAGAACCT 52848
+
+
+
+##GAP
+chrX:0-1000000       +      79292 CTGTACTTAAACACGA 79307
+                                  |||||| |||||||||
+PseudochrX:0-1000000 +      52850 CTGTAC-TAAACACGA 52864
+
+
+
+##BLOCK
+chrX:0-1000000       +      79311 GCAACGTTCTGTTATTTTTTTTGTATGTTTAGAATGCTGAAATGTTTTTGAAGTTAAATAAACAGTATTACATTTTTAAAACT 79393
+                                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      52868 GCAACGTTCTGTTATTTTTTTTGTATGTTTAGAATGCTGAAATGTTTTTGAAGTTAAATAAACAGTATTACATTTTTAAAACT 52950
+
+
+
+##GAP
+chrX:0-1000000       +      79395 TTCTCTATTATAACAGTC--AATTTCTGACTCACAGCAGTGAA-------CAAACCCCCACTCCATTGTATTTGGAGACTGGCC-TCCCTATAAATGTGGTAGCTTCTTTTATTACTCAGTGGCCAGCTCACTTAGGGCTGAGATGAAGGAGAGGGCTACTTGAAGCTACTGTGTGATTTTGTTTGTGTCTGAGTGGCAT 79584
+                                  ||||||||||| ||||||  ||| |||||||||||| |   |         ||   ||||||||||||||||||| |||| |||  ||||  | || ||||| ||||| ||  |     ||||||||||  ||||||   ||| |||||     |||| ||||||| |||||  |||||||||||| | || ||||||||
+PseudochrX:0-1000000 +      52952 TTCTCTATTATGACAGTCTAAATCTCTGACTCACAGAAAGCAGTCTTAGCTAACAACCCACTCCATTGTATTTGGTGACTAGCCCCCCCTGCACATCTGGTACCTTCTCTTCAT-----GTGGCCAGCTTGCTTAGGATAGAGCTGAAG----AGGCTCCTTGAAGGTACTGCATGATTTTGTTTGGGGCTAAGTGGCAT 53142
+
+
+
+chrX:0-1000000       +      79585 TCAGATGAAGTCTG------------GAGGAGTTAGGAGAACGACA---TAGGCAAGGTTCAGCAGCCTTCCAAGGTATAGGAAGGTGGGTGATTAGGACTGAGGCT-------ATCTAGGTTTAA----CTTTTGTCCC------------------------------------------------------------ 79698
+                                  | |||| |||||||             || ||  | ||||||   |    ||||||| ||   |||||||  |||||| ||||||||||||| |||||| |||||||       || |||||||||     |||||| |                                                             
+PseudochrX:0-1000000 +      53143 TAAGATAAAGTCTGAACTGCGGGGTGTAGAAGCCAAGAGAACTTGACCCCAGGCAAGTTTTCCCAGCCTTTGAAGGTACAGGAAGGTGGGTGGTTAGGATTGAGGCTGACTACTATGTAGGTTTAATGGGTTTTTGTTCTGGTTTGGTTTGGTTTGTTTTTTTGTTATTTTTTTTGTGTGTGTGTGCCTCCTGCCACCAA 53342
+
+
+
+chrX:0-1000000       +      79699 -ACCTCCACCCCCTATTTTGTGGGGCCAAATGCATTGCTAAACAGCAA-------TTTCAGAGTGTATGGTGTGTCAAAAATTAAGGCCTTATTGTTTTTCTCTTTCACCCCTACCCCCCGTGCTCCTGGCACATATCACATTATTTGTGGTGCCCAACATTTGGGGTCTTGAGCCTGCTGCT-GGTCTCCTGGATGCCA 79889
+                                    |  || ||||  ||  |||||||||| || ||||||||||||||||        | |  || ||| ||||| ||| |  || |||| || ||   | |||| |   |||  |||||      |   |     ||||     ||||||  ||  | ||| ||| ||||||||||   |   |  | ||||||||  |||
+PseudochrX:0-1000000 +      53343 TGCTCCCTCCCCTCATGCTGTGGGGCCAGATTCATTGCTAAACAGCAAAAATATCCTCCTAAGGGTACGGTGTATCAGATGTTCAGGCTTTTTTTCCTGTCTCATCGCCCCTGACCCCGGTCCGTGTAGCAGAGTATC-----ATTTGTTCTGTTCGACAGTTGAGGTCTTGAGCTACCGCTTCTGCCTCCTGGACCCCA 53537
+
+
+
+chrX:0-1000000       +      79890 GTGAGGGTATGTGGGATGGGGTGGTGGGGTAGGGGACGGTATCCTTTTTTTGCTCCTACT---TGGAAACACCAAACACCCCAAGGAAGATGA---------------TAGGCTCCATCTTGGGCCACCTGAGCTATAGGGCAGGCTA----ATGGAATCAACCATTTCTGAGCACTAAATGTATCATGAAAAGTTGAAT 80067
+                                  ||||||| |         ||||||| ||   || ||  |    |  ||  |  |||||||   | || | ||  |||||||| |||||| ||                 ||||||   |||||||||||||  ||  |||       |    ||||| |    |      |      |    |   ||||||||| | ||
+PseudochrX:0-1000000 +      53538 GTGAGGGGA--------AGGGTGGTAGGAGTGGCGAACGATATCCATTGGTTTTCCTACTACTTTGAGAAACTGAACACCCCGAGGAAGGTGGCTGGGGTCCCTGTGGCAGGCTCTGCCTTGGGCCACCTGTACTGCAGGCAGACTGACGAGATGGATTGTTTCTAAGAAGCATTAGATGAATCCTATGAAAAGTAGGAT 53729
+
+
+
+chrX:0-1000000       +      80068 GGCCTGCTCATAAGTTT-AGCTCATTCACTGGAAATGTAGATTGATGTTCAA---TGTTAAACTGGAAGGAGCTTGGTTTGTGTGTCAGTGGTTATATTAGTGGGTAGTGT------AACATTTTATCCAGGTTGGGGTGAGGGG-----AGATGGCCACAGTAGCAAGTGGTGACACTAAATACCATTTTGAAGGCTGA 80252
+                                  ||||||| || || ||| |||||||| | || |||||||| | | |||| ||   |||||||||||||| ||||||||  |||| ||||||||||| |||    |  |  |       ||||||| |||  |||||||  || ||      |||||||||||| ||||| ||||||| |||| | | ||| || ||||| 
+PseudochrX:0-1000000 +      53730 GGCCTGCCCACAATTTTGAGCTCATTGATTGCAAATGTAGGTGGTTGTTAAATGTTGTTAAACTGGAAGAAGCTTGGTCCGTGTTTCAGTGGTTATTTTATGTTGGTGAATGATGTTGACATTTTGTCCCAGTTGGGGAAAGAGGTGAGGCGATGGCCACAGTGGCAAGCGGTGACATTAAAAATCCTTTCGAGGGCTGG 53929
+
+
+
+chrX:0-1000000       +      80253 TGTGTATATACATCATTACTGTCCGTAGCAATGAAGGATACAGTACTGTGTTGTGGGTGAGTGTTGCTATTGCCCAGCATTAATATTTGGGTGTGTATGTTTGAGGCTATGAAACACGCAGGAGTGTTTTTGTGCTATTAATTTTAAGAGAAAGCAGCTTTTTCTTAAAATTCACTGTTGAGAAACTTGCATGTCTGGAG 80452
+                                  |         |||| |||||||  | || || |||||     |   ||||||||||||||| ||    | |||| ||| | |||| |    |||||  ||| |||||| |||| ||| | ||||||||||||||   |          || | | |||||||||| |||||||||  ||  ||| | ||  |||||| ||
+PseudochrX:0-1000000 +      53930 T--------CCATCTTTACTGTTGGCAGGAAGGAAGG-----GCCTTGTGTTGTGGGTGAGAGT----ACTGCCTAGCGTGAATACT---CTGTGTGCGTTGGAGGCTGTGAAGCACTCGGGAGTGTTTTTGTGACCT---------CAGGAGGAAGCTTTTTCTGAAAATTCACAATTTGGAACCCTGTGTGTCTGCAG 54100
+
+
+
+chrX:0-1000000       +      80453 GCG--GTGTCCTCTCCGCCCTGTCGGGTCCTGGATGAGTACGAGTTATGGTCACGGTCAC-AGCCTGATCTCTTAT--GTGTTCATAGCCATTCGCTCTCC------CATCAGAACTGTTTGTCCTGAATGTGTTCCTCTAG---TTCTAGAAAATGACCACTAATTTAAAAA-ACTCGGT 80618
+                                  ||    ||||||| || | ||||| ||||||||||| |||   ||   ||||||||||||  |||  ||||||      |  | |||||||||| |  |||      ||||||||||||||||||| ||||||||  |||||   || ||||| ||||||||||||||| |||  ||||||
+PseudochrX:0-1000000 +      54101 GCTATATGTCCTCCCCACTCTGTCAGGTCCTGGATGGGTA--TGTCCCGGTCACGGTCACTGGCCCAATCTCTCGCCGATAATTATAGCCATTCCCATTCCTTTGCACATCAGAACTGTTTGTCCTAAATGTGTTTTTCTAGCTCTTTTAGAAGATGACCACTAATTTAGAAACCCTCGGT 54279
+
+
+
+##BLOCK
+chrX:0-1000000       +      80621 TGAGGTTTGCCCAGAGGCACTTGTTC 80646
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      54282 TGAGGTTTGCCCAGAGGCACTTGTTC 54307
+
+
+
+##GAP
+chrX:0-1000000       +      80656 CCCTCCTGCTTCAGCCATGTCCTTGTCACTTGGCATTCTAAGCTAAAGCTTTAGCTTCCCAATTCGTGATGTGCTAGGCCAAGATTCGGGAGCTGTTGCCAGCCTCGTCAAATATGGAAGAGAAACAACCTGCGGTCAAAAGGGAG-TGATTTGTTAAGTGGTGCGCGTCTATCTCATAACTAGATGTACCAACCAGGGA 80854
+                                  |||||||||||||||                                  |   ||  |      |  | |  | |   |||||||| |||| ||| |   | |||| ||||||||||||||| | |   ||     |||| | ||| ||| ||| ||||||| ||  | |   ||      |   ||  ||   | |   
+PseudochrX:0-1000000 +      54314 CCCTCCTGCTTCAGC----------------------------------TGGTGCCGCTGCTGCCCGGCTTAGGTGTACCAAGATTTGGGAACTGGT--TAACCTCATCAAATATGGAAGAGGAGCTCACTTGTCCCAAAGGAGAGCTGACTTGCTAAGTGGCGCCTGCCGGGCTGTAGCATCTTTGCGCCCCTCTG--- 54474
+
+
+
+chrX:0-1000000       +      80855 AGGGCCAAGGATGGAAAGGGGTAACTTTTGTGCTTCCAAAGTAGCTAAGCAGAAGTGGGGGAGCAGTTTAGCCAGATGATCTTTGATTAGGCAAACATTGAGTTTTAAAGAGGCTGTCAAGTTGAGGCCACTTGGTCCATTAGCTGGGGCAGCAAGATCACTACTCAACGTTTTCACACTGTGGCAAGATTGCTCTTCT- 81053
+                                                          | ||||||||    |||||              ||||||| | |||      |||||||||     ||  |  | ||||| |||| ||    || |||| |||||||||||  |||                             |||||||| |     | |  ||| || ||| 
+PseudochrX:0-1000000 +      54475 ------------------------CCTTTGTGCTAAACAAGTA--------------GGGGAGCTGCTTAA----GTGATCTTTG----TGCGGATGTAGAGTTCTAAAAAGA--TTCTAGTTAAGGCCACTTGGCTCAT-----------------------------GTTTTCACCCCAGCACGAAGTTGTTCCTCTT 54597
+
+
+
+chrX:0-1000000       +      81054 AGTGGAATAATGCCC--TAGTTTCTCTGAGATGATGTAAGTGGCATGATGTTA----CCTAAGGCTTAGGCTTAGCTTGATTTCTGGGCCCACTGTCTGTGTTCTTAAGATGCCAACCTGTTGCTTTTTTTTTTTTTTTCCCCCATTTAAAAGGATAGTACCTACTCCCTCTAACCA---------------CCTCACCC 81232
+                                  | |||||| |||| |   || |||||||||| |    ||||||| || ||| |     |||||||||  ||| ||| ||||| |||||||||| || |||| |||   |||||||||||||| |||| || || |||||     | | ||||||| ||||||| ||  |||||||||               ||||||||
+PseudochrX:0-1000000 +      54598 ACTGGAATGATGCTCCGGAGCTTCTCTGAGACGTGACAAGTGGCGTGGTGTCAACCATCTAAGGCTTCAGCTCAGCCTGATTACTGGGCCCACAGTATGTGATCTCGCGATGCCAACCTGTTACTTTATTATTATTTTT----TAATCAAAAGGACAGTACCTGCTTTCTCTAACCAGCTCTCTCCCAGCCCCCTCACCC 54793
+
+
+
+chrX:0-1000000       +      81233 CATTCTTGAATGACATTTTATC 81254
+                                  |||  ||||||||  |||||||
+PseudochrX:0-1000000 +      54794 CATGTTTGAATGATGTTTTATC 54815
+
+
+
+##BLOCK
+chrX:0-1000000       +      81259 GGAAAGAACAAGGCTGTGATGTAGTGACTATTGTCTGTGTCTCCTGTGTGTGTCTGTTCTTGTCACAAATGTATTTGGGGACGTTGGATGCATTCATTTTCTGTAATAAAGTTTCTTAATCACTCTTCCCAAAAAGTAATCAGTGGGCTGTCTGC 81413
+                                  ||||||||||||||||||||||||  ||||||||||||||||||  |||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      54820 GGAAAGAACAAGGCTGTGATGTAGCAACTATTGTCTGTGTCTCC--TGTGTGTCTGTTCTTGTCACAAATGTATTTGGGGACATTGGATGCATTCATTTTCTGTAATAAAGTTTCTTAATCAGTCTTCCCAAAAAGTAATCAGTGGGCTGTCTGC 54972
+
+
+
+##GAP
+chrX:0-1000000       +      81415 ATCTGTCTGAGATACTGAACCTCTGTACTTTTGGTTGATTATCATCAAGGTTTTAGAAGTGCAAACTTTGTGGTAACCATAGATCTGAACTACTAACATTTAGTGGAATGATACCATCAAAATGACTTAAGTGTTAAGGACTCCAAAGCCCCAAG---ATCAACCTCCTGGCCCGAGGCATA-AGGGGGAGTTGGCTCTG 81610
+                                  |||||| |||||||||||||||||||| ||| |||||||||| ||||||||||  ||||| ||| |||||  |||||||||||||||||||       || | ||||  ||||||||||||| |    |||||  ||||| | || |||||| ||   |||||||     ||| ||||  ||  || |||||||||||||
+PseudochrX:0-1000000 +      54974 ATCTGTTTGAGATACTGAACCTCTGTATTTTGGGTTGATTATAATCAAGGTTTGGGAAGTACAAGCTTTGCTGTAACCATAGATCTGAACT------GTTCAATGGAGAGATACCATCAAAAAGGG-CAAGTGAGAAGGATTTCAGAGCCCCCAGATCATCAACCCTTCAGCCAGAGGGGTAGTGGAGGAGTTGGCTCTG 55166
+
+
+
+chrX:0-1000000       +      81611 AAGCCCTGGACCAGGATAAATAGGCAATTTGCAGGATGCTAACGAGCTACTATTTGATAAAGTG 81674
+                                   ||||||   ||| ||| |||| ||||||||||||||||||| ||||| |     |||||||||
+PseudochrX:0-1000000 +      55167 GAGCCCTATGCCATGATGAATATGCAATTTGCAGGATGCTAATGAGCTGCGGC-AGATAAAGTG 55229
+
+
+
+##BLOCK
+chrX:0-1000000       +      81677 TGGGTACTTGTAATCAGCCAGCCCTGCC 81704
+                                  ||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      55232 TGGGTACTTGTAATCAGCCAGCCCTGCC 55259
+
+
+
+##GAP
+chrX:0-1000000       +      81707 CAGGGCTCCTCGAGGCCAAGGGTCTGGGCTTAGTTGGCTGACTCAGCCATGCCCAACAAGGAGTTCTGGAGGAGAGCCACAGGGACCGCTTGCTGTTCTTGGCTCCCAGCTCAGTTTTCT-GTGGAGCCCAAGGCTACCTGGTAAGGAAAGGCCATTGAGCCAGCTTGGCGGCCCCAAGCTTCCCTTACTGCTTCAACCA 81905
+                                  ||||||  |  |||||  |||||| |||||||||||||||||  ||||| ||||||||||| ||| | || ||||||                  |  ||||  ||  ||| ||||| |   |||| |||| |||| |  || | |||| | |      ||||||||||| || ||| ||||| ||| ||||||||||||
+PseudochrX:0-1000000 +      55263 CAGGGCCTCCTGAGGCTGAGGGTCAGGGCTTAGTTGGCTGACAGAGCCAGGCCCAACAAGGTGTTTTAGATGAGAGCTC---------------TTCTTTGGACCCTGGCTTAGTTTCCCCATGGAACCCAGGGCTGCTAGGGAGGGAATGACTGACAGGCCAGCTTGGCAGCTCCAGGCTTCTCTTCCTGCTTCAACCA 55447
+
+
+
+chrX:0-1000000       +      81906 GAGCA-GCCTCCCA-CCCTGTTTTATATGTTGGGCATCCTACGATTTCAGCTTTCAAAAGAAGCTGGGATACCATATCAATAAAAGGAAAAAGACACACATGATCATCTCAATAGACACAAAAACCTTGA------------CAAACACTTTCATGAT------------AAAAACA----------------------- 82056
+                                  |||||  ||||||| | ||||||| ||| |   || ||||| ||||| |||||  ||||||| ||||||||| |||  | |      |||     |  |     ||| |||||||| ||| |||   |               |  | ||||||||||            |||||||                       
+PseudochrX:0-1000000 +      55448 GAGCAACCCTCCCAACTCTGTTTTGTATCTCAAGCCTCCTAAGATTTTAGCTTAAAAAAGAAACTGGGATACAATAAGATTTTTTTAAAAGTCCAAACC----CCATATCAATAGATACATAAAATGTATTTGATAAAATCCAACGCCCTTTCATGATTTAAAAGAAAAAAAAAACAGCCAACCAACAACTCAGATGACT 55643
+
+
+
+chrX:0-1000000       +      82057 -AGGGTAGAAGGGAACTTCCTCAACCTGATATAGGACGTTTAGGAAAACCCATGGGTT------------------------------------------------------------------------TATTCATGATTGTACTAGAAGTTCTAGCCAGGGCAATTAGGCAAAAGAAAAAGAAAACATCCAGACTGAA 82183
+                                    |  |||| | |||||| |||||||||||| ||  |  ||||| ||| |||  | |                                                                          ||| || ||||||||| |||||||||||  ||||||||||||| | || |  ||| |||  ||||||||
+PseudochrX:0-1000000 +      55644 GGGAATAGATGAGAACTTGCTCAACCTGATAAAGAGCACTTAGGGAAATCCACAGCTAATATACTCCGTGAAAGCTGCCCCCCCCTCCCAAGTTCAGGAAAGAGACAAGGATGCTCAGTGGTACCACTTGCATTTATCATTGTACTAAAAGTTCTAGCCGAGGCAATTAGGCAAGAAAACACAAAAGCATTTAGACTGAA 55843
+
+
+
+chrX:0-1000000       +      82184 ATTGAGAAGACAAAGCTATGTCTATTTGTAGATGATATGACCT-TGTATACAGATAACCGTAAGGAATCTCCAAATAAAACTGCTAG----AAAAATGAATTGATCATCTGCAGTATACAAGATTAACATACAAAAA---CTAGTATTTCTATATACCAGCCATGAACAATCTGAAACTAAGAAAACATTCTCTTAAATA 82375
+                                  | |||      ||||||||||||||||| | |||| |||| || ||||||  |  || | ||   ||| ||||  ||||||||  ||    ||||||||||    ||  ||||| ||||||| | |  ||| | |||    | ||||||||||| || ||| ||||||||| |||||   || ||||       |     
+PseudochrX:0-1000000 +      55844 AATGAAGGACTAAAGCTATGTCTATTTGCATATGACATGATCTATGTATA--GCCAATCCTACAAAATTTCCAGCTAAAACTGTCAGAAGAAAAAATGAAT---ACAATTGCAGGATACAAGGTCAGTATATAGAAATGGATCGTATTTCTATACACTAGCAATGAACAATTTGAAA---AGGAAACTAAACAATTCCAT 56035
+
+
+
+chrX:0-1000000       +      82376 TCTACAATAACATCAAAAAGAATAAAATATTTAGGAATGAACAATATAAGTGCAAAACTTACATGGGGAAAAGTACAAAAC--------------------------------------ATTAAAGACCTAAGGAAAT---AGACATTCCACGTTCATGAATGGGAAGGTTTAATATTGTTAAGATGGCAATACTCCTGA 82534
+                                  |  |||    ||||||||  ||  |  || | |  | |  |                           |||||||||||||                                      |||||| ||||||  ||||   | |||| ||| |||||||  | ||||||   ||  ||||||| |  |||||||||||| 
+PseudochrX:0-1000000 +      56036 TTAACAGAGCCATCAAAACAAAGTACTTAGTAACAAGTCTAA-------------------------CAAAAGTACAAAACCTGTATGGGGGAAAAATACAACACATTGTTGAAAAGACATTAAAAACCTAAATAAATGGAAAACATCCCATGTTCATGGGTTGGAAGG--CAAGGTTGTTAACACAGCAATACTCCTGG 56208
+
+
+
+chrX:0-1000000       +      82535 AATTGATCTAGAA------CGCAATCTCTATTAGAATCCCAGCTGGCTTCCTCTAGTAGAAATC-AGGCTGATTCTAAATGTCATATAGAAATTCAAGAGATGCAGGAGATACCCAGATCAATCTTGAAAA---------CAGTTGGAGGATTCACATTTCTTGATTTCAAAA 82691
+                                  ||||||| || ||       | |||| |||| |||||||||||||||||| |   |||||| || |   |||| |||||| |||||| || ||||||| |           ||||| | |||||||| |||          |||||| ||  ||  | ||| |||||||||||
+PseudochrX:0-1000000 +      56209 AATTGATGTATAAATTTAATGTAATCGCTATCAGAATCCCAGCTGGCTTCTT--TGTAGAACTCGACAGTGATCCTAAATTTCATATGGAGATTCAAGGG-----------ACCCAAAACAATCTTGGAAAAGAAAGACAAAGTTGGGGGCATCGGACTTCCTGATTTCAAAA 56368
+
+
+
+##BLOCK
+chrX:0-1000000       +      87707 CATAGTCAGTTCCCAAATCCTGCCAA 87732
+                                  ||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      56510 CATAGTCAGTTCCCAAATCCTGCCAA 56535
+
+
+
+##GAP
+chrX:0-1000000       +      87734 TGTGTTTCCTAAAATATCATGCATCTACCCC---TCTCATTCATGCTGTC-AGTGTAGGTGAATCCCTCATCTGTAAATTCTCCCATGCTTTCTTT 87825
+                                  ||| |||||||||||||| |  ||| |||||   ||||||||||||| || |  |||||| |||| ||  |||  ||||||||| || |  |||||
+PseudochrX:0-1000000 +      56537 TGTATTTCCTAAAATATCTTAGATCCACCCCTCATCTCATTCATGCTATCCATCGTAGGTAAATCTCTTGTCTTCAAATTCTCCTATTCGCTCTTT 56632
+
+
+
+##BLOCK
+chrX:0-1000000       +      88248 CTAGAACTTGCATTTTCAGGCTTTT 88272
+                                  |||||||||||||||||||||||||
+PseudochrX:0-1000000 +      56641 CTAGAACTTGCATTTTCAGGCTTTT 56665
+
+
+
+##GAP
+chrX:0-1000000       +      88317 TCTGTTATGGTGCCATCTTACCAGGATGTCACA-ACTGGAGATGTACTGTAGCTCAGGTCCTTACTGTCTTTT------GTCTGGATGAATATAAGAGCTTCCCAAATGATTTCCCTGTTTTCCCCTTTCC--CTAGTCTATTCCCAGAACTAGTATAGCTACTGACAGTTGGTGCTCAAGAAATATTTATTGAATAAGT 88507
+                                  ||||||| |   |       |  |  ||||| |  || ||||    ||| |||||||||||| ||| ||||||       |||| |  ||||  | |||||| | |||||||  |||  |||| |  |  |  ||| || || |||||| |     ||   ||  | |||||| ||| || | ||||| | |  |||| |
+PseudochrX:0-1000000 +      56721 TCTGTTAAGTCCCATCAGAGCTGGAGTGTCAGAGCCTAGAGACACGCTGGAGCTCAGGTCCTCACTATCTTTTTTTTTTTTCTGAACAAATACGATAGCTTCTCCAATGATTGTCCTCCTTTCTCACTCGCATCTACTCCATCCCCAGACCATAGCTATACACACAGAGTTGGCGCTGAATATATATTCACTCTATAAAT 56920
+
+
+
+chrX:0-1000000       +      88508 GATTAAATGAGTGAATAAATAGGGACAGATCAGGGGAAAGTTCAGCAGTTGTAGACCATGCAGGGCATTATAGGCCATCTTAAGAATTTTGAACTTTCCTATGATCAATGGAAAGCATTTATTTAAGAATTTTCATATGGGGGGATGTGAGGAGTGGTGGATAGTGATGTGATCAGTTATGTATTGTAGTTAAATTCCTC 88707
+                                   | |  |||| ||||| | ||||||||||||||| ||||| ||| |||  |||||||          || ||||||||| ||||||||||||||||||||| | |||| || ||||||||     ||| |||| || ||  ||  | || ||| | || ||| | ||| || ||||  ||||||||||||| |||| |  
+PseudochrX:0-1000000 +      56921 AAATGGATGAATGAATGACTAGGGACAGATCAGGAGAAAGCTCAACAG-GGTAGACC----------TTGTAGGCCATCATAAGAATTTTGAACTTTCCTAAGGTCAAGGGCAAGCATTT----GAGAGTTTTTATCTGTTGGCGTTTGGGGACTCGTAGATGGCGATATGCTCAGACATGTATTGTAGTTGAATTACGT 57105
+
+
+
+chrX:0-1000000       +      88708 TGGTAGCTGTGAGGGGAACTGATTAGAAGACATGGGGAGGGGCAAAAGTGGAAGCAGGCTCTCAGGATAAGCCTACTGCTACAAAGAACAATCCTCATTCTA------------------------------------------------------------------------------AGTGACTTAAAGCAATAAAA 88829
+                                  ||| | |||||||  |||     ||||||||||||| |||||||  |||||||||||| | | || | ||| | ||||| ||||||| ||| |||||                                                                                    |||||||||  || |||||
+PseudochrX:0-1000000 +      57106 TGGCATCTGTGAGAAGAA-----TAGAAGACATGGGAAGGGGCAGGAGTGGAAGCAGGGTATTAGAAGAAGTCAACTGCAACAAAGAGCAACCCTCAACTCTTTTTTTTTTTTAGGGAGAGTGTGGGAGGGGGGAGAGGAGGGGCAGAGAGCAACCCTTGATTAACACAATTCTTAATATTGTGACTTAACACAGTAAAA 57300
+
+
+
+chrX:0-1000000       +      88830 GATTTACTTCTCAGTGACGTTACAGTCC-AATAGGAAATTTGGCAGGCAGCCTTTTACATTGTGATTTAGGGATCCCAGATTCTTCCATTTTGTTGTGCCACCATCTTCAACCCATGTCCTTCATGCCACTGTAGAATGGGTTTTAGGGCTAGCCCCAGAAATGTCATTATATCACTCTTGCCCACATCCCATGGTCCCC 89028
+                                  | || || ||||| |||| | ||||||| |||  || |  || | || ||||||    ||||||| |  |||||||  | | ||||||||| || | |||||| | ||||| ||||| ||| | || ||||| ||||| || ||||     || ||   || || ||||  | | || |  ||||||| ||||||| |||
+PseudochrX:0-1000000 +      57301 GGTTGACATCTCACTGACATGACAGTCCCAATCAGATACATGACTGGGAGCCTTCCTTATTGTGACTCCGGGATCCTGGCTCCTTCCATTT-GTGGGGCCACCCTTTTCAATCCATGACCTCCTTGTCACTGAAGAATAGGCTTTACCATAAGGCCTGCAAGTGGCATTCCAACCCTGTCACCCACATTCCATGGTTCCC 57499
+
+
+
+chrX:0-1000000       +      89029 AGCTGAATTGCAAGAGCAGTTTGGAGATGTGGTCATTCTGTGTGCTTAGGGAGAGAATGAAATGGATTTGTGAACACATAGCATTGTTTCTGCCATTCAGGGAGATGGGATTGAGGTGTTTGTGGGAGTCTAGATGA--GAGATGCTGGGGGCTCGTATAAGAATGGCAACGTTGAGGATATAGAAAAGTAGACGGATTC 89226
+                                  |  |||  |||||| |||| |  |||||||||||||||||||||   ||||||| ||| ||| ||||||| ||||||| ||||||  |    |  |   |      |||   |  ||  ||||||||||||   | |  ||||||| || || |  |  |||| |||      || || |   |||| |     ||||||
+PseudochrX:0-1000000 +      57500 AAATGAGCTGCAAGGGCAGCTGAGAGATGTGGTCATTCTGTGTGGCCAGGGAGAAAATCAAACGGATTTGAGAACACACAGCATTTCTCAGCCATTGAGGAAGACGGGGTGGGGAGTAGTTGTGGGAGTCTCTCTAAATGAGATGCCGGAGGTTATTGAAAGAGTGGTGGGAATGGGGGTG-GGAAAGGGCTCTGGATTC 57698
+
+
+
+chrX:0-1000000       +      89227 A 89227
+                                  |
+PseudochrX:0-1000000 +      57699 A 57699
+
+
+
+##BLOCK
+chrX:0-1000000       +      91421 GTTTGTAACTTGGAATCACAGACCATT 91447
+                                  |||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      57943 GTTTGTAACTTGGAATCACAGACCATT 57969
+
+
+
+##GAP
+chrX:0-1000000       +      91450 TGCTGTCAGTCTAAGCAGATCTCCCTTTCCCTCTTAAGACTTGATTTGAATGTGCATTTTCAGG----CTATTTCCCACAAGTTTCCCTCTAGGGAAATCTCCTGCTTCTACATCCTGGTGCGATCCGTCTGCTATGGTACAGTCTTA 91593
+                                  ||||||||| ||            |||||| | ||| |||| |  | |||| ||||||||   |     | |||   |  |||||||||| |||||||||||| ||    ||| ||||||  |||| ||||||||  |||   |||||
+PseudochrX:0-1000000 +      57972 TGCTGTCAGCCTG----------TCTTTCCATTTTAGGACTAGTCTGGAATTTGCATTTTACAGACTTTTTTTTTTTATCAGTTTCCCTCCAGGGAAATCTCCAGCA--GACACCCTGGTAGGATCTGTCTGCTAGAGTATGATCTTA 58107
+
+
+
+##BLOCK
+chrX:0-1000000       +      91599 GTGTCAGAGCTAGAAATTTCCCTGGAGGGAAA 91630
+                                  ||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      58113 GTGTCAGAGCTAGAAATTTCCCTGGAGGGAAA 58144
+
+
+
+##GAP
+chrX:0-1000000       +      91634 AATCCTTTGGGCTAGAAGGGGGATTTCCCC-TTCCACACTCACACTT------TTGTTTCTAAACTGGGAGCATTTGTGGAAAACCTCAAAAAACCTTTCTGTTTTTGGTCTCAGGCCCCAGTTGGTTTTGTCAATCCACGTAGGAAATATGAGATGCACATTTTTCTAGGCTGTGTAT 91805
+                                  ||||| |||||||||||||||| || |||| ||||||||||||||||       ||||||||||||||||||||||| |||||| |||||| |||||| ||||| |||| ||| |||| ||||||||||| |||||||||  ||||||| ||||||||||||||| |||||||||||||
+PseudochrX:0-1000000 +      58148 AATCCCTTGGGCTAGAAGGGGGCTTCCCCCTTTCCACACTCACACTTGTAAATCTGTTTCTAAACTGGGAGCATTTGAGGAAAAGCTCAAAGAACCTTCCTGTTGTTGGCCTCGGGCCACAGTTGGTTTTTTCAATCCACAGAGGAAATGTGAGATGCACATTTTCCTAGGCTGTGTAT 58326
+
+
+
+##BLOCK
+chrX:0-1000000       +      91807 TTGTTCCAGGCCTGTGGTGGGTTTTTGTTT 91836
+                                  ||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      58328 TTGTTCCAGGCCTGTGGTGGGTTTTTGTTT 58357
+
+
+
+##GAP
+chrX:0-1000000       +      91838 AAAAGTCTTTTGGAAGCATGTCAGCGGCGATACTGTGGCAATGTTGAACACAAAATTTGACAGTTC 91903
+                                  ||||||||||||||||| |||||| || |||||||||||||||||||   ||| ||||||||||||
+PseudochrX:0-1000000 +      58359 AAAAGTCTTTTGGAAGCCTGTCAGTGGTGATACTGTGGCAATGTTGATTGCAACATTTGACAGTTC 58424
+
+
+
+##BLOCK
+chrX:0-1000000       +      91905 CATTGCAAGATGTGTAGAACATATGATGCTTTTGTCCTCTGTCCAAACCCTCACTAGTTTACATGAAAAAGGGCTGATATTTCAGTGATGAAACATTAGCAGAAGGCTGAAATATGTCACTTAAAAATA 92033
+                                  ||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||
+PseudochrX:0-1000000 +      58426 CATTGCAAGATGTGTAGAACATATGATGCTTTTGTCCTCTGTCCAAACCCTCAGTGGTTTACATGAAAAAGGGCTGATATTTCAGCGATGAAACATTAGCAGAAGGCTGAAATATGTCACTTAAAAATA 58554
+
+
+
+##GAP
+chrX:0-1000000       +      92035 TGGGCTAGCCATGATTTTTTT 92055
+                                  ||||||||||||||| |||||
+PseudochrX:0-1000000 +      58556 TGGGCTAGCCATGATGTTTTT 58576
+
+
+
+##BLOCK
+chrX:0-1000000       +      92391 CTGCTTTTAACTTCTATATCAAGAA 92415
+                                  |||||||||||||||||||||||||
+PseudochrX:0-1000000 +      58595 CTGCTTTTAACTTCTATATCAAGAA 58619
+
+
+
+##GAP
+chrX:0-1000000       +      92418 CTCTTCTGCATATATTTAATTTATTAAATAAAAGAAGCTGATTGAG 92463
+                                  ||||||||| |||||||||||||| ||||||||  ||||||| |||
+PseudochrX:0-1000000 +      58623 CTCTTCTGCGTATATTTAATTTATGAAATAAAAACAGCTGATCGAG 58668
+
+
+

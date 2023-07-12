@@ -1,0 +1,2 @@
+
+./SatsumaSynteny -q samples/human.X.part.fasta -t samples/dog.X.part.fasta -o xcorr_sample_synt -m 1 -ni 10 -n 1

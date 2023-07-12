@@ -1,0 +1,481 @@
+###
+### This file is generated automatically.  DO NOT MODIFY BY HAND!
+###
+
+aligns/KmerAlignCore.o: $(SRC)/aligns/KmerAlignCore.cc $(SRC)/aligns/KmerAlignCore.h $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+aligns/KmerDynProg.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/aligns/KmerDynProg.cc $(SRC)/aligns/KmerDynProg.h $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+analysis/AlignProbability.o: $(SRC)/analysis/AlignProbability.cc $(SRC)/analysis/AlignProbability.h $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+analysis/BlockDisplaySatsuma.o: $(SRC)/analysis/BlockDisplaySatsuma.cc $(SRC)/analysis/DNAVector.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/ChainMatches.o: $(SRC)/analysis/ChainMatches.cc $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/CodonTranslate.o: $(SRC)/analysis/CodonTranslate.cc $(SRC)/analysis/CodonTranslate.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+analysis/ColaAlignSatsuma.o: $(SRC)/analysis/ColaAlignSatsuma.cc $(SRC)/analysis/DNAVector.h $(SRC)/analysis/RefineSatsuma.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/base/ThreadHandler.h $(SRC)/src/Alignment.h $(SRC)/src/AlignmentBlock.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NSGAaligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.h $(SRC)/util/mutil.h 
+analysis/Coordinate.o: $(SRC)/analysis/Coordinate.cc $(SRC)/analysis/Coordinate.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/src/AlignmentBlock.h $(SRC)/util/mutil.h 
+analysis/CrossCorr.o: $(SRC)/analysis/Blosum.h $(SRC)/analysis/CodonTranslate.h $(SRC)/analysis/CrossCorr.cc $(SRC)/analysis/CrossCorr.h $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/extern/RealFFT/DynArray.h $(SRC)/extern/RealFFT/DynArray.hpp $(SRC)/extern/RealFFT/FFTReal.h $(SRC)/extern/RealFFT/FFTReal.hpp $(SRC)/extern/RealFFT/OscSinCos.h $(SRC)/extern/RealFFT/OscSinCos.hpp $(SRC)/extern/RealFFT/def.h 
+analysis/DNAVector.o: $(SRC)/analysis/Coordinate.h $(SRC)/analysis/DNAVector.cc $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/src/AlignmentBlock.h $(SRC)/util/mutil.h 
+analysis/FilterGridSeeds.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/FilterGridSeeds.cc $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/GridSearch.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/GridSearch.cc $(SRC)/analysis/GridSearch.h $(SRC)/analysis/SeqChunk.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+analysis/HomologyByXCorr.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/analysis/AlignProbability.h $(SRC)/analysis/CrossCorr.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/HomologyByXCorr.cc $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SeqChunk.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/extern/RealFFT/DynArray.h $(SRC)/extern/RealFFT/DynArray.hpp $(SRC)/extern/RealFFT/FFTReal.h $(SRC)/extern/RealFFT/FFTReal.hpp $(SRC)/extern/RealFFT/OscSinCos.h $(SRC)/extern/RealFFT/OscSinCos.hpp $(SRC)/extern/RealFFT/def.h $(SRC)/util/mutil.h 
+analysis/HomologyByXCorrSlave.o: $(SRC)/analysis/AlignProbability.h $(SRC)/analysis/CrossCorr.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/HomologyByXCorrSlave.cc $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SeqChunk.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/extern/RealFFT/DynArray.h $(SRC)/extern/RealFFT/DynArray.hpp $(SRC)/extern/RealFFT/FFTReal.h $(SRC)/extern/RealFFT/FFTReal.hpp $(SRC)/extern/RealFFT/OscSinCos.h $(SRC)/extern/RealFFT/OscSinCos.hpp $(SRC)/extern/RealFFT/def.h $(SRC)/util/SComm.h $(SRC)/util/mutil.h 
+analysis/MakeSixFrames.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/MakeSixFrames.cc $(SRC)/analysis/MakeSixFrames.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+analysis/MatchDynProg.o: $(SRC)/analysis/MatchDynProg.cc $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/MergeScaffoldsBySynteny.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/MergeScaffoldsBySynteny.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/MergeXCorrMatches.o: $(SRC)/analysis/CrossCorr.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/MergeXCorrMatches.cc $(SRC)/analysis/SequenceMatch.h $(SRC)/analysis/XCorrDynProg.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/extern/RealFFT/DynArray.h $(SRC)/extern/RealFFT/DynArray.hpp $(SRC)/extern/RealFFT/FFTReal.h $(SRC)/extern/RealFFT/FFTReal.hpp $(SRC)/extern/RealFFT/OscSinCos.h $(SRC)/extern/RealFFT/OscSinCos.hpp $(SRC)/extern/RealFFT/def.h $(SRC)/util/mutil.h 
+analysis/OrderOrientBySynteny.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/OrderOrientBySynteny.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/OrientTranscripts.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/OrientTranscripts.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/RefineSatsuma.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/RefineSatsuma.cc $(SRC)/analysis/RefineSatsuma.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/ThreadHandler.h $(SRC)/src/Alignment.h $(SRC)/src/AlignmentBlock.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/AlignmentSet.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NOIAligner.h $(SRC)/src/Cola/NSGAaligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.h $(SRC)/util/mutil.h 
+analysis/Satsuma.o: $(SRC)/analysis/Satsuma.cc $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/SatsumaAlign.o: $(SRC)/analysis/SatsumaAlign.cc $(SRC)/analysis/SatsumaAlign.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/util/mutil.h 
+analysis/SatsumaPop.o: $(SRC)/analysis/SatsumaPop.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/SatsumaStruct.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/analysis/CrossCorr.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/MakeSixFrames.h $(SRC)/analysis/MultiProtein.h $(SRC)/analysis/SatsumaStruct.cc $(SRC)/analysis/SequenceMatch.h $(SRC)/analysis/XCorrDynProg.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/extern/RealFFT/DynArray.h $(SRC)/extern/RealFFT/DynArray.hpp $(SRC)/extern/RealFFT/FFTReal.h $(SRC)/extern/RealFFT/FFTReal.hpp $(SRC)/extern/RealFFT/OscSinCos.h $(SRC)/extern/RealFFT/OscSinCos.hpp $(SRC)/extern/RealFFT/def.h $(SRC)/util/SysTime.h $(SRC)/util/mutil.h 
+analysis/SatsumaSummary.o: $(SRC)/analysis/SatsumaSummary.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/SatsumaSynteny.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/GridSearch.h $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SatsumaSynteny.cc $(SRC)/analysis/SeqChunk.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/FindProcess.h $(SRC)/util/SComm.h $(SRC)/util/SysTime.h $(SRC)/util/mutil.h 
+analysis/SatsumaSyntenyLight.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/GridSearch.h $(SRC)/analysis/MatchDynProg.h $(SRC)/analysis/SatsumaSyntenyLight.cc $(SRC)/analysis/SeqChunk.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/FindProcess.h $(SRC)/util/SComm.h $(SRC)/util/SysTime.h $(SRC)/util/mutil.h 
+analysis/SatsumaToFasta.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SatsumaToFasta.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/ScaffoldBySynteny.o: $(SRC)/analysis/ScaffoldBySynteny.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/SeqChunk.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SeqChunk.cc $(SRC)/analysis/SeqChunk.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/util/mutil.h 
+analysis/SequenceMatch.o: $(SRC)/analysis/SequenceMatch.cc $(SRC)/analysis/SequenceMatch.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/util/mutil.h 
+analysis/SortSatsuma.o: $(SRC)/analysis/SortSatsuma.cc $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h 
+analysis/XCorrDynProg.o: $(SRC)/analysis/Blosum.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/MultiProtein.h $(SRC)/analysis/SequenceMatch.h $(SRC)/analysis/XCorrDynProg.cc $(SRC)/analysis/XCorrDynProg.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h 
+base/ErrorHandling.o: $(SRC)/base/ErrorHandling.cc $(SRC)/base/ErrorHandling.h 
+base/FileParser.o: $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.cc $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/util/mutil.h 
+base/StringUtil.o: $(SRC)/base/StringUtil.cc $(SRC)/base/StringUtil.h 
+base/ThreadHandler.o: $(SRC)/base/ThreadHandler.cc $(SRC)/base/ThreadHandler.h 
+extern/easel/easel.o: $(SRC)/extern/easel/easel.cc $(SRC)/extern/easel/easel.h 
+extern/easel/esl_gumbel.o: $(SRC)/extern/easel/easel.h $(SRC)/extern/easel/esl_gumbel.cc $(SRC)/extern/easel/esl_gumbel.h $(SRC)/extern/easel/esl_stats.h 
+extern/easel/esl_stats.o: $(SRC)/extern/easel/easel.h $(SRC)/extern/easel/esl_stats.cc $(SRC)/extern/easel/esl_stats.h 
+src/Alignment.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.cc $(SRC)/src/Alignment.h 
+src/AlignmentBlock.o: $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/src/AlignmentBlock.cc $(SRC)/src/AlignmentBlock.h $(SRC)/util/mutil.h 
+src/Cola/AlignmentCola.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.cc $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/EditGraph.h 
+src/Cola/AlignmentSet.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/AlignmentSet.cc $(SRC)/src/Cola/AlignmentSet.h $(SRC)/src/Cola/EditGraph.h 
+src/Cola/Cola.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/Cola.cc $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NSGAaligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.h 
+src/Cola/EditGraph.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Cola/EditGraph.cc $(SRC)/src/Cola/EditGraph.h 
+src/Cola/MultiAlignCola.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/AlignmentSet.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/MultiAlignCola.cc $(SRC)/src/Cola/NOIAligner.h $(SRC)/src/Cola/NSGAaligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.h $(SRC)/util/mutil.h 
+src/Cola/NOIAligner.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/AlignmentSet.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/NOIAligner.cc $(SRC)/src/Cola/NOIAligner.h 
+src/Cola/NSGAaligner.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NSGAaligner.cc $(SRC)/src/Cola/NSGAaligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.h 
+src/Cola/NSaligner.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NSaligner.cc $(SRC)/src/Cola/NSaligner.h 
+src/Cola/SWGAaligner.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/IAligner.h $(SRC)/src/Cola/NSaligner.h $(SRC)/src/Cola/SWGAaligner.cc $(SRC)/src/Cola/SWGAaligner.h 
+src/Cola/findColaSigDist.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/extern/easel/esl_gumbel.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/findColaSigDist.cc $(SRC)/util/mutil.h 
+src/Cola/runCola.o: $(SRC)/analysis/DNAVector.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/Cola/runCola.cc $(SRC)/util/mutil.h 
+src/DPAlign.o: $(SRC)/analysis/AlignProbability.h $(SRC)/analysis/DNAVector.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/src/DPAlign.cc $(SRC)/src/DPAlign.h 
+src/Papaya/Papaya.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/aligns/KmerDynProg.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SatsumaAlign.h $(SRC)/base/ErrorHandling.h $(SRC)/base/SVector.h $(SRC)/base/ThreadHandler.h $(SRC)/src/Alignment.h $(SRC)/src/Cola/AlignerParams.h $(SRC)/src/Cola/AlignmentCola.h $(SRC)/src/Cola/Cola.h $(SRC)/src/Cola/EditGraph.h $(SRC)/src/DPAlign.h $(SRC)/src/Papaya/Papaya.cc $(SRC)/src/Papaya/Papaya.h 
+src/Papaya/PapayaDetails.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SatsumaAlign.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/src/DPAlign.h $(SRC)/src/Papaya/PapayaDetails.cc $(SRC)/util/mutil.h 
+src/Papaya/PapayaSeed.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/aligns/KmerDynProg.h $(SRC)/analysis/DNAVector.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/src/Papaya/PapayaSeed.cc $(SRC)/util/mutil.h 
+src/Papaya/runPapaya.o: $(SRC)/analysis/SatsumaAlign.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/src/Papaya/runPapaya.cc $(SRC)/util/mutil.h 
+src/Papaya/runPapayaCola.o: $(SRC)/aligns/KmerAlignCore.h $(SRC)/aligns/KmerDynProg.h $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SatsumaAlign.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/base/ThreadHandler.h $(SRC)/src/Papaya/Papaya.h $(SRC)/src/Papaya/runPapayaCola.cc $(SRC)/util/mutil.h 
+test/TestSComm.o: $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/test/TestSComm.cc $(SRC)/util/SComm.h $(SRC)/util/mutil.h 
+tools/ReverseSatsumaOut.o: $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/tools/ReverseSatsumaOut.cc $(SRC)/util/mutil.h 
+tools/SplitSatsuma.o: $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/tools/SplitSatsuma.cc $(SRC)/util/mutil.h 
+util/FindProcess.o: $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/util/FindProcess.cc $(SRC)/util/FindProcess.h $(SRC)/util/mutil.h 
+util/SComm.o: $(SRC)/util/SComm.cc $(SRC)/util/SComm.h 
+util/SysTime.o: $(SRC)/util/SysTime.cc $(SRC)/util/SysTime.h 
+util/mutil.o: $(SRC)/util/mutil.cc $(SRC)/util/mutil.h 
+visual/ChromosomePaint.o: $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h $(SRC)/visual/Axes.h $(SRC)/visual/ChromosomePaint.cc $(SRC)/visual/Color.h $(SRC)/visual/Eps.h $(SRC)/visual/TicMarks.h $(SRC)/visual/Whiteboard.h 
+visual/ChromosomePaintDensity.o: $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h $(SRC)/visual/Axes.h $(SRC)/visual/ChromosomePaintDensity.cc $(SRC)/visual/Color.h $(SRC)/visual/Eps.h $(SRC)/visual/TicMarks.h $(SRC)/visual/Whiteboard.h 
+visual/ChromosomePaintNs.o: $(SRC)/analysis/DNAVector.h $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h $(SRC)/visual/Axes.h $(SRC)/visual/ChromosomePaintNs.cc $(SRC)/visual/Color.h $(SRC)/visual/Eps.h $(SRC)/visual/TicMarks.h $(SRC)/visual/Whiteboard.h 
+visual/Color.o: $(SRC)/visual/Color.cc $(SRC)/visual/Color.h 
+visual/Eps.o: $(SRC)/visual/Eps.cc $(SRC)/visual/Eps.h 
+visual/MicroSyntenyPlot.o: $(SRC)/analysis/SequenceMatch.h $(SRC)/base/CommandLineParser.h $(SRC)/base/ErrorHandling.h $(SRC)/base/FileParser.h $(SRC)/base/SVector.h $(SRC)/base/StringUtil.h $(SRC)/util/mutil.h $(SRC)/visual/Axes.h $(SRC)/visual/Color.h $(SRC)/visual/Eps.h $(SRC)/visual/MicroSyntenyPlot.cc $(SRC)/visual/TicMarks.h $(SRC)/visual/Whiteboard.h 
+BlockDisplaySatsuma:  checkLock
+BlockDisplaySatsuma:  analysis/BlockDisplaySatsuma.o analysis/Coordinate.o analysis/DNAVector.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_BlockDisplaySatsuma_temp.a
+	ar -qc lib_BlockDisplaySatsuma_temp.a $(OBJ)/analysis/BlockDisplaySatsuma.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/BlockDisplaySatsuma.o -L. $(LINK_LIBS) -l_BlockDisplaySatsuma_temp
+	/bin/rm lib_BlockDisplaySatsuma_temp.a
+ChainMatches:  checkLock
+ChainMatches:  analysis/ChainMatches.o analysis/MatchDynProg.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_ChainMatches_temp.a
+	ar -qc lib_ChainMatches_temp.a $(OBJ)/analysis/ChainMatches.o $(OBJ)/analysis/MatchDynProg.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/ChainMatches.o -L. $(LINK_LIBS) -l_ChainMatches_temp
+	/bin/rm lib_ChainMatches_temp.a
+ChromosomePaint:  checkLock
+ChromosomePaint:  analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o visual/ChromosomePaint.o visual/Color.o visual/Eps.o
+	/bin/rm -f lib_ChromosomePaint_temp.a
+	ar -qc lib_ChromosomePaint_temp.a $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o $(OBJ)/visual/ChromosomePaint.o $(OBJ)/visual/Color.o $(OBJ)/visual/Eps.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/visual/ChromosomePaint.o -L. $(LINK_LIBS) -l_ChromosomePaint_temp
+	/bin/rm lib_ChromosomePaint_temp.a
+ChromosomePaintDensity:  checkLock
+ChromosomePaintDensity:  analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o visual/ChromosomePaintDensity.o visual/Color.o visual/Eps.o
+	/bin/rm -f lib_ChromosomePaintDensity_temp.a
+	ar -qc lib_ChromosomePaintDensity_temp.a $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o $(OBJ)/visual/ChromosomePaintDensity.o $(OBJ)/visual/Color.o $(OBJ)/visual/Eps.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/visual/ChromosomePaintDensity.o -L. $(LINK_LIBS) -l_ChromosomePaintDensity_temp
+	/bin/rm lib_ChromosomePaintDensity_temp.a
+ChromosomePaintNs:  checkLock
+ChromosomePaintNs:  analysis/Coordinate.o analysis/DNAVector.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o visual/ChromosomePaintNs.o visual/Color.o visual/Eps.o
+	/bin/rm -f lib_ChromosomePaintNs_temp.a
+	ar -qc lib_ChromosomePaintNs_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o $(OBJ)/visual/ChromosomePaintNs.o $(OBJ)/visual/Color.o $(OBJ)/visual/Eps.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/visual/ChromosomePaintNs.o -L. $(LINK_LIBS) -l_ChromosomePaintNs_temp
+	/bin/rm lib_ChromosomePaintNs_temp.a
+ColaAlignSatsuma:  checkLock
+ColaAlignSatsuma:  analysis/ColaAlignSatsuma.o analysis/Coordinate.o analysis/DNAVector.o analysis/RefineSatsuma.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o base/ThreadHandler.o src/Alignment.o src/AlignmentBlock.o src/Cola/AlignmentCola.o src/Cola/AlignmentSet.o src/Cola/Cola.o src/Cola/EditGraph.o src/Cola/NOIAligner.o src/Cola/NSGAaligner.o src/Cola/NSaligner.o src/Cola/SWGAaligner.o util/mutil.o
+	/bin/rm -f lib_ColaAlignSatsuma_temp.a
+	ar -qc lib_ColaAlignSatsuma_temp.a $(OBJ)/analysis/ColaAlignSatsuma.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/RefineSatsuma.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/base/ThreadHandler.o $(OBJ)/src/Alignment.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Cola/AlignmentCola.o $(OBJ)/src/Cola/AlignmentSet.o $(OBJ)/src/Cola/Cola.o $(OBJ)/src/Cola/EditGraph.o $(OBJ)/src/Cola/NOIAligner.o $(OBJ)/src/Cola/NSGAaligner.o $(OBJ)/src/Cola/NSaligner.o $(OBJ)/src/Cola/SWGAaligner.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/ColaAlignSatsuma.o -L. $(LINK_LIBS) -l_ColaAlignSatsuma_temp
+	/bin/rm lib_ColaAlignSatsuma_temp.a
+FilterGridSeeds:  checkLock
+FilterGridSeeds:  aligns/KmerAlignCore.o analysis/Coordinate.o analysis/DNAVector.o analysis/FilterGridSeeds.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_FilterGridSeeds_temp.a
+	ar -qc lib_FilterGridSeeds_temp.a $(OBJ)/aligns/KmerAlignCore.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/FilterGridSeeds.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/FilterGridSeeds.o -L. $(LINK_LIBS) -l_FilterGridSeeds_temp
+	/bin/rm lib_FilterGridSeeds_temp.a
+HomologyByXCorr:  checkLock
+HomologyByXCorr:  aligns/KmerAlignCore.o analysis/AlignProbability.o analysis/CodonTranslate.o analysis/Coordinate.o analysis/CrossCorr.o analysis/DNAVector.o analysis/HomologyByXCorr.o analysis/MatchDynProg.o analysis/SeqChunk.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_HomologyByXCorr_temp.a
+	ar -qc lib_HomologyByXCorr_temp.a $(OBJ)/aligns/KmerAlignCore.o $(OBJ)/analysis/AlignProbability.o $(OBJ)/analysis/CodonTranslate.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/CrossCorr.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/HomologyByXCorr.o $(OBJ)/analysis/MatchDynProg.o $(OBJ)/analysis/SeqChunk.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/HomologyByXCorr.o -L. $(LINK_LIBS) -l_HomologyByXCorr_temp
+	/bin/rm lib_HomologyByXCorr_temp.a
+HomologyByXCorrSlave:  checkLock
+HomologyByXCorrSlave:  analysis/AlignProbability.o analysis/CodonTranslate.o analysis/Coordinate.o analysis/CrossCorr.o analysis/DNAVector.o analysis/HomologyByXCorrSlave.o analysis/MatchDynProg.o analysis/SeqChunk.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/SComm.o util/mutil.o
+	/bin/rm -f lib_HomologyByXCorrSlave_temp.a
+	ar -qc lib_HomologyByXCorrSlave_temp.a $(OBJ)/analysis/AlignProbability.o $(OBJ)/analysis/CodonTranslate.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/CrossCorr.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/HomologyByXCorrSlave.o $(OBJ)/analysis/MatchDynProg.o $(OBJ)/analysis/SeqChunk.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/SComm.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/HomologyByXCorrSlave.o -L. $(LINK_LIBS) -l_HomologyByXCorrSlave_temp
+	/bin/rm lib_HomologyByXCorrSlave_temp.a
+MergeScaffoldsBySynteny:  checkLock
+MergeScaffoldsBySynteny:  analysis/Coordinate.o analysis/DNAVector.o analysis/MergeScaffoldsBySynteny.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_MergeScaffoldsBySynteny_temp.a
+	ar -qc lib_MergeScaffoldsBySynteny_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/MergeScaffoldsBySynteny.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/MergeScaffoldsBySynteny.o -L. $(LINK_LIBS) -l_MergeScaffoldsBySynteny_temp
+	/bin/rm lib_MergeScaffoldsBySynteny_temp.a
+MergeXCorrMatches:  checkLock
+MergeXCorrMatches:  analysis/CodonTranslate.o analysis/Coordinate.o analysis/CrossCorr.o analysis/DNAVector.o analysis/MergeXCorrMatches.o analysis/SequenceMatch.o analysis/XCorrDynProg.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_MergeXCorrMatches_temp.a
+	ar -qc lib_MergeXCorrMatches_temp.a $(OBJ)/analysis/CodonTranslate.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/CrossCorr.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/MergeXCorrMatches.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/analysis/XCorrDynProg.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/MergeXCorrMatches.o -L. $(LINK_LIBS) -l_MergeXCorrMatches_temp
+	/bin/rm lib_MergeXCorrMatches_temp.a
+MicroSyntenyPlot:  checkLock
+MicroSyntenyPlot:  analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o visual/Color.o visual/Eps.o visual/MicroSyntenyPlot.o
+	/bin/rm -f lib_MicroSyntenyPlot_temp.a
+	ar -qc lib_MicroSyntenyPlot_temp.a $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o $(OBJ)/visual/Color.o $(OBJ)/visual/Eps.o $(OBJ)/visual/MicroSyntenyPlot.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/visual/MicroSyntenyPlot.o -L. $(LINK_LIBS) -l_MicroSyntenyPlot_temp
+	/bin/rm lib_MicroSyntenyPlot_temp.a
+MultiAlignCola:  checkLock
+MultiAlignCola:  analysis/Coordinate.o analysis/DNAVector.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/Alignment.o src/AlignmentBlock.o src/Cola/AlignmentCola.o src/Cola/AlignmentSet.o src/Cola/Cola.o src/Cola/EditGraph.o src/Cola/MultiAlignCola.o src/Cola/NOIAligner.o src/Cola/NSGAaligner.o src/Cola/NSaligner.o src/Cola/SWGAaligner.o util/mutil.o
+	/bin/rm -f lib_MultiAlignCola_temp.a
+	ar -qc lib_MultiAlignCola_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/Alignment.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Cola/AlignmentCola.o $(OBJ)/src/Cola/AlignmentSet.o $(OBJ)/src/Cola/Cola.o $(OBJ)/src/Cola/EditGraph.o $(OBJ)/src/Cola/MultiAlignCola.o $(OBJ)/src/Cola/NOIAligner.o $(OBJ)/src/Cola/NSGAaligner.o $(OBJ)/src/Cola/NSaligner.o $(OBJ)/src/Cola/SWGAaligner.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Cola/MultiAlignCola.o -L. $(LINK_LIBS) -l_MultiAlignCola_temp
+	/bin/rm lib_MultiAlignCola_temp.a
+OrderOrientBySynteny:  checkLock
+OrderOrientBySynteny:  analysis/Coordinate.o analysis/DNAVector.o analysis/OrderOrientBySynteny.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_OrderOrientBySynteny_temp.a
+	ar -qc lib_OrderOrientBySynteny_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/OrderOrientBySynteny.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/OrderOrientBySynteny.o -L. $(LINK_LIBS) -l_OrderOrientBySynteny_temp
+	/bin/rm lib_OrderOrientBySynteny_temp.a
+OrientTranscripts:  checkLock
+OrientTranscripts:  analysis/Coordinate.o analysis/DNAVector.o analysis/OrientTranscripts.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_OrientTranscripts_temp.a
+	ar -qc lib_OrientTranscripts_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/OrientTranscripts.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/OrientTranscripts.o -L. $(LINK_LIBS) -l_OrientTranscripts_temp
+	/bin/rm lib_OrientTranscripts_temp.a
+PapayaDetails:  checkLock
+PapayaDetails:  analysis/AlignProbability.o analysis/Coordinate.o analysis/DNAVector.o analysis/SatsumaAlign.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o src/DPAlign.o src/Papaya/PapayaDetails.o util/mutil.o
+	/bin/rm -f lib_PapayaDetails_temp.a
+	ar -qc lib_PapayaDetails_temp.a $(OBJ)/analysis/AlignProbability.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/SatsumaAlign.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/DPAlign.o $(OBJ)/src/Papaya/PapayaDetails.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Papaya/PapayaDetails.o -L. $(LINK_LIBS) -l_PapayaDetails_temp
+	/bin/rm lib_PapayaDetails_temp.a
+PapayaSeed:  checkLock
+PapayaSeed:  aligns/KmerAlignCore.o aligns/KmerDynProg.o analysis/Coordinate.o analysis/DNAVector.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o src/Papaya/PapayaSeed.o util/mutil.o
+	/bin/rm -f lib_PapayaSeed_temp.a
+	ar -qc lib_PapayaSeed_temp.a $(OBJ)/aligns/KmerAlignCore.o $(OBJ)/aligns/KmerDynProg.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Papaya/PapayaSeed.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Papaya/PapayaSeed.o -L. $(LINK_LIBS) -l_PapayaSeed_temp
+	/bin/rm lib_PapayaSeed_temp.a
+ReverseSatsumaOut:  checkLock
+ReverseSatsumaOut:  base/ErrorHandling.o base/FileParser.o base/StringUtil.o tools/ReverseSatsumaOut.o util/mutil.o
+	/bin/rm -f lib_ReverseSatsumaOut_temp.a
+	ar -qc lib_ReverseSatsumaOut_temp.a $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/tools/ReverseSatsumaOut.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/tools/ReverseSatsumaOut.o -L. $(LINK_LIBS) -l_ReverseSatsumaOut_temp
+	/bin/rm lib_ReverseSatsumaOut_temp.a
+Satsuma:  checkLock
+Satsuma:  analysis/Satsuma.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_Satsuma_temp.a
+	ar -qc lib_Satsuma_temp.a $(OBJ)/analysis/Satsuma.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/Satsuma.o -L. $(LINK_LIBS) -l_Satsuma_temp
+	/bin/rm lib_Satsuma_temp.a
+SatsumaPop:  checkLock
+SatsumaPop:  analysis/SatsumaPop.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_SatsumaPop_temp.a
+	ar -qc lib_SatsumaPop_temp.a $(OBJ)/analysis/SatsumaPop.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaPop.o -L. $(LINK_LIBS) -l_SatsumaPop_temp
+	/bin/rm lib_SatsumaPop_temp.a
+SatsumaStruct:  checkLock
+SatsumaStruct:  aligns/KmerAlignCore.o analysis/CodonTranslate.o analysis/Coordinate.o analysis/CrossCorr.o analysis/DNAVector.o analysis/MakeSixFrames.o analysis/SatsumaStruct.o analysis/SequenceMatch.o analysis/XCorrDynProg.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/SysTime.o util/mutil.o
+	/bin/rm -f lib_SatsumaStruct_temp.a
+	ar -qc lib_SatsumaStruct_temp.a $(OBJ)/aligns/KmerAlignCore.o $(OBJ)/analysis/CodonTranslate.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/CrossCorr.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/MakeSixFrames.o $(OBJ)/analysis/SatsumaStruct.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/analysis/XCorrDynProg.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/SysTime.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaStruct.o -L. $(LINK_LIBS) -l_SatsumaStruct_temp
+	/bin/rm lib_SatsumaStruct_temp.a
+SatsumaSummary:  checkLock
+SatsumaSummary:  analysis/SatsumaSummary.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_SatsumaSummary_temp.a
+	ar -qc lib_SatsumaSummary_temp.a $(OBJ)/analysis/SatsumaSummary.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaSummary.o -L. $(LINK_LIBS) -l_SatsumaSummary_temp
+	/bin/rm lib_SatsumaSummary_temp.a
+SatsumaSynteny:  checkLock
+SatsumaSynteny:  analysis/Coordinate.o analysis/DNAVector.o analysis/GridSearch.o analysis/MatchDynProg.o analysis/SatsumaSynteny.o analysis/SeqChunk.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/FindProcess.o util/SComm.o util/SysTime.o util/mutil.o
+	/bin/rm -f lib_SatsumaSynteny_temp.a
+	ar -qc lib_SatsumaSynteny_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/GridSearch.o $(OBJ)/analysis/MatchDynProg.o $(OBJ)/analysis/SatsumaSynteny.o $(OBJ)/analysis/SeqChunk.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/FindProcess.o $(OBJ)/util/SComm.o $(OBJ)/util/SysTime.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaSynteny.o -L. $(LINK_LIBS) -l_SatsumaSynteny_temp
+	/bin/rm lib_SatsumaSynteny_temp.a
+SatsumaSyntenyLight:  checkLock
+SatsumaSyntenyLight:  analysis/Coordinate.o analysis/DNAVector.o analysis/GridSearch.o analysis/MatchDynProg.o analysis/SatsumaSyntenyLight.o analysis/SeqChunk.o analysis/SequenceMatch.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/FindProcess.o util/SComm.o util/SysTime.o util/mutil.o
+	/bin/rm -f lib_SatsumaSyntenyLight_temp.a
+	ar -qc lib_SatsumaSyntenyLight_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/GridSearch.o $(OBJ)/analysis/MatchDynProg.o $(OBJ)/analysis/SatsumaSyntenyLight.o $(OBJ)/analysis/SeqChunk.o $(OBJ)/analysis/SequenceMatch.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/FindProcess.o $(OBJ)/util/SComm.o $(OBJ)/util/SysTime.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaSyntenyLight.o -L. $(LINK_LIBS) -l_SatsumaSyntenyLight_temp
+	/bin/rm lib_SatsumaSyntenyLight_temp.a
+SatsumaToFasta:  checkLock
+SatsumaToFasta:  analysis/Coordinate.o analysis/DNAVector.o analysis/SatsumaToFasta.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/AlignmentBlock.o util/mutil.o
+	/bin/rm -f lib_SatsumaToFasta_temp.a
+	ar -qc lib_SatsumaToFasta_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/SatsumaToFasta.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SatsumaToFasta.o -L. $(LINK_LIBS) -l_SatsumaToFasta_temp
+	/bin/rm lib_SatsumaToFasta_temp.a
+ScaffoldBySynteny:  checkLock
+ScaffoldBySynteny:  analysis/ScaffoldBySynteny.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_ScaffoldBySynteny_temp.a
+	ar -qc lib_ScaffoldBySynteny_temp.a $(OBJ)/analysis/ScaffoldBySynteny.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/ScaffoldBySynteny.o -L. $(LINK_LIBS) -l_ScaffoldBySynteny_temp
+	/bin/rm lib_ScaffoldBySynteny_temp.a
+SortSatsuma:  checkLock
+SortSatsuma:  analysis/SortSatsuma.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o util/mutil.o
+	/bin/rm -f lib_SortSatsuma_temp.a
+	ar -qc lib_SortSatsuma_temp.a $(OBJ)/analysis/SortSatsuma.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/analysis/SortSatsuma.o -L. $(LINK_LIBS) -l_SortSatsuma_temp
+	/bin/rm lib_SortSatsuma_temp.a
+SplitSatsuma:  checkLock
+SplitSatsuma:  base/ErrorHandling.o base/FileParser.o base/StringUtil.o tools/SplitSatsuma.o util/mutil.o
+	/bin/rm -f lib_SplitSatsuma_temp.a
+	ar -qc lib_SplitSatsuma_temp.a $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/tools/SplitSatsuma.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/tools/SplitSatsuma.o -L. $(LINK_LIBS) -l_SplitSatsuma_temp
+	/bin/rm lib_SplitSatsuma_temp.a
+TestSComm:  checkLock
+TestSComm:  base/ErrorHandling.o base/FileParser.o base/StringUtil.o test/TestSComm.o util/SComm.o util/mutil.o
+	/bin/rm -f lib_TestSComm_temp.a
+	ar -qc lib_TestSComm_temp.a $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/test/TestSComm.o $(OBJ)/util/SComm.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/test/TestSComm.o -L. $(LINK_LIBS) -l_TestSComm_temp
+	/bin/rm lib_TestSComm_temp.a
+findColaSigDist:  checkLock
+findColaSigDist:  analysis/Coordinate.o analysis/DNAVector.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o extern/easel/easel.o extern/easel/esl_gumbel.o extern/easel/esl_stats.o src/Alignment.o src/AlignmentBlock.o src/Cola/AlignmentCola.o src/Cola/Cola.o src/Cola/EditGraph.o src/Cola/NSGAaligner.o src/Cola/NSaligner.o src/Cola/SWGAaligner.o src/Cola/findColaSigDist.o util/mutil.o
+	/bin/rm -f lib_findColaSigDist_temp.a
+	ar -qc lib_findColaSigDist_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/extern/easel/easel.o $(OBJ)/extern/easel/esl_gumbel.o $(OBJ)/extern/easel/esl_stats.o $(OBJ)/src/Alignment.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Cola/AlignmentCola.o $(OBJ)/src/Cola/Cola.o $(OBJ)/src/Cola/EditGraph.o $(OBJ)/src/Cola/NSGAaligner.o $(OBJ)/src/Cola/NSaligner.o $(OBJ)/src/Cola/SWGAaligner.o $(OBJ)/src/Cola/findColaSigDist.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Cola/findColaSigDist.o -L. $(LINK_LIBS) -l_findColaSigDist_temp
+	/bin/rm lib_findColaSigDist_temp.a
+runCola:  checkLock
+runCola:  analysis/Coordinate.o analysis/DNAVector.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/Alignment.o src/AlignmentBlock.o src/Cola/AlignmentCola.o src/Cola/Cola.o src/Cola/EditGraph.o src/Cola/NSGAaligner.o src/Cola/NSaligner.o src/Cola/SWGAaligner.o src/Cola/runCola.o util/mutil.o
+	/bin/rm -f lib_runCola_temp.a
+	ar -qc lib_runCola_temp.a $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/Alignment.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Cola/AlignmentCola.o $(OBJ)/src/Cola/Cola.o $(OBJ)/src/Cola/EditGraph.o $(OBJ)/src/Cola/NSGAaligner.o $(OBJ)/src/Cola/NSaligner.o $(OBJ)/src/Cola/SWGAaligner.o $(OBJ)/src/Cola/runCola.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Cola/runCola.o -L. $(LINK_LIBS) -l_runCola_temp
+	/bin/rm lib_runCola_temp.a
+runPapaya:  checkLock
+runPapaya:  analysis/SatsumaAlign.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o src/Papaya/runPapaya.o util/mutil.o
+	/bin/rm -f lib_runPapaya_temp.a
+	ar -qc lib_runPapaya_temp.a $(OBJ)/analysis/SatsumaAlign.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/src/Papaya/runPapaya.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Papaya/runPapaya.o -L. $(LINK_LIBS) -l_runPapaya_temp
+	/bin/rm lib_runPapaya_temp.a
+runPapayaCola:  checkLock
+runPapayaCola:  aligns/KmerAlignCore.o aligns/KmerDynProg.o analysis/AlignProbability.o analysis/Coordinate.o analysis/DNAVector.o analysis/SatsumaAlign.o base/ErrorHandling.o base/FileParser.o base/StringUtil.o base/ThreadHandler.o src/Alignment.o src/AlignmentBlock.o src/Cola/AlignmentCola.o src/Cola/Cola.o src/Cola/EditGraph.o src/Cola/NSGAaligner.o src/Cola/NSaligner.o src/Cola/SWGAaligner.o src/DPAlign.o src/Papaya/Papaya.o src/Papaya/runPapayaCola.o util/mutil.o
+	/bin/rm -f lib_runPapayaCola_temp.a
+	ar -qc lib_runPapayaCola_temp.a $(OBJ)/aligns/KmerAlignCore.o $(OBJ)/aligns/KmerDynProg.o $(OBJ)/analysis/AlignProbability.o $(OBJ)/analysis/Coordinate.o $(OBJ)/analysis/DNAVector.o $(OBJ)/analysis/SatsumaAlign.o $(OBJ)/base/ErrorHandling.o $(OBJ)/base/FileParser.o $(OBJ)/base/StringUtil.o $(OBJ)/base/ThreadHandler.o $(OBJ)/src/Alignment.o $(OBJ)/src/AlignmentBlock.o $(OBJ)/src/Cola/AlignmentCola.o $(OBJ)/src/Cola/Cola.o $(OBJ)/src/Cola/EditGraph.o $(OBJ)/src/Cola/NSGAaligner.o $(OBJ)/src/Cola/NSaligner.o $(OBJ)/src/Cola/SWGAaligner.o $(OBJ)/src/DPAlign.o $(OBJ)/src/Papaya/Papaya.o $(OBJ)/src/Papaya/runPapayaCola.o $(OBJ)/util/mutil.o
+	$(BIN)/checkLock $(BIN)/$@
+	$(CPLUSPLUS) $(LINK_OPTIONS) -o $(BIN)/$@  $(OBJ)/src/Papaya/runPapayaCola.o -L. $(LINK_LIBS) -l_runPapayaCola_temp
+	/bin/rm lib_runPapayaCola_temp.a
+
+# Target lists
+
+OBJECTS = \
+  aligns/KmerAlignCore.o\
+  aligns/KmerDynProg.o\
+  analysis/AlignProbability.o\
+  analysis/BlockDisplaySatsuma.o\
+  analysis/ChainMatches.o\
+  analysis/CodonTranslate.o\
+  analysis/ColaAlignSatsuma.o\
+  analysis/Coordinate.o\
+  analysis/CrossCorr.o\
+  analysis/DNAVector.o\
+  analysis/FilterGridSeeds.o\
+  analysis/GridSearch.o\
+  analysis/HomologyByXCorr.o\
+  analysis/HomologyByXCorrSlave.o\
+  analysis/MakeSixFrames.o\
+  analysis/MatchDynProg.o\
+  analysis/MergeScaffoldsBySynteny.o\
+  analysis/MergeXCorrMatches.o\
+  analysis/OrderOrientBySynteny.o\
+  analysis/OrientTranscripts.o\
+  analysis/RefineSatsuma.o\
+  analysis/Satsuma.o\
+  analysis/SatsumaAlign.o\
+  analysis/SatsumaPop.o\
+  analysis/SatsumaStruct.o\
+  analysis/SatsumaSummary.o\
+  analysis/SatsumaSynteny.o\
+  analysis/SatsumaSyntenyLight.o\
+  analysis/SatsumaToFasta.o\
+  analysis/ScaffoldBySynteny.o\
+  analysis/SeqChunk.o\
+  analysis/SequenceMatch.o\
+  analysis/SortSatsuma.o\
+  analysis/XCorrDynProg.o\
+  base/ErrorHandling.o\
+  base/FileParser.o\
+  base/StringUtil.o\
+  base/ThreadHandler.o\
+  extern/easel/easel.o\
+  extern/easel/esl_gumbel.o\
+  extern/easel/esl_stats.o\
+  src/Alignment.o\
+  src/AlignmentBlock.o\
+  src/Cola/AlignmentCola.o\
+  src/Cola/AlignmentSet.o\
+  src/Cola/Cola.o\
+  src/Cola/EditGraph.o\
+  src/Cola/MultiAlignCola.o\
+  src/Cola/NOIAligner.o\
+  src/Cola/NSGAaligner.o\
+  src/Cola/NSaligner.o\
+  src/Cola/SWGAaligner.o\
+  src/Cola/findColaSigDist.o\
+  src/Cola/runCola.o\
+  src/DPAlign.o\
+  src/Papaya/Papaya.o\
+  src/Papaya/PapayaDetails.o\
+  src/Papaya/PapayaSeed.o\
+  src/Papaya/runPapaya.o\
+  src/Papaya/runPapayaCola.o\
+  test/TestSComm.o\
+  tools/ReverseSatsumaOut.o\
+  tools/SplitSatsuma.o\
+  util/FindProcess.o\
+  util/SComm.o\
+  util/SysTime.o\
+  util/mutil.o\
+  visual/ChromosomePaint.o\
+  visual/ChromosomePaintDensity.o\
+  visual/ChromosomePaintNs.o\
+  visual/Color.o\
+  visual/Eps.o\
+  visual/MicroSyntenyPlot.o\
+
+nolink: $(OBJECTS)
+
+EXECUTABLES = \
+  BlockDisplaySatsuma\
+  ChainMatches\
+  ChromosomePaint\
+  ChromosomePaintDensity\
+  ChromosomePaintNs\
+  ColaAlignSatsuma\
+  FilterGridSeeds\
+  HomologyByXCorr\
+  HomologyByXCorrSlave\
+  MergeScaffoldsBySynteny\
+  MergeXCorrMatches\
+  MicroSyntenyPlot\
+  MultiAlignCola\
+  OrderOrientBySynteny\
+  OrientTranscripts\
+  PapayaDetails\
+  PapayaSeed\
+  ReverseSatsumaOut\
+  Satsuma\
+  SatsumaPop\
+  SatsumaStruct\
+  SatsumaSummary\
+  SatsumaSynteny\
+  SatsumaSyntenyLight\
+  SatsumaToFasta\
+  ScaffoldBySynteny\
+  SortSatsuma\
+  SplitSatsuma\
+  TestSComm\
+  findColaSigDist\
+  runCola\
+  runPapaya\
+  runPapayaCola\
+
+everything: $(EXECUTABLES)
+
+.PHONY: analysis
+analysis: \
+  BlockDisplaySatsuma\
+  ChainMatches\
+  ColaAlignSatsuma\
+  FilterGridSeeds\
+  HomologyByXCorr\
+  HomologyByXCorrSlave\
+  MergeScaffoldsBySynteny\
+  MergeXCorrMatches\
+  OrderOrientBySynteny\
+  OrientTranscripts\
+  Satsuma\
+  SatsumaPop\
+  SatsumaStruct\
+  SatsumaSummary\
+  SatsumaSynteny\
+  SatsumaSyntenyLight\
+  SatsumaToFasta\
+  ScaffoldBySynteny\
+  SortSatsuma\
+
+.PHONY: src
+src: \
+  src.Cola\
+  src.Papaya\
+
+.PHONY: src.Cola
+src.Cola: \
+  MultiAlignCola\
+  findColaSigDist\
+  runCola\
+
+.PHONY: src.Papaya
+src.Papaya: \
+  PapayaDetails\
+  PapayaSeed\
+  runPapaya\
+  runPapayaCola\
+
+.PHONY: test
+test: \
+  TestSComm\
+
+.PHONY: tools
+tools: \
+  ReverseSatsumaOut\
+  SplitSatsuma\
+
+.PHONY: visual
+visual: \
+  ChromosomePaint\
+  ChromosomePaintDensity\
+  ChromosomePaintNs\
+  MicroSyntenyPlot\
+
